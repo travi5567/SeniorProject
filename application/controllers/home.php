@@ -32,13 +32,12 @@ class Home extends CI_Controller {
   }
 
  function deleteFolder() {
-     if(array_key_exists('deleteMe',$_POST)) {
-          $checkbox = $this->input->post['checkbox'];
-          
-          $this->index_model->deleteFolder($checkbox);
-     }
-     $this->folderdeleted();
+   if($this->input->post('checkbox') !== false) {
+      $checkbox = $this->input->post('checkbox');
+      $this->index_model->deleteFolder($checkbox);
    }
+ $this->folderdeleted();
+}
 
   function foldercreated() {
     $this->load->view('partials/foldercreated');
