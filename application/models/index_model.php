@@ -31,10 +31,10 @@ class index_model extends CI_Model {
   }
 
   function deleteFolder($checkbox) {
-    $this->db->where('folderName', 'folderName'); 
-    $this->db->delete('senior', $checkbox);
-    return;
-  }
+  $this->db->where('folderName', $checkbox); 
+  $this->db->delete('senior');
+return;
+}
 
 		
 	}
