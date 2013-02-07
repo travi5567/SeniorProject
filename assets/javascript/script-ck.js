@@ -1,0 +1,1 @@
+$(document).ready(function(){$(window).width()<960?alert("Less than 960"):alert("More than 960");$(".delete").hide();$(".removeFolder").toggle(function(){$(".delete").show()},function(){$(".delete").hide()});$("#cf_form").validate({rules:{name:{required:!0,minlength:3}}})});

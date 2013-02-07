@@ -1,0 +1,1647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"folder",
+				"folderName"
+			],
+			[
+				"inde",
+				"index_model"
+			],
+			[
+				"tasks",
+				"tasks_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass/screen.sass",
+			"settings":
+			{
+				"buffer_size": 6242,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/javascript/script.js",
+			"settings":
+			{
+				"buffer_size": 767,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/config.php",
+			"settings":
+			{
+				"buffer_size": 13161,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/layouts/home.php",
+			"settings":
+			{
+				"buffer_size": 1920,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/home.php",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/partial/foldercreated.php",
+			"settings":
+			{
+				"buffer_size": 827,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/index_model.php",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n\n/*\n *---------------------------------------------------------------\n * APPLICATION ENVIRONMENT\n *---------------------------------------------------------------\n *\n * You can load different configurations depending on your\n * current environment. Setting the environment also influences\n * things like logging and error reporting.\n *\n * This can be set to anything, but default usage is:\n *\n *     development\n *     testing\n *     production\n *\n * NOTE: If you change these, also change the error_reporting() code below\n *\n */\n\nswitch (dirname(__FILE__)) {\n    case '/Applications/MAMP/htdocs/SeniorProject':\n        define('ENVIRONMENT', 'development');\n        break;\n    default:\n        define('ENVIRONMENT', 'production');\n        break;\n}\n\n\n/*\n *---------------------------------------------------------------\n * ERROR REPORTING\n *---------------------------------------------------------------\n *\n * Different environments will require different levels of error reporting.\n * By default development will show errors but testing and live will hide them.\n */\n\nif (defined('ENVIRONMENT'))\n{\n	switch (ENVIRONMENT)\n	{\n		case 'development':\n			error_reporting(E_ALL | E_STRICT);\n		break;\n		case 'staging':\n		case 'production':\n			error_reporting(0);\n		break;\n		default:\n			exit('The application environment is not set correctly.');\n	}\n}\n\n/*\n *---------------------------------------------------------------\n * SYSTEM FOLDER NAME\n *---------------------------------------------------------------\n *\n * This variable must contain the name of your \"system\" folder.\n * Include the path if the folder is not in the same  directory\n * as this file.\n *\n */\n	$system_path = 'system';\n\n/*\n *---------------------------------------------------------------\n * APPLICATION FOLDER NAME\n *---------------------------------------------------------------\n *\n * If you want this front controller to use a different \"application\"\n * folder then the default one you can set its name here. The folder\n * can also be renamed or relocated anywhere on your server.  If\n * you do, use a full server path. For more info please see the user guide:\n * http://codeigniter.com/user_guide/general/managing_apps.html\n *\n * NO TRAILING SLASH!\n *\n */\n	$application_folder = 'application';\n\n/*\n * --------------------------------------------------------------------\n * DEFAULT CONTROLLER\n * --------------------------------------------------------------------\n *\n * Normally you will set your default controller in the routes.php file.\n * You can, however, force a custom routing by hard-coding a\n * specific controller class/function here.  For most applications, you\n * WILL NOT set your routing here, but it's an option for those\n * special instances where you might want to override the standard\n * routing in a specific front controller that shares a common CI installation.\n *\n * IMPORTANT:  If you set the routing here, NO OTHER controller will be\n * callable. In essence, this preference limits your application to ONE\n * specific controller.  Leave the function name blank if you need\n * to call functions dynamically via the URI.\n *\n * Un-comment the $routing array below to use this feature\n *\n */\n	// The directory name, relative to the \"controllers\" folder.  Leave blank\n	// if your controller is not in a sub-folder within the \"controllers\" folder\n	// $routing['directory'] = '';\n\n	// The controller class file name.  Example:  Mycontroller\n	// $routing['controller'] = '';\n\n	// The controller function you wish to be called.\n	// $routing['function']	= '';\n\n\n/*\n * -------------------------------------------------------------------\n *  CUSTOM CONFIG VALUES\n * -------------------------------------------------------------------\n *\n * The $assign_to_config array below will be passed dynamically to the\n * config class when initialized. This allows you to set custom config\n * items or override any default config values found in the config.php file.\n * This can be handy as it permits you to share one application between\n * multiple front controller files, with each file containing different\n * config values.\n *\n * Un-comment the $assign_to_config array below to use this feature\n *\n */\n	// $assign_to_config['name_of_config_item'] = 'value of config item';\n\n\n\n// --------------------------------------------------------------------\n// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE\n// --------------------------------------------------------------------\n\n/*\n * ---------------------------------------------------------------\n *  Resolve the system path for increased reliability\n * ---------------------------------------------------------------\n */\n\n	// Set the current directory correctly for CLI requests\n	if (defined('STDIN'))\n	{\n		chdir(dirname(__FILE__));\n	}\n\n	if (realpath($system_path) !== FALSE)\n	{\n		$system_path = realpath($system_path).'/';\n	}\n\n	// ensure there's a trailing slash\n	$system_path = rtrim($system_path, '/').'/';\n\n	// Is the system path correct?\n	if ( ! is_dir($system_path))\n	{\n		exit(\"Your system folder path does not appear to be set correctly. Please open the following file and correct this: \".pathinfo(__FILE__, PATHINFO_BASENAME));\n	}\n\n/*\n * -------------------------------------------------------------------\n *  Now that we know the path, set the main path constants\n * -------------------------------------------------------------------\n */\n	// The name of THIS file\n	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));\n\n	// The PHP file extension\n	// this global constant is deprecated.\n	define('EXT', '.php');\n\n	// Path to the system folder\n	define('BASEPATH', str_replace(\"\\\\\", \"/\", $system_path));\n\n	// Path to the front controller (this file)\n	define('FCPATH', str_replace(SELF, '', __FILE__));\n\n	// Name of the \"system folder\"\n	define('SYSDIR', trim(strrchr(trim(BASEPATH, '/'), '/'), '/'));\n\n\n	// The path to the \"application\" folder\n	if (is_dir($application_folder))\n	{\n		define('APPPATH', $application_folder.'/');\n	}\n	else\n	{\n		if ( ! is_dir(BASEPATH.$application_folder.'/'))\n		{\n			exit(\"Your application folder path does not appear to be set correctly. Please open the following file and correct this: \".SELF);\n		}\n\n		define('APPPATH', BASEPATH.$application_folder.'/');\n	}\n\n/*\n * --------------------------------------------------------------------\n * LOAD THE BOOTSTRAP FILE\n * --------------------------------------------------------------------\n *\n * And away we go...\n *\n */\nrequire_once BASEPATH.'core/CodeIgniter.php';\n\n/* End of file index.php */\n/* Location: ./index.php */",
+			"file": "index.php",
+			"file_size": 6548,
+			"file_write_time": 1359316481000000,
+			"settings":
+			{
+				"buffer_size": 6546,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 768,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"packcontr",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packco",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"sniht",
+				"Snippet: html5"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"snipp",
+				"Snippet: html5"
+			],
+			[
+				"packen",
+				"Package Control: Enable Package"
+			],
+			[
+				"packdi",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pal",
+				"Package Control: List Packages"
+			],
+			[
+				"GIS",
+				"Gist: Open Gist"
+			],
+			[
+				"GI",
+				"Gist: Insert Gist"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Travis/_n",
+		"/Users/Travis/36487",
+		"/Applications/MAMP/htdocs/SeniorProject/testme.php",
+		"/Users/Travis/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/Travis/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Applications/MAMP/htdocs/SeniorProject/.htaccess",
+		"/Applications/MAMP/htdocs/SeniorProject/config.rb",
+		"/Applications/MAMP/htdocs/SeniorProject/.git/COMMIT_EDITMSG",
+		"/Applications/MAMP/htdocs/SeniorProject/assets/javascript/jquery.validate.js",
+		"/Applications/MAMP/htdocs/SeniorProject/application/config/autoload.php",
+		"/Applications/MAMP/htdocs/SeniorProject/application/config/database.php",
+		"/Applications/MAMP/htdocs/SeniorProject/application/views/foldercreated.php",
+		"/Applications/MAMP/htdocs/SeniorProject/application/views/home.php",
+		"/Applications/MAMP/htdocs/SeniorProject/application/views/workouts.php",
+		"/Users/Travis/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/sass/screen.css",
+		"/Users/Travis/5961",
+		"/Applications/MAMP/htdocs/sublime/js/myscript.js",
+		"/Users/Travis/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Users/Travis/Library/Application Support/Sublime Text 2/Packages/User/html",
+		"/Users/Travis/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/ci/.firstapp",
+		"/Applications/MAMP/htdocs/ci/firstapp/sass/screen.scss",
+		"/Users/Travis/Desktop/databse.sql",
+		"/Applications/MAMP/htdocs/ci/firstapp/application/controllers/site.php",
+		"/Applications/MAMP/htdocs/ci/firstapp/application/views/home.php",
+		"/Applications/MAMP/htdocs/ci/firstapp/stylesheets/screen.css",
+		"/Applications/MAMP/htdocs/ci/firstapp/application/views/newsletter.php",
+		"/Applications/MAMP/htdocs/ci/firstapp/application/index.html",
+		"/Applications/MAMP/htdocs/ror/myapp/Gemfile",
+		"/Applications/MAMP/htdocs/rails_projects/myapp/app/views/tasks/index.html.erb",
+		"/Applications/MAMP/htdocs/rails_projects/myapp/spec/controllers/tasks_controller_spec.rb",
+		"/Applications/MAMP/htdocs/rails_projects/myapp/spec/models/list_spec.rb",
+		"/Applications/MAMP/htdocs/ci/firstapp/application/controllers/site_model.php",
+		"/Applications/MAMP/htdocs/CodeIgnitor/firstapp/css/screen.css",
+		"/Applications/MAMP/htdocs/CodeIgnitor/app/application/assets/css/app.css",
+		"/Applications/MAMP/htdocs/CodeIgnitor/app/application/assets/javascript/app.js",
+		"/Applications/MAMP/htdocs/rails_projects/README",
+		"/Applications/MAMP/htdocs/rails_projects/cool_app/.gitignore",
+		"/.gitignor",
+		"/Users/Travis/.gitignore",
+		"/Users/Travis/TRAVISMICHAEL.NET",
+		"/Applications/MAMP/htdocs/PHPTEST/css/main.css",
+		"/Applications/MAMP/htdocs/PHPTEST/css/screen.css",
+		"/Applications/MAMP/htdocs/PHPTEST/inc/class.php",
+		"/Applications/MAMP/htdocs/phptest",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/inc/con.php",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/index.php",
+		"/Users/Travis/Library/Application Support/Sublime Text 2/Packages/User/mediaquerielayouts",
+		"/Users/Travis/Library/Application Support/Sublime Text 2/Packages/User/hello",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/inc/google.php",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/inc/footer.php",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/stylesheets/screen.css",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/j/modernizr-latest.js",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/j/greyscale.js",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/inc/header.php",
+		"/Applications/MAMP/htdocs/TRAVISMICHAEL.NET/index.html.haml",
+		"/Applications/MAMP/htdocs/TRAVIS-PORTFOLIO/index.php",
+		"/Applications/MAMP/htdocs/ZZCODEKIT/index.html.html",
+		"/Applications/MAMP/htdocs/ZZCODEKIT/index.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"display",
+			"delete",
+			"display",
+			"DISPLAY",
+			"display",
+			"DISPLAY",
+			"display",
+			".folder",
+			"display:",
+			"360px",
+			"51",
+			"45",
+			"min",
+			"min-height",
+			"bottom",
+			"34",
+			"600px",
+			">\n",
+			"this.hide",
+			"}\n",
+			"localhost:8888",
+			"workouts",
+			"<form>\n              <input type=\"checkbox\" id=\"checkbox\"/>\n            </form>",
+			"resume",
+			"#090",
+			"input",
+			"abbs",
+			"phone",
+			"job_description",
+			"email",
+			"Email",
+			"email",
+			"name",
+			"legs",
+			"bench",
+			"phone",
+			"job_description",
+			"name",
+			"email",
+			"workouts",
+			"email",
+			"comment",
+			"Comment",
+			"comment",
+			"title",
+			"employee",
+			"red",
+			"h1",
+			"$records as ",
+			"max",
+			"passlocal",
+			"admin",
+			"filename",
+			"require",
+			"include",
+			"create",
+			"middle",
+			"favorites",
+			"footer",
+			"Footer",
+			"footer",
+			"\n            ",
+			"newsletter",
+			"wrapper",
+			"footer",
+			"‰PNG",
+			"‰PNG  IHDR‰tEXtSoftwareAdobe ImageReadyqÉe<�$iTXtXML:com.adobe.xmp ´ã|‘$IDATxÚbd``ØÏ@EÀÄ@e0jà¨£Ž8jàP1 À:ßçˆoÁ2IEND®B`‚",
+			"0",
+			"‰PNG  IHDR‰",
+			"‰PNG",
+			"‰PNG  IHDR‰tEXtSoftwareAdobe ImageReadyqÉe<�$iTXtXML:com.adobe.xmp ´ã|‘$IDATxÚbd``ØÏ@EÀÄ@e0jà¨£Ž8jàP1 À:ßçˆoÁ2IEND®B`‚",
+			"pink",
+			"      padding: 0\n",
+			"pink",
+			"footer",
+			"FOOTER",
+			"footer",
+			"Footer",
+			"<!--GOOGLE TRACKER  -->\n$orange",
+			"<!--GOOGLE TRACKER  -->\norange",
+			"<!--GOOGLE TRACKER  -->\n<?php include'inc/google.php'; ?>",
+			"border",
+			">\n",
+			"border",
+			"border: ",
+			"border: 3px",
+			"border: 4px",
+			"border: 2px",
+			"border: 3px",
+			"illustration",
+			"display: none",
+			"display: none	",
+			".illustration",
+			"border",
+			"show",
+			"info",
+			"span",
+			"$blue",
+			".ie",
+			"#b52121",
+			"#217bb5",
+			"#7fb521",
+			"fbfbfb",
+			"#middle",
+			"#Middle",
+			"require",
+			"equir",
+			"none",
+			"hover",
+			".blog",
+			"#f2f2f2",
+			"5px",
+			"alt=\"InHealth CDS\"",
+			"5",
+			"#7fb521",
+			"#b52121",
+			"#b57510",
+			"#217bb5",
+			"images",
+			"(images",
+			"width",
+			"float",
+			"box",
+			"\n  #page-wrap"
+		],
+		"highlight": false,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".contact",
+			"$white",
+			"/*\n *Theme Name: tmdesigns\n *Theme URI: http://www.travismichael.net\n *Description: A premium theme by Travis Heller of Travismichael.net.\n *Version: 1.0\n *Author: Travis Heller\n *Author URI: http://www.travismichael.net\n\n/*     \n * * Travismichael Designs and Portfolio\n * * Copyright 2012, Travis M. Heller\n * * www.travismichael.net\n\n/* Table of Content\n *==================================================\n *	#Top Header Bar\n *	#Middle Content Styles\n *	#Bottom Styling [Recent Work and Thumbnail Section]\n *	#Footer\n *	#Favorite\n *	#Contac\n *	#Navigation\n *	#Work Page Styling\n *	#Service Page Styling\n\n/* #Site Styles\n *==================================================\n\n/* #VARIALBLES FOR SASS/COMPASS\n *================================================== */\n\n$blue: #217bb5\n$orange: #b57510 \n$pink: #b52121\n$green: #7fb521\n\n/* #Site Styles\n *================================================== */\n\n/* ================= MAKE HTML TAGS DISPLAY AS BLOCK ELEMENTS ===============================\n\narticle, aside, details, div, figure, footer, header, hgroup, nav, section, summary\n  display: block\n\n/* ================= MAKE HTML TAGS DISPLAY AS BLOCK ELEMENTS ===============================\n\nbody\n  background: #000\n\n.container\n  position: relative\n  width: 1096px\n  margin: 0 auto\n  padding: 0\n\n.left\n  float: left\n\n.right\n  float: right\n\n.clear\n  clear: both\n\n#header\n  width: 1096px\n  height: 221px\n  position: relative\n  background: url(../images/header_bg3.jpg) repeat-x center\n\n#backdrop\n  position: absolute\n  top: 0\n  left: 0\n  z-index: 5000\n  width: 100%\n  height: 100%\n  display: block\n  background: #000\n  opacity: .9\n  -moz-opacity: .9\n  -webkit-opacity: .9\n\n.hide\n  display: none\n\n/* TOP-HEADER\n *==================================================\n\n#topheaderContainer\n  position: relative\n  width: 100%\n  height: 20px\n  background: url(../images/bottom_shelf.jpg) repeat-x $orange bottom\n  border-bottom: 1px solid #000\n  padding: 2px 0 2px 0px\n  margin: 0\n  color: #ccc\n  z-index: 1000\n  min-width: 1096px\n\n#topheader\n  position: relative\n  height: 300px\n  width: 1096px\n  margin: 0 auto 0px\n  display: none\n\n#middle\n  width: 1096px\n  min-height: 340px\n  display: block\n  margin: 0\n  padding: 0\n  clear: both\n  background: #fbfbfb\n  .wrapper\n    width: 1000px\n    overflow: hidden\n    margin: 0 auto 0px\n\n#box\n  float: left\n  width: 340px\n  height: 320px\n\n.boxblue, .boxorange, .boxpink, .boxgreen\n  position: relative\n  width: 146px\n  height: 146px\n  margin: 10px 4px 4px 4px\n  padding: 2px\n  display: block\n  float: left\n  overflow: hidden\n\n.boxblue\n  background: $blue\n\n.boxorange\n  background: $orange\n\n.boxpink\n  background: $pink\n\n.boxgreen\n  background: #7fb521\n\n#box\n  p\n    line-height: 100%\n    background: #fbfbfb\n    padding: 2px\n    text-align: center\n    width: 124px\n    margin: 66px auto 0px\n    font-family: Helvetica, sans-serif\n    font-weight: bold\n  span\n    display: block\n    text-align: center\n    color: #f2f2f2\n    padding: 3px\n    margin: 10px auto 0px\n    width: 100px\n  .desc\n    width: 146px\n    position: absolute\n    top: 150px\n    left: 0\n    background: rgba(0, 0, 0, 1)\n    text-align: center\n    padding: 2px\n    p\n      width: 90%\n      margin: 10px auto 0px\n      font-size: 12px\n      color: #f2f2f2\n      display: block\n      background: #222\n      color: #f2f2f2\n      padding: 5px 0px 5px\n      text-align: center\n      -moz-border-radius: 4px\n      -webkit-border-radius: 4px\n      border-radius: 4px\n  .boxblue:hover .desc, .boxorange:hover .desc, .boxpink:hover .desc, .boxgreen:hover .desc\n    position: absolute\n    top: 0\n    left: 0\n    background: rgba(0, 0, 0, 1)\n    color: #f2f2f2\n    z-index: 100\n    height: 150px\n    -webkit-transition: all .5s ease-out 0s\n    -moz-transition: all .5s ease-out 0s\n    -ms-transition: all .5s ease-out 0s\n    -o-transition: all .5s ease-out 0s\n    transition: all .5s ease-out 0s\n  .boxblue .desc p\n    color: $blue\n  .boxorange .desc p\n    color: $orange\n  .boxpink .desc p\n    color: $pink\n  .boxgreen .desc p\n    color: #7fb521\n\n#bigbox\n  position: relative\n  width: 620px\n  height: 315px\n  margin: 10px\n  padding: 2px\n  float: right\n  .addone\n    background: url(../images/banners/add1.png) no-repeat\n    width: 620px\n    height: 330px\n    position: absolute\n    top: -9px\n    left: 0\n  .addtwo\n    background: url(../images/banners/add2.jpg) no-repeat\n    width: 620px\n    height: 330px\n    position: absolute\n    top: 0\n    left: 0\n  .addthree\n    background: url(../images/banners/add3.jpg) no-repeat\n    width: 620px\n    height: 330px\n    position: absolute\n    top: 0\n    left: 0\n\n/* #ADD IMAGES\n *==================================================\n\n/* #bigbox .addone:hover {background:url(../images/banners/add1hover.png) no-repeat;}\n\n/* #BOTTTOM STYLING\n *==================================================\n\n#bottom\n  width: 1096px\n  display: block\n  margin: 0px\n  clear: both\n  padding-top: 35px\n  background: url(../images/bottom_shelf.jpg) repeat-x top #111111\n  .wrapper\n    width: 100%\n    overflow: hidden\n    background: #222\n    padding-top: 5px\n    padding-bottom: 0\n    border-bottom: 1px solid #000\n    border-top: 1px solid #000\n  .topleft\n    width: 700px\n    display: block\n    padding: 10px 10px 0 10px\n    float: left\n  .topright\n    width: 300px\n    height: 150px\n    display: block\n    padding: 10px 10px 0 20px\n    float: right\n    background: url(../images/hr-verticle.png) repeat-y left\n  a\n    &.requestbtn\n      width: 174px\n      height: 41px\n      display: block\n      background: url(../images/buttons/requestbtn.png) no-repeat right\n      text-indent: -2000px\n      text-decoration: none\n      margin: 0 0px 10px 0px\n    &.resumebtn\n      width: 174px\n      height: 41px\n      display: block\n      background: url(../images/buttons/resumebtn.png) no-repeat\n      text-indent: -2000px\n      text-decoration: none\n      margin: 0 0px 10px 0px\n  .recentwork\n    width: 100%\n    position: relative\n    margin: 0px\n    padding: 0px\n    clear: none\n    .ribbon\n      position: absolute\n      width: 149px\n      height: 149px\n      background: url(../images/ribbon2.png) no-repeat top left\n      top: 0\n      left: 0\n    .wrapper\n      position: relative\n      width: 925px\n      height: 280px\n      margin: 0 auto 0\n      border: none\n      background: none\n      .rwdiv\n        width: 200px\n        height: 200px\n        float: left\n        background: #000\n        border: 4px solid #fbfbfb\n        display: inline\n        margin: 50px 50px 0px 50px\n        position: relative\n        .content\n          position: relative\n          display: block\n          width: 200px\n          height: 200px\n          overflow: hidden\n          a\n            width: 100%\n            height: 100%\n            cursor: pointer\n            text-decoration: none\n    .numberbox\n      width: 35px\n      height: 39px\n      margin: 0\n      padding: 0\n      position: absolute\n      top: -15px\n      left: -15px\n      z-index: 50\n      padding: 5px\n      color: #fbfbfb\n    .wrapper .rwdiv .numberbox\n      &.one\n        background: url(../images/rw-1.png) no-repeat\n      &.two\n        background: url(../images/rw-2.png) no-repeat\n      &.three\n        background: url(../images/rw-3.png) no-repeat\n    .caption\n      display: none\n      position: absolute\n      top: 175px\n      left: 0\n      background: url(../images/blacktile.png) repeat\n      text-align: center\n      display: block\n      width: 100%\n      height: 25px\n  .wrapper .rwdiv:hover .caption\n    top: 0\n    height: 200px\n    -webkit-transition: all .5s ease-out 0s\n    -moz-transition: all .5s ease-out 0s\n    -ms-transition: all .5s ease-out 0s\n    -o-transition: all .5s ease-out 0s\n    transition: all .5s ease-out 0s\n  .recentwork .caption\n    h6\n      padding: 4px 0\n      background: #000\n      display: block\n      color: #fff\n    p\n      color: #007bb4\n      font-style: italic\n      font-size: 12px\n      background: #000\n      padding: 5px 0\n  .wrapper .rwdiv:hover h6\n    margin-top: 100px\n    -webkit-transition: all .5s ease-out 0s\n    -moz-transition: all .5s ease-out 0s\n    -ms-transition: all .5s ease-out 0s\n    -o-transition: all .5s ease-out 0s\n    transition: all .5s ease-out 0s\n  .recentwork div h6\n    padding: 3px\n    color: #fbfbfb\n\n.caption h6:hover\n  padding: 3px\n  color: #fbfbfb\n\n#bottom .recentwork .wrapper .rwdiv img\n  width: 100%\n  height: 100%\n\n/* #FOOTER STYLING\n *==================================================\n\n.work #footer, .home #footer, .services #footer\n  width: 1096px\n  height: 250px\n  position: relative\n  display: block\n  background: url(../images/bottom_shelf.jpg) repeat-x top $blue\n  clear: both\n  border-bottom: 1px solid #333\n\n.home #footer h2, .work #footer h2, .services #footer h2\n  text-shadow: 1px 1px 2px #000000\n\n.home #footer\n  background: url(../images/bottom_shelf.jpg) repeat-x top $blue\n\n.work #footer\n  background: url(../images/bottom_shelf.jpg) repeat-x top $pink\n\n.services #footer\n  background: url(../images/bottom_shelf.jpg) repeat-x top $green\n\n.contact #footer\n  background: url(../images/bottom_shelf.jpg) repeat-x top $orange\n\n#footer\n  p\n    margin: 0\n    padding: 0\n  #footer-wrapper\n    padding: 50px 0px 0px 0px\n    margin: 0\n    overflow: hidden\n  ul\n    &.footer\n      width: 1000px\n      margin: 0 auto 0\n      color: #000\n      li\n        float: left\n        padding: 0 10px 0 10px\n        margin: 0 15px 0 15px\n        width: 200px\n        height: 180px\n        background: url(../images/hr-verticle-green.png) no-repeat top right\n        span\n          font-weight: bold\n          font-size: 100%\n      h2\n        margin: 0 0 15px 0px\n      img\n        position: relative\n    &.social\n      color: #000\n      float: left\n      margin: 0\n      padding: 0\n      li\n        display: inline\n        float: left\n        width: 24px\n        height: 25px\n        margin: 3px\n        padding: 0 10px 10px 0px\n        background: none\n        a\n          display: block\n          text-indent: -2000px\n          width: 24px\n          height: 25px\n          background: transparent url(../images/icons/footer-social-facebook.png) no-repeat left\n          &:hover!, &.facebook!, &.twitter!, &.facebook!\n    &.footer li form#newsletter-form\n      width: 200px\n      input\n        &#newsletter\n          margin: 5px 0 0 0\n        &[type=\"submit\"]\n          margin: 10px 10px 10px 0px\n\n/* #FAVORITES STYLING\n *==================================================\n\n#favorites h4\n  text-align: center\n  margin: 0\n  padding: 5px\n  background: url(../images/hr-horizontal.png) no-repeat bottom\n  cursor: pointer\n\n.home #favorites h4\n  color: $blue\n\n.work #favorites h4\n  color: $pink\n\n.services #favorites h4\n  color: $green\n\n.contact #favorites h4\n  color: $orange\n\n#favorites\n  width: 100%\n  position: absolute\n  overflow: hidden\n  z-index: 8000\n  margin: 0\n  padding: 0\n  background: #111\n  border-bottom: 1px solid #333\n  border-top: 1px solid #000\n  #favs-wrapper\n    padding-bottom: 20px\n    margin: 0 auto 0\n    background: #111\n    display: none\n    width: 1096px\n    .ulwrapper\n      width: 660px\n      margin: 0 auto\n      ul\n        width: 200px\n        margin: 10px\n        float: left\n        background: #111\n        li\n          margin: 0\n          padding: 0\n          border-top: 1px solid #222\n          border-bottom: 1px solid #000\n          border-left: 2px solid #222\n          a\n            color: #fbfbfb\n            text-decoration: none\n\n.home #favorites #favs-wrapper .ulwrapper ul li a:hover\n  color: $blue\n  text-decoration: none\n\n.work #favorites #favs-wrapper .ulwrapper ul li a:hover\n  color: $pink\n  text-decoration: none\n\n.services #favorites #favs-wrapper .ulwrapper ul li a:hover\n  color: $green\n  text-decoration: none\n\n.contact #favorites #favs-wrapper .ulwrapper ul li a:hover\n  color: $orange\n  text-decoration: none\n\n#favorites #favs-wrapper .ulwrapper ul li\n  &:first-child\n    border-top: none\n  &:last-child\n    border-bottom: none\n  a\n    padding: 10px\n    display: block\n    color: #fbfbfb\n    text-decoration: none\n  &:hover\n    background: #000\n\n.home #favorites #favs-wrapper .ulwrapper ul li:hover\n  border-left: 2px solid $blue\n\n.work #favorites #favs-wrapper .ulwrapper ul li:hover\n  border-left: 2px solid $pink\n\n.services #favorites #favs-wrapper .ulwrapper ul li:hover\n  border-left: 2px solid $green\n\n.contact #favorites #favs-wrapper .ulwrapper ul li:hover\n  border-left: 2px solid $orange\n\n/* #END OF FOOTER STYLING\n *==================================================\n\n/* #CONTACT STYLING\n *==================================================\n\n#contact\n  padding: 5px 10px 5px 10px\n  color: #222\n  font-variant: normal\n  span\n    color: #f2f2f2\n  h2!\n  h3, h4\n    color: #000\n  .leftcolumn\n    float: left\n    width: 750px\n    overflow: hidden\n    padding-right: 15px\n    background: url(../images/hr-verticle.png) repeat-y right\n  .rightcolumn\n    float: right\n    width: 230px\n    height: 250px\n    overflow: hidden\n    padding-left: 15px\n\n#contact-form\n  margin-top: 20px\n\n#contact .rightcolumn ul.social-list\n  width: 220px\n  li\n    text-indent: -2000px\n    width: 35px\n    height: 35px\n    float: left\n    margin: 5px\n    list-style: none\n    outline: none\n    border: 2px solid #fbfbfb\n    a\n      cursor: pointer\n      display: inline\n    &:hover\n      border: 2px solid #222\n\n.twitter, .youtube, .vimeo, .linkin, .rss, .wordpress, .skype, .facebook\n  background: #222\n\n.twitter\n  background: url(../images/icons/tw.png) no-repeat\n\n.youtube\n  background: url(../images/icons/ut.png) no-repeat\n\n.vimeo\n  background: url(../images/icons/vm.png) no-repeat\n\n.linkin\n  background: url(../images/icons/ln.png) no-repeat\n\n.rss\n  background: url(../images/icons/rs.png) no-repeat\n\n.wordpress\n  background: url(../images/icons/wp.png) no-repeat\n\n.skype\n  background: url(../images/icons/sk.png) no-repeat\n\n.facebook\n  background: url(../images/icons/fb.png) no-repeat\n\n/* ================= NAVIGATION-STYLING ===============================\n\n#nav\n  width: 870px\n  height: 102px\n  position: absolute\n  margin-left: -380px\n  left: 46%\n  top: 30px\n  z-index: 2\n\n#navigation\n  li\n    float: left\n    display: block\n    padding: 0\n    text-decoration: none\n    list-style: none\n    a\n      background-image: url(../images/nav4.png)\n      display: block\n      outline: none\n      position: relative\n      height: 101px\n      text-decoration: none\n      list-style: none\n      width: auto\n  .home\n    background-position: 0 0px\n    width: 164px\n    height: 101px\n  .work\n    background-position: -165px 0px\n    width: 169px\n    height: 101px\n  .blank\n    background-position: -335px 0px\n    width: 183px\n    height: 101px\n  .services\n    background-position: -518px 0px\n    width: 179px\n    height: 101px\n  .blog\n    background-position: -698px 0px\n    width: 150px\n    height: 101px\n  a .hover\n    background: transparent url(../images/nav4.png) no-repeat\n    display: block\n    opacity: 0\n    position: relative\n    top: 0\n    left: 0\n    height: 100%\n    width: 100%\n  .home .hover\n    background-position: 0px -101px\n\n#Page_home #navigation .home\n  background-position: 0px -101px\n\n#navigation .work .hover, #Page_work #navigation .work\n  background-position: -165px -101px\n\n#navigation\n  .blank .hover\n    background-position: -335px -101px\n  .services .hover\n    background-position: -518px -101px\n\n#Page_services #navigation .services\n  background-position: -518px -101px\n\n#navigation .blog .hover, #Page_blog #navigation .blog\n  background-position: -698px -101px\n\n#navigation\n  a :active\n    background: transparent url(../images/nav4.png) no-repeat\n    display: block\n    opacity: 0\n    position: relative\n    top: 0\n    left: 0\n    height: 100%\n    width: 100%\n  .home :active\n    background-position: 0px -202px\n  .work :active\n    background-position: -165px -202px\n  .blank :active\n    background-position: -335px -2020px\n  .services :active\n    background-position: -518px -202px\n  .blog :active\n    background-position: -698px -202px\n  .home.active\n    background-position: 0px -101px\n  .work.active\n    background-position: -165px -101px\n  .blank.active\n    background-position: -335px -101px\n  .services.active\n    background-position: -518px -101px\n  .blog.active\n    background-position: -698px -101px\n\n/*  END OF FORM NAVIGATION AND STYLING \n *================================================\n\n/*  WORK PAGE \n *================================================\n\nul.work\n  width: 980px\n  li\n    width: 430px\n    height: 150px\n    margin: 15px\n    float: left\n    display: inline\n    cursor: pointer\n    border: 1px solid #111\n    -moz-box-shadow: 0 0 5px #000\n    -webkit-box-shadow: 0 0 5px #000\n    box-shadow: 0 0 5px #000\n    &:hover\n      -moz-box-shadow: none\n      -webkit-box-shadow: none\n      box-shadow: none\n\n/*  SERVICE PAGE \n *================================================\n\n.services h1\n  text-align: center\n  color: #111\n  font-family: Arial, Helvetica, sans-serif\n\nhr\n  background: url(../images/hrline.png) repeat-x\n  width: 90%\n  height: 2px\n  margin: 10px auto 10px\n\n.services\n  #wrapper .wrapper\n    width: 1100px\n    font-family: Arial, Helvetica, sans-serif\n    p\n      line-height: 18px\n      color: #111\n  .wrapper\n    .serviceWrapper div\n      width: 190px\n      float: left\n      display: inline\n      margin: 10px\n      padding: 3px\n      h2\n        color: #111\n        text-align: center\n        font-family: Arial, Helvetica, sans-serif\n    .technologyweuse\n      width: 1000px\n      background: #fbfbfb\n      padding: 10px\n      div\n        width: 545px\n        float: left\n        padding: 5px\n      h2\n        color: #111\n        font-family: Arial, Helvetica, sans-serif\n      img\n        float: right\n        width: 445px\n      span.colorbox\n        background: #f90\n        padding: 2px 4px\n        -moz-border-radius: 5px\n        border-radius: 5px\n        _webkit-border-radius: 5px\n        margin: 2px\n        line-height: 25px\n        color: #fbfbfb\n        &.b\n          background: #007bb4\n        &.r\n          background: #c50720\n        &.o\n          background: #bf7317\n        &.g\n          background: #70b72c\n        &.p\n          background: #712cb7\n\n/* #Page Styles\n *================================================== */\n/* Centre the form within the page */\n.contact #contactform\n  width: 900px\n  margin: 0 auto\n  overflow: hidden\n  background: none\n  padding: 5px\n\n/* Style the text boxes */\n.contact #contactform input, textarea \n  width:  439px\n  height:  27px\n  border-radius:  5px\n  -moz-border-radius:  5px\n  -webkit-border-radius:  5px\n  border:  1px solid #dedede\n  padding:  5px\n  margin-top:  3px\n  font-size:  0.9em\n  color:  #3a3a3a\n\n  input:focus, textarea:focus \n    border:  1px solid #97d6eb\n  \n\n  textarea \n    height:  213px\n    font-family:  Arial, Helvetica, sans-serif\n    background: none\n\n  form \n    margin: 0 auto\n    width: 459px\n\n  label \n    display: block\n    margin-top: 5px\n    letter-spacing: c2px\n\n\n  \n\n\n#submit \n  height:  38px\n  width: 150px\n  border:  none\n  margin-top:  5px\n  cursor:  pointer\n  background:  #efefef\n  border-radius:  5px\n  -moz-border-radius:  5px\n  -webkit-border-radius:  5px\n  border:  1px solid #dedede\n  color: #222\n\n  #submit:hover \n    opacity:  0.9\n  \n\n\n\n/* #Media Queries\n *==================================================\n\n/* Smaller than standard 960 (devices and browsers)\n@media only screen and (max-width: 959px)\n\n/* Tablet Portrait size to standard 960 (devices and browsers)\n@media only screen and (min-width: 768px) and (max-width: 959px)\n\n/* All Mobile Sizes (devices and browser)\n@media only screen and (max-width: 767px)\n\n/* Mobile Landscape Size to Tablet Portrait (devices and browsers)\n@media only screen and (min-width: 480px) and (max-width: 767px)\n\n/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers)\n@media only screen and (max-width: 479px)\n\n/* #Font-Face\n *==================================================\n/* 	This is the proper syntax for an @font-face file\n *		Just create a \"fonts\" folder at the root,\n *		copy your FontName into code below and remove\n *		comment brackets\n\n/*	@font-face {\n *	    font-family: 'FontName';\n *	    src: url('../fonts/FontName.eot');\n *	    src: url('../fonts/FontName.eot?iefix') format('eot'),\n *	         url('../fonts/FontName.woff') format('woff'),\n *	         url('../fonts/FontName.ttf') format('truetype'),\n *	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');\n *	    font-weight: normal;\n *	    font-style: normal; }\n\n.work\n  #workbox\n    float: right\n    width: 450px\n    height: 315px\n    margin: 10px\n    padding: 0\n    font-family: \"Trebuchet MS\", Arial, Helvetica, sans-serif\n    color: #333333\n    p, h2, h3\n      font-family: \"Trebuchet MS\", Arial, Helvetica, sans-serif\n\n    p\n      font-size: 16px\n    h2\n      font-size: 24px\n      color: #111\n    h3\n      font-size: 18px\n      font-weight: bold\n      margin: 10px 0 5px 0\n      padding: 0\n      color: #333\n    ul\n      &.txt\n        float: left\n        width: 250px\n        margin: 0\n        padding: 0\n        li\n          line-height: 18px\n          display: block\n      &.boxes\n        float: left\n        width: 20px\n        margin: 0 10px 0 0\n        padding: 0\n        li\n          line-height: 18px\n          display: block\n          height: 18px\n          width: 18px\n          &.web\n            background: $blue\n          &.video\n            background: $pink\n          &.illustration\n            background: $green\n  #workbigbox\n    position: relative\n    width: 580px\n    height: 315px\n    margin: 10px\n    padding: 2px\n    float: left\n    background: #000\n\n  #bottom #workwrapper\n    width: 900px\n    padding: 20px 10px 20px\n    margin: 0 auto 0\n    overflow: hidden\n    height: 900px\n\n  .lefttab\n    width: 200px\n    overflow: hidden\n    float: left\n    margin: 10px\n\n\n    .work\n      width: 180px\n      background: #000\n      margin: 10px 0 10px\n      padding: 0\n      position: relative\n    .web\n      border-top: $blue 4px solid\n    .video\n      border-top: $pink 4px solid\n    .illustration\n      border-top: $green 4px solid\n\n 	\n    .work\n      .info a span\n        display: block\n        padding: 0\n        margin: 0\n      .web .info a span\n        color: $blue\n      .video .info a span\n        color: $pink\n      .illustration .info a span\n        color: $green\n      .web .info h2\n        background: $blue\n      .video .info h2\n        background: $pink\n      .illustration .info h2\n        background: $green\n      img\n        width: 180px\n        height: 150px\n      .info\n        width: 180px\n        height: 200px\n        overflow: hidden\n        h2\n          font-size: 18px\n          line-height: 18px\n          color: #f2f2f2\n          padding: 5px 0 5px\n          margin: 0\n          display: block\n          text-align: center\n        p\n          width: 180px\n          padding: 10px 3px 3px\n          color: #f2f2f2",
+			"#f2f2f2",
+			"$white",
+			"class=\"greyScale\" alt=\"InHealth CDS\"",
+			"$green",
+			"$pink",
+			"$orange",
+			"$blue"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass/screen.sass",
+					"settings":
+					{
+						"buffer_size": 6242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5200,
+								5200
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/javascript/script.js",
+					"settings":
+					{
+						"buffer_size": 767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 154.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/config/config.php",
+					"settings":
+					{
+						"buffer_size": 13161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/layouts/home.php",
+					"settings":
+					{
+						"buffer_size": 1920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								701,
+								701
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/controllers/home.php",
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/views/partial/foldercreated.php",
+					"settings":
+					{
+						"buffer_size": 827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								770,
+								770
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "application/models/index_model.php",
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 6546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "config.rb",
+					"settings":
+					{
+						"buffer_size": 768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config",
+				"config.rb"
+			],
+			[
+				"sas",
+				"sass/screen.sass"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"confi",
+				"application/config/config.php"
+			],
+			[
+				"auto",
+				"application/config/autoload.php"
+			],
+			[
+				"data",
+				"application/config/database.php"
+			],
+			[
+				"indemo",
+				"application/models/index_model.php"
+			],
+			[
+				"home",
+				"application/controllers/home.php"
+			],
+			[
+				"sc",
+				"assets/javascript/script.js"
+			],
+			[
+				"sass",
+				"sass/screen.sass"
+			],
+			[
+				"scr",
+				"assets/javascript/script.js"
+			],
+			[
+				"hom",
+				"application/views/home.php"
+			],
+			[
+				"screen.sass",
+				"sass/screen.sass"
+			],
+			[
+				"controllers/",
+				"application/controllers/workouts.php"
+			],
+			[
+				"views/",
+				"application/views/workouts.php"
+			],
+			[
+				"scre",
+				"stylesheets/screen.css"
+			],
+			[
+				"screen",
+				"sass/screen.css"
+			],
+			[
+				"inc/header",
+				"inc/header.php"
+			],
+			[
+				"inc/fo",
+				"inc/footer.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"",
+				"/Applications/MAMP/htdocs/ZZCODEKIT/stylesheets/screen.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true
+}

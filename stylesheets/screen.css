@@ -1,0 +1,488 @@
+/*Theme Name: tmdesigns
+ *Theme URI: http://www.travismichael.net
+ *Description: A premium theme by Travis Heller of Travismichael.net.
+ *Version: 1.0
+ *Author: Travis Heller
+ *Author URI: http://www.travismichael.net */
+/* * Travismichael Designs and Portfolio
+ * * Copyright 2012, Travis M. Heller
+ * * www.travismichael.net */
+/* ================= MAKE HTML TAGS DISPLAY AS BLOCK ELEMENTS =============================== */
+/* line 13, ../sass/screen.sass */
+article, aside, details, div, figure, footer, header, hgroup, nav, section, summary {
+  display: block; }
+
+/* ================= MAKE HTML TAGS DISPLAY AS BLOCK ELEMENTS =============================== */
+/* line 17, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+/* line 22, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1; }
+
+/* line 24, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none; }
+
+/* line 26, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 28, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle; }
+
+/* line 30, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none; }
+  /* line 103, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+  q:before, q:after, blockquote:before, blockquote:after {
+    content: "";
+    content: none; }
+
+/* line 32, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none; }
+
+/* line 116, ../../../../CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block; }
+
+/* line 32, ../sass/screen.sass */
+html, body {
+  overflow-x: hidden;
+  height: 100%; }
+
+/* line 35, ../sass/screen.sass */
+body {
+  background: #222222;
+  color: #111111;
+  font-family: helvetica, sans-serif; }
+
+/* line 40, ../sass/screen.sass */
+input[type="submit"] {
+  border: none;
+  outline: none; }
+
+/* line 44, ../sass/screen.sass */
+#container {
+  position: relative;
+  width: 800px;
+  height: 100%;
+  overflow: hidden;
+  border: 4px solid #111111;
+  -webkit-box-shadow: 0 0 5px 5px #444444;
+  -moz-box-shadow: 0 0 5px 5px #444444;
+  box-shadow: 0 0 5px 5px #444444;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  margin: 0 auto 0;
+  background: #111111;
+  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg); }
+  @media (max-width: 480px) {
+    /* line 44, ../sass/screen.sass */
+    #container {
+      width: 100%;
+      border: none; } }
+  /* line 58, ../sass/screen.sass */
+  #container h1 {
+    color: #5b8b17;
+    text-align: center; }
+  /* line 61, ../sass/screen.sass */
+  #container .alert {
+    text-align: center;
+    background: #111111;
+    width: 80%;
+    height: 100px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 0 5px 5px black;
+    -moz-box-shadow: 0 0 5px 5px black;
+    box-shadow: 0 0 5px 5px black;
+    margin: 50px auto 20px;
+    padding: 10px; }
+    /* line 70, ../sass/screen.sass */
+    #container .alert h1 {
+      color: #f2f2f2;
+      font-size: 16px;
+      margin: 10px; }
+    /* line 74, ../sass/screen.sass */
+    #container .alert a {
+      color: #5b8b17;
+      text-align: center;
+      text-decoration: none; }
+
+/* line 78, ../sass/screen.sass */
+.navdescription {
+  position: absolute;
+  width: 100%;
+  top: -5px;
+  margin: 0;
+  padding: 5px 0 5px 0; }
+  @media (max-width: 480px) {
+    /* line 78, ../sass/screen.sass */
+    .navdescription {
+      background: none; } }
+  /* line 87, ../sass/screen.sass */
+  .navdescription span {
+    width: 100%;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 14px;
+    padding: 3px 0;
+    background: black;
+    border-bottom: 1px solid #5b8b17; }
+
+/* line 97, ../sass/screen.sass */
+#top {
+  position: fixed;
+  top: 0;
+  z-index: 20;
+  width: 800px;
+  background: #5b8b17;
+  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/greenbg.jpg);
+  overflow: hidden;
+  height: 75px; }
+  @media (max-width: 800px) {
+    /* line 97, ../sass/screen.sass */
+    #top {
+      width: 100%; } }
+  /* line 109, ../sass/screen.sass */
+  #top .topcenter {
+    padding: 3px 30px;
+    position: relative; }
+    @media (max-width: 800px) {
+      /* line 109, ../sass/screen.sass */
+      #top .topcenter {
+        padding: 3px 5px; } }
+  /* line 115, ../sass/screen.sass */
+  #top h1 {
+    font-size: 24px;
+    color: #f2f2f2;
+    width: 100px;
+    float: right;
+    padding: 5px; }
+    @media (max-width: 800px) {
+      /* line 115, ../sass/screen.sass */
+      #top h1 {
+        font-size: 18px; } }
+  /* line 123, ../sass/screen.sass */
+  #top h2 {
+    font-size: 16px;
+    color: #f2f2f2; }
+
+/* line 127, ../sass/screen.sass */
+a.deletebtn, a.homebtn, a.addbtn, a.minusbtn {
+  position: absolute;
+  top: 30px;
+  width: 100px;
+  height: 33px;
+  display: block;
+  text-indent: -4000px;
+  padding: 0;
+  cursor: pointer; }
+
+/* line 137, ../sass/screen.sass */
+a.homebtn {
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat;
+  left: 50px; }
+
+/* line 140, ../sass/screen.sass */
+a.deletebtn {
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/deletebtn.png) no-repeat;
+  left: 163px; }
+
+/* line 143, ../sass/screen.sass */
+a.addbtn {
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/addbtn.png) no-repeat;
+  left: 50px; }
+
+/* line 146, ../sass/screen.sass */
+a.minusbtn {
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/minusbtn.png) no-repeat; }
+
+/* line 150, ../sass/screen.sass */
+#bottom {
+  position: fixed;
+  z-index: 1200;
+  bottom: 0;
+  background: #111111;
+  width: 800px;
+  padding: 5px 0 0 0; }
+  @media (max-width: 800px) {
+    /* line 150, ../sass/screen.sass */
+    #bottom {
+      width: 100%; } }
+
+/* line 161, ../sass/screen.sass */
+.formWrapper {
+  position: relative;
+  width: 100%;
+  padding: 0;
+  margin: 0; }
+  /* line 166, ../sass/screen.sass */
+  .formWrapper #newfolder, .formWrapper #deletefolder {
+    width: 100%;
+    margin: 0;
+    padding: 0; }
+
+/* line 171, ../sass/screen.sass */
+.projectFolders {
+  overflow: auto;
+  height: 600px;
+  width: 100%;
+  padding-top: 65px;
+  padding-bottom: 100px; }
+  @media (max-width: 480px) {
+    /* line 171, ../sass/screen.sass */
+    .projectFolders {
+      height: 340px; } }
+  @media (max-width: 980px) {
+    /* line 171, ../sass/screen.sass */
+    .projectFolders {
+      height: 340px; } }
+
+/* line 182, ../sass/screen.sass */
+.open {
+  width: 100%;
+  height: 100%;
+  background: #ff9900;
+  position: absolute;
+  z-index: 5000;
+  top: 0;
+  left: 0; }
+
+/* line 192, ../sass/screen.sass */
+.folder {
+  position: relative;
+  width: 200px;
+  height: 80px;
+  background-image: linear-gradient(bottom, #555555 45%, #4b4b4b 87%);
+  background-image: -o-linear-gradient(bottom, #555555 45%, #4b4b4b 87%);
+  background-image: -moz-linear-gradient(bottom, #555555 45%, #4b4b4b 87%);
+  background-image: -webkit-linear-gradient(bottom, #555555 45%, #4b4b4b 87%);
+  background-image: -ms-linear-gradient(bottom, #555555 45%, #4b4b4b 87%);
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.45, #555555), color-stop(0.87, #4b4b4b));
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  padding: 2px;
+  margin: 10px;
+  float: left;
+  color: #f2f2f2;
+  cursor: pointer; }
+  @media (max-width: 480px) {
+    /* line 192, ../sass/screen.sass */
+    .folder {
+      height: 80px;
+      width: 100%;
+      float: none;
+      margin: 0;
+      -webkit-border-radius: 0;
+      -moz-border-radius: 0;
+      -ms-border-radius: 0;
+      -o-border-radius: 0;
+      border-radius: 0; } }
+
+/*.folder:nth-child(odd)
+ * background-image: linear-gradient(bottom, rgb(40,40,40) 45%, rgb(45,45,45) 87%)
+ * background-image: -o-linear-gradient(bottom, rgb(40,40,40) 45%, rgb(45,45,45) 87%)
+ * background-image: -moz-linear-gradient(bottom, rgb(40,40,40) 45%, rgb(45,45,45) 87%)
+ * background-image: -webkit-linear-gradient(bottom, rgb(40,40,40) 45%, rgb(45,45,45) 87%)
+ * background-image: -ms-linear-gradient(bottom, rgb(40,40,40) 45%, rgb(45,45,45) 87%)
+ * background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.45, rgb(40,40,40)), color-stop(0.87, rgb(45,45,45))) */
+/* line 225, ../sass/screen.sass */
+.folder button {
+  width: 100%;
+  height: 80px;
+  color: inherit;
+  background: none;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  font-size: 12px;
+  line-height: 100%;
+  border: none;
+  outline: none; }
+  @media (max-width: 480px) {
+    /* line 225, ../sass/screen.sass */
+    .folder button {
+      padding: 10px;
+      font-size: 16px;
+      height: 100%; } }
+
+/* line 242, ../sass/screen.sass */
+.folder:hover, .folder span:hover {
+  background: #464646;
+  color: #5b8b17; }
+
+/* line 247, ../sass/screen.sass */
+.delete {
+  position: absolute;
+  padding: 0 3px;
+  -webkit-border-radius: 0 0 3px 3px;
+  -moz-border-radius: 0 0 3px 3px;
+  -ms-border-radius: 0 0 3px 3px;
+  -o-border-radius: 0 0 3px 3px;
+  border-radius: 0 0 3px 3px;
+  bottom: 0;
+  left: 0;
+  width: 98%;
+  background: red;
+  height: 30px;
+  border-bottom: 1px solid black; }
+
+/* line 258, ../sass/screen.sass */
+label.red {
+  color: #f2f2f2;
+  font-size: 12px; }
+
+/* line 262, ../sass/screen.sass */
+input[type="text"] {
+  position: absolute;
+  height: 55px;
+  line-height: 55px;
+  top: -50px;
+  background: black;
+  width: 100%;
+  color: #f2f2f2;
+  border-top: 2px solid #5b8b17;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+  autofocus: true;
+  font-size: 16px; }
+
+/* line 277, ../sass/screen.sass */
+.deleteme input[type="text"] {
+  position: absolute;
+  height: 35px;
+  line-height: 35px;
+  top: -50px;
+  background: black;
+  width: 100%;
+  color: #f2f2f2;
+  border: none;
+  autofocus: true;
+  font-size: 16px; }
+
+/* line 289, ../sass/screen.sass */
+.delete input[type="submit"] {
+  background: #f2f2f2;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  width: 80px;
+  height: 25px;
+  color: #222222;
+  position: absolute;
+  padding: 2px;
+  bottom: 2px;
+  right: 10px; }
+
+/* line 300, ../sass/screen.sass */
+.delete input[type="checkbox"] {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  padding: 2px;
+  background: #f2f2f2;
+  margin-left: 10px;
+  top: 0; }
+
+/* line 309, ../sass/screen.sass */
+input[type="submit"], button {
+  background: #5b8b17;
+  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/greenbg.jpg);
+  border: none;
+  padding: 10px 2px;
+  margin: 0;
+  width: 100%;
+  height: 80px;
+  color: #f2f2f2;
+  font-size: 16px;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0; }
+  @media (max-width: 480px) {
+    /* line 309, ../sass/screen.sass */
+    input[type="submit"], button {
+      height: 80px;
+      background: #5b8b17;
+      color: #f2f2f2; } }
+
+/* line 327, ../sass/screen.sass */
+input[type="submit"]:hover, button:hover {
+  cursor: pointer; }
+
+/* line 329, ../sass/screen.sass */
+input[placeholder] {
+  text-align: center;
+  padding: 2px;
+  color: #333333; }
+
+/* line 338, ../sass/screen.sass */
+input:focus::-webkit-input-placeholder {
+  opacity: 0; }
+
+/* line 340, ../sass/screen.sass */
+input:-ms-input-placeholder {
+  opacity: 0; }
+
+/* line 344, ../sass/screen.sass */
+label.error {
+  float: none;
+  color: #5b8b17;
+  text-align: center;
+  padding: 5px;
+  vertical-align: top;
+  width: 150px;
+  display: block;
+  margin: 0 auto; }
+  /* line 355, ../sass/screen.sass */
+  label.error #cf_form {
+    text-align: center; }
+    /* line 357, ../sass/screen.sass */
+    label.error #cf_form * {
+      font-family: Verdana;
+      font-size: 96%; }
+    /* line 360, ../sass/screen.sass */
+    label.error #cf_form p {
+      clear: both; }
+    /* line 362, ../sass/screen.sass */
+    label.error #cf_form em {
+      font-weight: bold;
+      padding-right: 1em;
+      vertical-align: top; }
