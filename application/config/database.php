@@ -73,9 +73,9 @@ $db['development']['autoinit'] = TRUE;
 $db['development']['stricton'] = TRUE;
 
 $db['production']['hostname'] = 'localhost';
-$db['production']['username'] = 'travism2';
-$db['production']['password'] = 'noel1124';
-$db['production']['database'] = 'travism2_new';
+$db['production']['username'] = 'username';
+$db['production']['password'] = 'password';
+$db['production']['database'] = '';
 $db['production']['dbdriver'] = 'mysql';
 $db['production']['dbprefix'] = '';
 $db['production']['pconnect'] = FALSE;
