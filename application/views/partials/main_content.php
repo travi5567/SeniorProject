@@ -11,13 +11,28 @@
       <div class="projectFolders">
       <?php foreach($foldername as $row) { ?>
         <div class="folder <?php echo $row->folderName; ?>">
-          <button onClick="openFolder();"><?php echo $row->folderName; ?></button>
+          <button class="<?php echo $row->folderName; ?>"><?php echo $row->folderName; ?></button>
         </div>
+        <script>
+            $(function () {
+              $('button.<?php echo $row->folderName; ?>').bind('click', 
+                function() { $('.open.<?php echo $row->folderName;?>').show() });
+
+              $('.gohome').bind('click', 
+                function() { $('.open.<?php echo $row->folderName;?>').hide() });
+            });
+        </script>
       <?php } ?>
 
   <?php foreach($foldername as $row) { ?>
-        <div class="open">
-          <a href="<?php base_url();?><?php echo $row->folderName; ?>"><?php echo $row->folderName; ?></a><br />
+        <div class="open <?php echo $row->folderName; ?>">
+          <h1><?php echo $row->folderName; ?></a></h1>
+          <a class="gohome">Home</a><a class="addimagebtn">Add Image</a>
+          <div class="textarea">
+            <div class="edititable"contenteditable="true" focus="true">
+              Your Content Goes Here
+            </div>
+          </div>
         </div>
       <?php } ?>
  </div>

@@ -14,9 +14,9 @@
         <div class="folder">
           <button><?php echo $row->folderName; ?></button>
           <div class="delete">
-            <form name="delete" method="post" action="<?php echo base_url(); ?>index.php/home/folderdeleted">    
+            <form name="delete" method="post" action="<?php echo base_url(); ?>index.php/home/deleteFolder">    
               <p>
-                <input type = "checkbox" id = "check_<?php echo $row->folderName; ?>"/>
+                <input name="checkbox" value="<?php echo $row->folderName; ?>" type = "checkbox" id = "check_<?php echo $row->folderName; ?>"/>
                 <?php echo form_submit('deleteFolder', 'Delete'); ?>
               </p>
           </form>
