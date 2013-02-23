@@ -12,8 +12,9 @@
 <body>
   <div id="container">
     <div class="alert">
-      <h1>Your Folder has been Deleted</h1>
-      <a href="<?php echo base_url(); ?>" autofocus="true">Return to Home</a>
+      <h1>Your Folder has been Deleted</h1></br>
+      <p><a href="<?php echo base_url(); ?>index.php/home/delete" autofocus="true">Delete More Folders</a></p></br>
+      <p><a href="<?php echo base_url(); ?>" autofocus="true">Return To Home</a></p>
     </div>
   </div>
 </body>

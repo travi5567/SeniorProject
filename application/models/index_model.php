@@ -30,11 +30,30 @@ class index_model extends CI_Model {
     }
   }
 
+  function getImagenames() {
+    $this->db->order_by('id', 'DESC');
+    $this->db->select('imageName');
+    $query = $this->db->get('images');
+  
+    if($query->num_rows() > 0) {
+        foreach ($query->result() as $row) {
+          $data[] = $row;
+        }
+      return $data;
+    }
+  }
+
   function deleteFolder($checkbox) {
-  $this->db->where('folderName', $checkbox); 
-  $this->db->delete('senior');
-return;
-}
+    $this->db->where('folderName', $checkbox); 
+    $this->db->delete('senior');
+    return;
+  }
+
+  function addImage($db_data) {
+    $this->db->where('imageName');
+    $this->db->insert('images', $db_data);
+    return;
+  }
 
 		
 	}
