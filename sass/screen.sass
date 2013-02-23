@@ -135,7 +135,6 @@ input[type="submit"]
   padding: 0
   margin: 0
   background: $green
-  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/greenbg.jpg)
   overflow: hidden
   height: 75px
   @media (max-width: 800px)
@@ -159,8 +158,9 @@ input[type="submit"]
     font-size: 16px
     color: $white
 
-a.deletefolder_btn, a.homebtn, a.addfolder_btn, a.viewimagesbtn
-  position: absolute
+a.deletefolder_btn, a.homebtn, a.addfolder_btn
+  position: relative
+  float: left
   top: 30px
   width: 100px
   height: 33px
@@ -168,25 +168,20 @@ a.deletefolder_btn, a.homebtn, a.addfolder_btn, a.viewimagesbtn
   text-indent: -4000px
   padding: 0
   cursor: pointer
+  margin-left: 5%
 
 a.homebtn 
   background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat
-  left: 50px
 a.deletefolder_btn
   background: url(http://www.travismichael.net/SeniorProject/assets/images/deletebtn.png) no-repeat
-  left: 163px
 a.addfolder_btn
   background: url(http://www.travismichael.net/SeniorProject/assets/images/addbtn.png) no-repeat
-  left: 50px
-a.viewimagesbtn
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/viewimagesbtn.png) no-repeat
-  left: 320px
+
 
 .alert a.homebtn 
   background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat
   top: 130px
   left: 43%
-
 
 
 #bottom
@@ -240,36 +235,38 @@ a.viewimagesbtn
     color: $white
     text-align: center
   .textarea 
+    position: relative
+    top: 80px
     background: #f2f2f2
     width: 100%
     height: 100%
     padding: 3px
     color: #222222
     height: 200px
-  .gohome
+  .nav
     position: relative
-    cursor: pointer
-    width: 100px
-    height: 33px
-    display: block
-    top: -50px
-    color: $white
-    background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat
-    left: 50px
-    text-indent: -4000px
-    z-index: 10000
-  .addimagebtn
-    position: relative
-    cursor: pointer
-    width: 100px
-    height: 33px
-    display: block
-    top: -83px
-    color: $white
-    background: url(http://www.travismichael.net/SeniorProject/assets/images/addimagebtn.png) no-repeat
-    left: 180px
-    text-indent: -4000px
-    z-index: 10000
+    width: 100%
+    height: 35px
+    top: 25px
+    left: 0
+    a.gohome, a.addimagebtn, a.viewimagesbtn
+      position: relative
+      cursor: pointer
+      width: 100px
+      height: 33px
+      display: block
+      color: $white
+      float: left
+      text-indent: -4000px
+      z-index: 10000
+      margin-left: 2%
+    a.gohome
+      background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat
+    a.addimagebtn
+      background: url(http://www.travismichael.net/SeniorProject/assets/images/addimagebtn.png) no-repeat
+    a.viewimagesbtn
+      background: url(http://www.travismichael.net/SeniorProject/assets/images/viewimagesbtn.png) no-repeat
+        
   
 #uploadimages
   position: absolute

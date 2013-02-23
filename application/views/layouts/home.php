@@ -37,10 +37,14 @@
         </script>
       <?php } ?>
 
-  <?php foreach($foldername as $row) { ?>
+      <?php foreach($foldername as $row) { ?>
         <div class="open <?php echo $row->folderName; ?>">
-          <h1><?php echo $row->folderName;?></h1>
-          <section class="nav"><a class="gohome">Home</a><a class="addimagebtn">Add Image</a><a class="viewimagesbtn">View Images</a></section>
+          <div id="top">
+            <div class="topcenter">
+              <section class="nav"><a class="gohome">Home</a><a class="addimagebtn">Add Image</a><a class="viewimagesbtn">View Images</a></section>
+            </div>    
+            <div class="navdescription"><span><?php echo $row->folderName;?></span></div>
+          </div>
           <div class="textarea" >
             <div class="edititable" style="height: 200px" contenteditable="true" focus="true">
               Your Content Goes Here
