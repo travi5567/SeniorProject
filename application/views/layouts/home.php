@@ -46,7 +46,11 @@
           </div>
         </div>
         <!-- END OF CONTENT EDITITABLE -->
+<<<<<<< HEAD
       </div>  
+=======
+    </div>  
+>>>>>>> f806d8c9f438fca89990179b16512b034ff1924b
     <?php } ?>
 
 <!-- ****************** IMAGE FILES LOOP MODULE ********************--> 
