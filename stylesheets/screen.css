@@ -182,33 +182,6 @@ input[type="submit"] {
     border-bottom: 1px solid #5b8b17; }
 
 /* line 109, ../sass/screen.sass */
-#imagefiles {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 400px;
-  z-index: 100000;
-  color: #f2f2f2;
-  backgorund: #111111; }
-  /* line 118, ../sass/screen.sass */
-  #imagefiles ul li {
-    display: block;
-    float: left;
-    width: 60px;
-    height: 60px;
-    overflow: hidden;
-    zoom: 80%;
-    background: #464646;
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    -ms-border-radius: 3px;
-    -o-border-radius: 3px;
-    border-radius: 3px;
-    margin: 10px;
-    cursor: pointer; }
-
-/* line 130, ../sass/screen.sass */
 #top {
   position: fixed;
   top: 0;
@@ -220,18 +193,18 @@ input[type="submit"] {
   overflow: hidden;
   height: 75px; }
   @media (max-width: 800px) {
-    /* line 130, ../sass/screen.sass */
+    /* line 109, ../sass/screen.sass */
     #top {
       width: 100%; } }
-  /* line 143, ../sass/screen.sass */
+  /* line 122, ../sass/screen.sass */
   #top .topcenter {
     padding: 3px 30px;
     position: relative; }
     @media (max-width: 800px) {
-      /* line 143, ../sass/screen.sass */
+      /* line 122, ../sass/screen.sass */
       #top .topcenter {
         padding: 3px 5px; } }
-  /* line 149, ../sass/screen.sass */
+  /* line 128, ../sass/screen.sass */
   #top h1 {
     font-size: 24px;
     color: #f2f2f2;
@@ -239,46 +212,46 @@ input[type="submit"] {
     float: right;
     padding: 5px; }
     @media (max-width: 800px) {
-      /* line 149, ../sass/screen.sass */
+      /* line 128, ../sass/screen.sass */
       #top h1 {
         font-size: 18px; } }
-  /* line 157, ../sass/screen.sass */
+  /* line 136, ../sass/screen.sass */
   #top h2 {
     font-size: 16px;
     color: #f2f2f2; }
 
-/* line 161, ../sass/screen.sass */
+/* line 140, ../sass/screen.sass */
 a.deletefolder_btn, a.homebtn, a.addfolder_btn {
   position: relative;
   float: left;
   top: 30px;
-  width: 100px;
-  height: 33px;
+  width: 85px;
+  height: 30px;
   display: block;
   text-indent: -4000px;
   padding: 0;
   cursor: pointer;
   margin-left: 5%; }
 
-/* line 173, ../sass/screen.sass */
+/* line 152, ../sass/screen.sass */
 a.homebtn {
   background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat; }
 
-/* line 175, ../sass/screen.sass */
+/* line 154, ../sass/screen.sass */
 a.deletefolder_btn {
   background: url(http://www.travismichael.net/SeniorProject/assets/images/deletebtn.png) no-repeat; }
 
-/* line 177, ../sass/screen.sass */
+/* line 156, ../sass/screen.sass */
 a.addfolder_btn {
   background: url(http://www.travismichael.net/SeniorProject/assets/images/addbtn.png) no-repeat; }
 
-/* line 181, ../sass/screen.sass */
+/* line 160, ../sass/screen.sass */
 .alert a.homebtn {
   background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat;
   top: 130px;
   left: 43%; }
 
-/* line 187, ../sass/screen.sass */
+/* line 166, ../sass/screen.sass */
 #bottom {
   position: fixed;
   z-index: 1200;
@@ -287,23 +260,23 @@ a.addfolder_btn {
   width: 800px;
   padding: 5px 0 0 0; }
   @media (max-width: 800px) {
-    /* line 187, ../sass/screen.sass */
+    /* line 166, ../sass/screen.sass */
     #bottom {
       width: 100%; } }
 
-/* line 198, ../sass/screen.sass */
+/* line 177, ../sass/screen.sass */
 .formWrapper {
   position: relative;
   width: 100%;
   padding: 0;
   margin: 0; }
-  /* line 203, ../sass/screen.sass */
+  /* line 182, ../sass/screen.sass */
   .formWrapper #newfolder, .formWrapper #deletefolder {
     width: 100%;
     margin: 0;
     padding: 0; }
 
-/* line 208, ../sass/screen.sass */
+/* line 187, ../sass/screen.sass */
 .projectFolders {
   overflow: auto;
   height: 600px;
@@ -311,25 +284,25 @@ a.addfolder_btn {
   padding-top: 75px;
   padding-bottom: 100px; }
   @media (max-width: 480px) {
-    /* line 208, ../sass/screen.sass */
+    /* line 187, ../sass/screen.sass */
     .projectFolders {
       height: 340px; } }
   @media (max-width: 980px) {
-    /* line 208, ../sass/screen.sass */
+    /* line 187, ../sass/screen.sass */
     .projectFolders {
       height: 340px; } }
 
-/* line 219, ../sass/screen.sass */
+/* line 198, ../sass/screen.sass */
 .open {
   position: absolute;
   padding: 0;
   width: 100%;
   height: 100%;
   background: #111111;
-  z-index: 5000;
+  z-index: 50;
   top: 0;
   left: 0; }
-  /* line 228, ../sass/screen.sass */
+  /* line 207, ../sass/screen.sass */
   .open h1 {
     background: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat;
     width: 100%;
@@ -339,46 +312,55 @@ a.addfolder_btn {
     border-bottom: 1px solid #333333;
     color: #f2f2f2;
     text-align: center; }
-  /* line 237, ../sass/screen.sass */
+  /* line 216, ../sass/screen.sass */
   .open .textarea {
     position: relative;
     top: 80px;
     background: #f2f2f2;
     width: 100%;
+    overflow: auto;
     height: 100%;
     padding: 3px;
     color: #222222;
     height: 200px; }
-  /* line 246, ../sass/screen.sass */
+    /* line 226, ../sass/screen.sass */
+    .open .textarea .edititable {
+      position: absolute;
+      z-index: 100; }
+  /* line 229, ../sass/screen.sass */
   .open .nav {
     position: relative;
     width: 100%;
     height: 35px;
     top: 25px;
     left: 0; }
-    /* line 252, ../sass/screen.sass */
+    /* line 235, ../sass/screen.sass */
     .open .nav a.gohome, .open .nav a.addimagebtn, .open .nav a.viewimagesbtn {
       position: relative;
       cursor: pointer;
-      width: 100px;
-      height: 33px;
+      width: 85px;
+      height: 30px;
       display: block;
       color: #f2f2f2;
       float: left;
       text-indent: -4000px;
       z-index: 10000;
-      margin-left: 2%; }
-    /* line 263, ../sass/screen.sass */
+      margin-left: 5%; }
+      @media (max-width: 480px) {
+        /* line 235, ../sass/screen.sass */
+        .open .nav a.gohome, .open .nav a.addimagebtn, .open .nav a.viewimagesbtn {
+          margin-left: 3%; } }
+    /* line 249, ../sass/screen.sass */
     .open .nav a.gohome {
       background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat; }
-    /* line 265, ../sass/screen.sass */
+    /* line 251, ../sass/screen.sass */
     .open .nav a.addimagebtn {
       background: url(http://www.travismichael.net/SeniorProject/assets/images/addimagebtn.png) no-repeat; }
-    /* line 267, ../sass/screen.sass */
+    /* line 253, ../sass/screen.sass */
     .open .nav a.viewimagesbtn {
       background: url(http://www.travismichael.net/SeniorProject/assets/images/viewimagesbtn.png) no-repeat; }
 
-/* line 271, ../sass/screen.sass */
+/* line 257, ../sass/screen.sass */
 #uploadimages {
   position: absolute;
   top: 60px;
@@ -389,30 +371,51 @@ a.addfolder_btn {
   height: 100%;
   padding: 10px;
   margin: 10px auto; }
-  /* line 281, ../sass/screen.sass */
+  /* line 267, ../sass/screen.sass */
   #uploadimages input[type="file"] {
     background: #f2f2f2;
     color: #111111; }
-  /* line 284, ../sass/screen.sass */
+  /* line 270, ../sass/screen.sass */
   #uploadimages input[type="submit"] {
     width: 120px;
     height: 35px;
     background: #f2f2f2;
     color: #111111; }
-  /* line 290, ../sass/screen.sass */
-  #uploadimages #imagefiles {
-    position: absolute;
-    top: 60px;
-    left: 0;
-    z-index: 90001;
-    width: 100%;
-    overflow: hidden;
-    height: 100%;
-    background: #111111;
-    color: #f2f2f2;
-    margin: 10px auto; }
 
-/* line 302, ../sass/screen.sass */
+/* line 276, ../sass/screen.sass */
+#imagefiles {
+  position: absolute;
+  top: 35%;
+  left: 0;
+  width: 100%;
+  height: 30%;
+  overflow: auto;
+  z-index: 100;
+  color: #f2f2f2;
+  backgorund: #444444; }
+  @media (max-width: 480px) {
+    /* line 276, ../sass/screen.sass */
+    #imagefiles {
+      top: 80%; } }
+  /* line 288, ../sass/screen.sass */
+  #imagefiles ul li {
+    display: block;
+    float: left;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    zoom: 80%;
+    background: #464646;
+    border: 1px solid #4b4b4b;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    margin: 10px;
+    cursor: poniter; }
+
+/* line 304, ../sass/screen.sass */
 .folder {
   position: relative;
   width: 200px;
@@ -433,12 +436,12 @@ a.addfolder_btn {
   float: left;
   color: #f2f2f2;
   cursor: pointer; }
-  /* line 318, ../sass/screen.sass */
+  /* line 320, ../sass/screen.sass */
   .folder:hover {
     background: #464646;
     color: #5b8b17; }
   @media (max-width: 480px) {
-    /* line 302, ../sass/screen.sass */
+    /* line 304, ../sass/screen.sass */
     .folder {
       height: 80px;
       width: 100%;
@@ -457,7 +460,7 @@ a.addfolder_btn {
  * background-image: -webkit-linear-gradient(bottom, rgb(40,40,40) 45%, rgb(45,45,45) 87%)
  * background-image: -ms-linear-gradient(bottom, rgb(40,40,40) 45%, rgb(45,45,45) 87%)
  * background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.45, rgb(40,40,40)), color-stop(0.87, rgb(45,45,45))) */
-/* line 338, ../sass/screen.sass */
+/* line 340, ../sass/screen.sass */
 .folder button {
   width: 100%;
   height: 80px;
@@ -471,18 +474,18 @@ a.addfolder_btn {
   border: none;
   outline: none; }
   @media (max-width: 480px) {
-    /* line 338, ../sass/screen.sass */
+    /* line 340, ../sass/screen.sass */
     .folder button {
       padding: 10px;
       font-size: 16px;
       height: 100%; } }
 
-/* line 355, ../sass/screen.sass */
+/* line 357, ../sass/screen.sass */
 .folder span:hover {
   background: #464646;
   color: #5b8b17; }
 
-/* line 360, ../sass/screen.sass */
+/* line 362, ../sass/screen.sass */
 .delete {
   position: absolute;
   padding: 0 3px;
@@ -498,12 +501,12 @@ a.addfolder_btn {
   height: 30px;
   border-bottom: 1px solid black; }
 
-/* line 371, ../sass/screen.sass */
+/* line 373, ../sass/screen.sass */
 label.red {
   color: #f2f2f2;
   font-size: 12px; }
 
-/* line 375, ../sass/screen.sass */
+/* line 377, ../sass/screen.sass */
 input[type="text"] {
   position: absolute;
   height: 55px;
@@ -519,7 +522,7 @@ input[type="text"] {
   autofocus: true;
   font-size: 16px; }
 
-/* line 390, ../sass/screen.sass */
+/* line 392, ../sass/screen.sass */
 .deleteme input[type="text"] {
   position: absolute;
   height: 35px;
@@ -532,7 +535,7 @@ input[type="text"] {
   autofocus: true;
   font-size: 16px; }
 
-/* line 402, ../sass/screen.sass */
+/* line 404, ../sass/screen.sass */
 .delete input[type="submit"] {
   background: #f2f2f2;
   -webkit-border-radius: 3px;
@@ -548,7 +551,7 @@ input[type="text"] {
   bottom: 2px;
   right: 10px; }
 
-/* line 413, ../sass/screen.sass */
+/* line 415, ../sass/screen.sass */
 .delete input[type="checkbox"] {
   position: absolute;
   width: 25px;
@@ -558,7 +561,7 @@ input[type="text"] {
   margin-left: 10px;
   top: 0; }
 
-/* line 422, ../sass/screen.sass */
+/* line 424, ../sass/screen.sass */
 input[type="submit"], button {
   background: #5b8b17;
   background-image: url(http://www.travismichael.net/SeniorProject/assets/images/greenbg.jpg);
@@ -573,31 +576,31 @@ input[type="submit"], button {
   -webkit-appearance: none;
   -webkit-border-radius: 0; }
   @media (max-width: 480px) {
-    /* line 422, ../sass/screen.sass */
+    /* line 424, ../sass/screen.sass */
     input[type="submit"], button {
       height: 80px;
       background: #5b8b17;
       color: #f2f2f2; } }
 
-/* line 440, ../sass/screen.sass */
+/* line 442, ../sass/screen.sass */
 input[type="submit"]:hover, button:hover {
   cursor: pointer; }
 
-/* line 442, ../sass/screen.sass */
+/* line 444, ../sass/screen.sass */
 input[placeholder] {
   text-align: center;
   padding: 2px;
   color: #333333; }
 
-/* line 451, ../sass/screen.sass */
+/* line 453, ../sass/screen.sass */
 input:focus::-webkit-input-placeholder {
   opacity: 0; }
 
-/* line 453, ../sass/screen.sass */
+/* line 455, ../sass/screen.sass */
 input:-ms-input-placeholder {
   opacity: 0; }
 
-/* line 457, ../sass/screen.sass */
+/* line 459, ../sass/screen.sass */
 label.error {
   float: none;
   color: #5b8b17;
@@ -607,17 +610,17 @@ label.error {
   width: 150px;
   display: block;
   margin: 0 auto; }
-  /* line 468, ../sass/screen.sass */
+  /* line 470, ../sass/screen.sass */
   label.error #cf_form {
     text-align: center; }
-    /* line 470, ../sass/screen.sass */
+    /* line 472, ../sass/screen.sass */
     label.error #cf_form * {
       font-family: Verdana;
       font-size: 96%; }
-    /* line 473, ../sass/screen.sass */
+    /* line 475, ../sass/screen.sass */
     label.error #cf_form p {
       clear: both; }
-    /* line 475, ../sass/screen.sass */
+    /* line 477, ../sass/screen.sass */
     label.error #cf_form em {
       font-weight: bold;
       padding-right: 1em;

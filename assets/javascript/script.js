@@ -24,8 +24,7 @@ $(document).ready(function() {
 /*************************************************************************************/
 /*  Functions and Statements  */
 /*************************************************************************************/
-  
-  //Go to Home Page
+//Go to Home Page
   $('.gohome').bind('click', function()
     {
       imagefiles.hide();
@@ -68,19 +67,36 @@ $(document).ready(function() {
   });
 
 /*************************************************************************************/
-// Form Validation
-  $("#cf_form").validate({
-     rules: {
-      name: {
-         required: true,
-         minlength: 3
-         }
-       }
-   });
-
-  // $('.open.James .edititable').css('background-color', 'blue');
 
 
+
+/*************************************************************************************/
+/*  Drag N Drop Functions  */
+/*************************************************************************************/
+      // var dt = event.dataTransfer;
+      //   dt.mozSetDataAt("image/png", stream, 0);
+      //   dt.mozSetDataAt("application/x-moz-file", file, 0);
+      //   dt.setData("text/uri-list", imageurl);
+      //   dt.setData("text/plain", imageurl);
+     //let the gallery items be draggable
+      //$('#imagefiles ul li').draggable();
+
+     // $('.textarea .edititable').droppable({
+     //   accept: "#imagefiles ul li",
+     //   activeClass: "red",
+     //   drop: function() {
+     //         alert('dropped');
+     //   }
+     // });
+     
+        // function handleDragStart(e) {
+        //     this.style.opacity = '0.4';  // this / e.target is the source node.
+        //   }
+
+        //   var imgicon = document.querySelectorAll('#imagefiles ul li');
+        //     [].forEach.call(imgicon, function(img) {
+        //    img.addEventListener('dragstart', handleDragStart, false);
+        //   });
 
 
 

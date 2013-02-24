@@ -106,27 +106,6 @@ input[type="submit"]
     background: #000
     border-bottom: 1px solid $green
 
-#imagefiles 
-  position: absolute
-  bottom: 0
-  left: 0
-  width: 100%
-  height: 400px
-  z-index: 100000
-  color: $white
-  backgorund: #111
-  ul li
-    display: block
-    float: left
-    width: 60px
-    height: 60px
-    overflow: hidden
-    zoom: 80%
-    background: $grey
-    +border-radius(3px)
-    margin: 10px
-    cursor: pointer
-
 #top
   position: fixed
   top: 0
@@ -162,8 +141,8 @@ a.deletefolder_btn, a.homebtn, a.addfolder_btn
   position: relative
   float: left
   top: 30px
-  width: 100px
-  height: 33px
+  width: 85px
+  height: 30px
   display: block
   text-indent: -4000px
   padding: 0
@@ -222,7 +201,7 @@ a.addfolder_btn
   width: 100%
   height: 100%
   background: #111
-  z-index: 5000
+  z-index: 50
   top: 0
   left: 0
   h1
@@ -239,10 +218,14 @@ a.addfolder_btn
     top: 80px
     background: #f2f2f2
     width: 100%
+    overflow: auto
     height: 100%
     padding: 3px
     color: #222222
     height: 200px
+    .edititable
+      position: absolute
+      z-index: 100
   .nav
     position: relative
     width: 100%
@@ -252,14 +235,17 @@ a.addfolder_btn
     a.gohome, a.addimagebtn, a.viewimagesbtn
       position: relative
       cursor: pointer
-      width: 100px
-      height: 33px
+      width: 85px
+      height: 30px
       display: block
       color: $white
       float: left
       text-indent: -4000px
       z-index: 10000
-      margin-left: 2%
+      margin-left: 5%
+      @media (max-width: 480px)
+        margin-left: 3%
+
     a.gohome
       background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat
     a.addimagebtn
@@ -287,17 +273,33 @@ a.addfolder_btn
     background: $white
     color: #111
 
-  #imagefiles
-    position: absolute
-    top: 60px
-    left: 0
-    z-index: 90001
-    width: 100%
+#imagefiles 
+  position: absolute
+  top: 35%
+  left: 0
+  width: 100%
+  height: 30%
+  overflow: auto
+  z-index: 100
+  color: $white
+  backgorund: #444
+  @media (max-width: 480px)
+    top: 80%
+  ul li
+    display: block
+    float: left
+    width: 60px
+    height: 60px
     overflow: hidden
-    height: 100%
-    background: #111
-    color: $white
-    margin: 10px auto
+    zoom: 80%
+    background: $grey
+    border: 1px solid $dark_grey
+    +border-radius(3px)
+    margin: 10px
+    cursor: poniter
+
+
+
 
 .folder
   position: relative
