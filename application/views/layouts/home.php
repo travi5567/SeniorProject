@@ -47,9 +47,7 @@
           </div>
         </div>
         <!-- END OF CONTENT EDITITABLE -->
-
-        <div class="saveedit"><input type="button" id="link_add" value="Clear changes" /></div>
-      </div>  
+    </div>  
     <?php } ?>
 
 <!-- ****************** IMAGE FILES LOOP MODULE ********************--> 
