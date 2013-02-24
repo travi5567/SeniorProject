@@ -2,10 +2,9 @@
 <?php $this->load->view('partials/page_head'); ?> 
 <body class="home">
   <div id="container">
-
 <!-- ****************** TOP NAVIGATION SECTION ********************--> 
 <!-- ///////////////////////////////////////////////////////////// -->
-    <div id="top">
+    <div class="top">
       <div class="topcenter">
         <section class="nav"><a class="addfolder_btn">Add Folder</a><a class="deletefolder_btn" href="<?php echo base_url();?>index.php/home/delete">DeleteFolders</a></section>
       </div>    
@@ -28,12 +27,12 @@
           });
       </script>
     <?php } ?>
-
+    </div>
 <!-- ****************** OPENED FOLDERS LOOP MODULE ********************--> 
 <!-- ///////////////////////////////////////////////////////////////// -->
     <?php foreach($foldername as $row) { ?>
       <div class="open <?php echo $row->folderName; ?>">
-        <div id="top">
+        <div class="top">
           <div class="topcenter">
             <section class="nav"><a class="gohome">Home</a><a class="addimagebtn">Add Image</a><a class="viewimagesbtn">View Images</a></section>
           </div>    
@@ -42,13 +41,11 @@
         <!-- END OF TOP NAV -->
 
         <div class="textarea">
-          <div class="edititable" style="height: 200px; width: 300px;" contenteditable="true" focus="true">
+          <div class="edititable" style="height: 200px; width: 300px;" contenteditable="true">
             Your Content Goes Here
           </div>
         </div>
         <!-- END OF CONTENT EDITITABLE -->
-
-        <div class="saveedit"><input type="button" id="link_add" value="Clear changes" /></div>
       </div>  
     <?php } ?>
 
@@ -67,8 +64,10 @@
 <!-- ****************** UPLOAD IMAGE MODULE ********************--> 
 <!-- ////////////////////////////////////////////////////////// -->
     <div id="uploadimages">
+      <h3>Upload you images to the gallery</h3>
+      <p>click on the view images button to veiw your image gallery, you can then drag your image of choice to the edititable textbox</p>
       <?php echo form_open_multipart('home/do_upload');?>
-      <input type="file" name="userfile" size="20" />
+      <input type="file" name="userfile" />
         <br /><br />
       <input type="submit" value="Add Image" />
       </form>
@@ -83,6 +82,7 @@
           <?php echo form_submit('createFolder', 'Create Folder'); ?>
         <?php echo form_close(); ?>
       <?php echo validation_errors('<p class="error">'); ?>
+    </div>
     </div>  
   </div><!-- End of container div -->
 </body>
