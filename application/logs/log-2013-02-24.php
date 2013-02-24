@@ -11958,3 +11958,6031 @@ DEBUG - 2013-02-24 18:45:20 --> File loaded: application/views/partials/page_hea
 DEBUG - 2013-02-24 18:45:20 --> File loaded: application/views/layouts/home.php
 DEBUG - 2013-02-24 18:45:20 --> Final output sent to browser
 DEBUG - 2013-02-24 18:45:20 --> Total execution time: 0.0175
+DEBUG - 2013-02-24 18:56:35 --> Config Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Hooks Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 18:56:35 --> URI Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Router Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 18:56:35 --> Output Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Security Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Input Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 18:56:35 --> Language Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Loader Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 18:56:35 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 18:56:35 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Controller Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Upload Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 18:56:35 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 18:56:35 --> Final output sent to browser
+DEBUG - 2013-02-24 18:56:35 --> Total execution time: 0.0152
+DEBUG - 2013-02-24 18:56:35 --> Config Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Hooks Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 18:56:35 --> URI Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Router Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 18:56:35 --> Output Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Security Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Input Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 18:56:35 --> Language Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Loader Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 18:56:35 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 18:56:35 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Controller Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> Upload Class Initialized
+DEBUG - 2013-02-24 18:56:35 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 18:56:35 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 18:56:35 --> Final output sent to browser
+DEBUG - 2013-02-24 18:56:35 --> Total execution time: 0.0116
+DEBUG - 2013-02-24 18:56:39 --> Config Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Hooks Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 18:56:39 --> URI Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Router Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 18:56:39 --> Output Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Security Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Input Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 18:56:39 --> Language Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Loader Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 18:56:39 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Controller Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Upload Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 18:56:39 --> Final output sent to browser
+DEBUG - 2013-02-24 18:56:39 --> Total execution time: 0.0140
+DEBUG - 2013-02-24 18:56:39 --> Config Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Hooks Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 18:56:39 --> URI Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Router Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 18:56:39 --> Output Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Config Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Hooks Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Security Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Input Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 18:56:39 --> URI Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 18:56:39 --> Language Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Router Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 18:56:39 --> Loader Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Output Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 18:56:39 --> Security Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 18:56:39 --> Input Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 18:56:39 --> Language Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Loader Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Controller Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Upload Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 18:56:39 --> Controller Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Upload Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 18:56:39 --> Final output sent to browser
+DEBUG - 2013-02-24 18:56:39 --> Total execution time: 0.0113
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 18:56:39 --> Final output sent to browser
+DEBUG - 2013-02-24 18:56:39 --> Total execution time: 0.0128
+DEBUG - 2013-02-24 18:56:39 --> Config Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Hooks Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 18:56:39 --> URI Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Router Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 18:56:39 --> Output Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Security Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Input Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 18:56:39 --> Language Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Loader Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 18:56:39 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Controller Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Upload Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 18:56:39 --> Final output sent to browser
+DEBUG - 2013-02-24 18:56:39 --> Total execution time: 0.0170
+DEBUG - 2013-02-24 18:56:39 --> Config Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Hooks Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 18:56:39 --> URI Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Router Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 18:56:39 --> Output Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Security Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Input Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 18:56:39 --> Language Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Loader Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 18:56:39 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 18:56:39 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Model Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Controller Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> Upload Class Initialized
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 18:56:39 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 18:56:39 --> Final output sent to browser
+DEBUG - 2013-02-24 18:56:39 --> Total execution time: 0.0115
+DEBUG - 2013-02-24 19:06:23 --> Config Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:06:23 --> URI Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Router Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:06:23 --> Output Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Security Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Input Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:06:23 --> Language Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:06:23 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:06:23 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Model Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Model Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:06:23 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:06:23 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:06:23 --> Final output sent to browser
+DEBUG - 2013-02-24 19:06:23 --> Total execution time: 0.0102
+DEBUG - 2013-02-24 19:06:24 --> Config Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:06:24 --> URI Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Router Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:06:24 --> Output Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Security Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Input Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:06:24 --> Language Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:06:24 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:06:24 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Model Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Model Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:06:24 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:06:24 --> Final output sent to browser
+DEBUG - 2013-02-24 19:06:24 --> Total execution time: 0.0201
+DEBUG - 2013-02-24 19:06:24 --> Config Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:06:24 --> URI Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Router Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:06:24 --> Output Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Security Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Input Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:06:24 --> Language Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:06:24 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:06:24 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Model Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Model Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:06:24 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:06:24 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:06:24 --> Final output sent to browser
+DEBUG - 2013-02-24 19:06:24 --> Total execution time: 0.0114
+DEBUG - 2013-02-24 19:07:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:07:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:07:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:07:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:07:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:07:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:07:51 --> Total execution time: 0.0107
+DEBUG - 2013-02-24 19:07:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:07:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:07:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:07:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:07:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:07:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:07:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:07:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:07:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:07:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:07:51 --> Total execution time: 0.0143
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:07:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:07:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:07:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:07:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:07:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:07:51 --> Total execution time: 0.0249
+DEBUG - 2013-02-24 19:07:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:07:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:07:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:07:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:07:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:07:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:07:51 --> Total execution time: 0.0158
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:07:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:07:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:07:51 --> Total execution time: 0.0227
+DEBUG - 2013-02-24 19:07:59 --> Config Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:07:59 --> URI Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Router Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:07:59 --> Output Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Security Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Input Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:07:59 --> Language Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:07:59 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:07:59 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:07:59 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:07:59 --> Final output sent to browser
+DEBUG - 2013-02-24 19:07:59 --> Total execution time: 0.0160
+DEBUG - 2013-02-24 19:07:59 --> Config Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:07:59 --> URI Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Router Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:07:59 --> Output Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Security Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Input Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:07:59 --> Language Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:07:59 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:07:59 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Model Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:07:59 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:07:59 --> Final output sent to browser
+DEBUG - 2013-02-24 19:07:59 --> Total execution time: 0.0191
+DEBUG - 2013-02-24 19:07:59 --> Config Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:07:59 --> URI Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Router Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:07:59 --> Output Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Security Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Input Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:07:59 --> Language Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:07:59 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:07:59 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:07:59 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:08:00 --> Model Class Initialized
+DEBUG - 2013-02-24 19:08:00 --> Model Class Initialized
+DEBUG - 2013-02-24 19:08:00 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:08:00 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:08:00 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:08:00 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:08:00 --> Final output sent to browser
+DEBUG - 2013-02-24 19:08:00 --> Total execution time: 0.0228
+DEBUG - 2013-02-24 19:10:01 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:01 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:01 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:01 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:01 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:01 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:01 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:01 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:01 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:01 --> Total execution time: 0.0108
+DEBUG - 2013-02-24 19:10:04 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:04 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:04 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:04 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:04 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:04 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:04 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:04 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:04 --> Total execution time: 0.0138
+DEBUG - 2013-02-24 19:10:04 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:04 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:04 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:04 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:04 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:04 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:04 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:04 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:04 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:04 --> Total execution time: 0.0139
+DEBUG - 2013-02-24 19:10:04 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:04 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:04 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:04 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:04 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:04 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:04 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:04 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:04 --> Total execution time: 0.0185
+DEBUG - 2013-02-24 19:10:29 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:29 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:29 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:29 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:29 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:29 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:29 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:29 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:29 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:29 --> Total execution time: 0.0198
+DEBUG - 2013-02-24 19:10:31 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:31 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:31 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:31 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:31 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:31 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:31 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:31 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:31 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:31 --> Total execution time: 0.0164
+DEBUG - 2013-02-24 19:10:33 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:33 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:33 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:33 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:33 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:33 --> File loaded: application/views/layouts/delete.php
+DEBUG - 2013-02-24 19:10:33 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:33 --> Total execution time: 0.0099
+DEBUG - 2013-02-24 19:10:33 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:33 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:33 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:33 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:33 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:33 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:33 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:33 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:33 --> Total execution time: 0.0182
+DEBUG - 2013-02-24 19:10:33 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:33 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:33 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:33 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:33 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:33 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:33 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:33 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:33 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:33 --> Total execution time: 0.0109
+DEBUG - 2013-02-24 19:10:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:51 --> Total execution time: 0.0180
+DEBUG - 2013-02-24 19:10:53 --> Config Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:10:53 --> URI Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Router Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:10:53 --> Output Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Security Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Input Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:10:53 --> Language Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:10:53 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:10:53 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Model Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:10:53 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:10:53 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:10:53 --> Final output sent to browser
+DEBUG - 2013-02-24 19:10:53 --> Total execution time: 0.0192
+DEBUG - 2013-02-24 19:11:13 --> Config Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:11:13 --> URI Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Router Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:11:13 --> Output Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Security Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Input Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:11:13 --> Language Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:11:13 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:11:13 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Model Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Model Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:11:13 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:11:13 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:11:13 --> Final output sent to browser
+DEBUG - 2013-02-24 19:11:13 --> Total execution time: 0.0128
+DEBUG - 2013-02-24 19:11:14 --> Config Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:11:14 --> URI Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Router Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:11:14 --> Output Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Security Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Input Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:11:14 --> Language Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:11:14 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:11:14 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Model Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Model Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:11:14 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:11:14 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:11:14 --> Final output sent to browser
+DEBUG - 2013-02-24 19:11:14 --> Total execution time: 0.0108
+DEBUG - 2013-02-24 19:12:36 --> Config Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:12:36 --> URI Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Router Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:12:36 --> Output Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Security Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Input Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:12:36 --> Language Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:12:36 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:12:36 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:12:36 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:12:36 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:12:36 --> Final output sent to browser
+DEBUG - 2013-02-24 19:12:36 --> Total execution time: 0.0194
+DEBUG - 2013-02-24 19:13:38 --> Config Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:13:38 --> URI Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Router Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:13:38 --> Output Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Security Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Input Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:13:38 --> Language Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:13:38 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:13:38 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Model Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Model Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:13:38 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:13:38 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:13:38 --> Final output sent to browser
+DEBUG - 2013-02-24 19:13:38 --> Total execution time: 0.0154
+DEBUG - 2013-02-24 19:14:53 --> Config Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:14:53 --> URI Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Router Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:14:53 --> Output Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Security Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Input Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:14:53 --> Language Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:14:53 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:14:53 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Model Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Model Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:14:53 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:14:53 --> Final output sent to browser
+DEBUG - 2013-02-24 19:14:53 --> Total execution time: 0.0155
+DEBUG - 2013-02-24 19:14:53 --> Config Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:14:53 --> URI Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Router Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:14:53 --> Output Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Security Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Input Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:14:53 --> Language Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:14:53 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:14:53 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Model Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Model Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:14:53 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:14:53 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:14:53 --> Final output sent to browser
+DEBUG - 2013-02-24 19:14:53 --> Total execution time: 0.0191
+DEBUG - 2013-02-24 19:16:08 --> Config Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:16:08 --> URI Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Router Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:16:08 --> Output Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Security Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Input Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:16:08 --> Language Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:16:08 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:16:08 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:16:08 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:16:08 --> Final output sent to browser
+DEBUG - 2013-02-24 19:16:08 --> Total execution time: 0.0107
+DEBUG - 2013-02-24 19:16:08 --> Config Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:16:08 --> URI Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Router Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:16:08 --> Output Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Security Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Input Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:16:08 --> Language Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:16:08 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:16:08 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:16:08 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:16:08 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:16:08 --> Final output sent to browser
+DEBUG - 2013-02-24 19:16:08 --> Total execution time: 0.0233
+DEBUG - 2013-02-24 19:16:21 --> Config Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:16:21 --> URI Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Router Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:16:21 --> Output Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Security Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Input Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:16:21 --> Language Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:16:21 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:16:21 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:16:21 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:16:21 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:16:21 --> Final output sent to browser
+DEBUG - 2013-02-24 19:16:21 --> Total execution time: 0.0103
+DEBUG - 2013-02-24 19:16:36 --> Config Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:16:36 --> URI Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Router Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:16:36 --> Output Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Security Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Input Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:16:36 --> Language Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:16:36 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:16:36 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:16:36 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:16:36 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:16:36 --> Final output sent to browser
+DEBUG - 2013-02-24 19:16:36 --> Total execution time: 0.0166
+DEBUG - 2013-02-24 19:16:50 --> Config Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:16:50 --> URI Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Router Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:16:50 --> Output Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Security Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Input Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:16:50 --> Language Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:16:50 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:16:50 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:16:50 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:16:50 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:16:50 --> Final output sent to browser
+DEBUG - 2013-02-24 19:16:50 --> Total execution time: 0.0104
+DEBUG - 2013-02-24 19:17:36 --> Config Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:17:36 --> URI Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Router Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:17:36 --> Output Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Security Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Input Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:17:36 --> Language Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:17:36 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:17:36 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:17:36 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:17:36 --> Final output sent to browser
+DEBUG - 2013-02-24 19:17:36 --> Total execution time: 0.0159
+DEBUG - 2013-02-24 19:17:36 --> Config Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:17:36 --> URI Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Router Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:17:36 --> Output Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Security Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Input Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:17:36 --> Language Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:17:36 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:17:36 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:17:36 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:17:36 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:17:36 --> Final output sent to browser
+DEBUG - 2013-02-24 19:17:36 --> Total execution time: 0.0133
+DEBUG - 2013-02-24 19:18:17 --> Config Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:18:17 --> URI Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Router Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:18:17 --> Output Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Security Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Input Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:18:17 --> Language Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:18:17 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:18:17 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Model Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Model Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:18:17 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:18:17 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:18:17 --> Final output sent to browser
+DEBUG - 2013-02-24 19:18:17 --> Total execution time: 0.0105
+DEBUG - 2013-02-24 19:18:44 --> Config Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:18:44 --> URI Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Router Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:18:44 --> Config Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Output Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:18:44 --> Security Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> URI Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Input Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Router Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:18:44 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:18:44 --> Language Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Output Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Security Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Input Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:18:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:18:44 --> Language Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:18:44 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:18:44 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:18:44 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Model Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Model Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Model Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Model Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:18:44 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:18:44 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:18:44 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:18:44 --> Final output sent to browser
+DEBUG - 2013-02-24 19:18:44 --> Total execution time: 0.0197
+DEBUG - 2013-02-24 19:18:44 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:18:44 --> Final output sent to browser
+DEBUG - 2013-02-24 19:18:44 --> Total execution time: 0.0182
+DEBUG - 2013-02-24 19:19:22 --> Config Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:19:22 --> URI Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Router Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:19:22 --> Output Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Security Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Input Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:19:22 --> Language Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:19:22 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:19:22 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Model Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Model Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:19:22 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:19:22 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:19:22 --> Final output sent to browser
+DEBUG - 2013-02-24 19:19:22 --> Total execution time: 0.0151
+DEBUG - 2013-02-24 19:20:32 --> Config Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:20:32 --> URI Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Router Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:20:32 --> Output Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Security Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Input Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:20:32 --> Language Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:20:32 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:20:32 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Model Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Model Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:20:32 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:20:32 --> Final output sent to browser
+DEBUG - 2013-02-24 19:20:32 --> Total execution time: 0.0160
+DEBUG - 2013-02-24 19:20:32 --> Config Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:20:32 --> URI Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Router Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:20:32 --> Config Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Output Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:20:32 --> Security Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Input Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> URI Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:20:32 --> Router Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Language Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:20:32 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Output Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:20:32 --> Security Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:20:32 --> Input Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:20:32 --> Language Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Model Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Model Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:20:32 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:20:32 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:20:32 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:20:32 --> Final output sent to browser
+DEBUG - 2013-02-24 19:20:32 --> Total execution time: 0.0101
+DEBUG - 2013-02-24 19:20:32 --> Model Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Model Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:20:32 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:20:32 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:20:32 --> Final output sent to browser
+DEBUG - 2013-02-24 19:20:32 --> Total execution time: 0.0179
+DEBUG - 2013-02-24 19:21:01 --> Config Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:21:01 --> URI Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Router Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:21:01 --> Output Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Security Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Input Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:21:01 --> Language Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:21:01 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:21:01 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:21:01 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:21:01 --> Final output sent to browser
+DEBUG - 2013-02-24 19:21:01 --> Total execution time: 0.0122
+DEBUG - 2013-02-24 19:21:01 --> Config Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:21:01 --> URI Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Router Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:21:01 --> Output Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Security Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Input Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:21:01 --> Language Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:21:01 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:21:01 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:21:01 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:21:01 --> Final output sent to browser
+DEBUG - 2013-02-24 19:21:01 --> Total execution time: 0.0103
+DEBUG - 2013-02-24 19:21:01 --> Config Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:21:01 --> URI Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Router Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:21:01 --> Output Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Security Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Input Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:21:01 --> Language Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:21:01 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:21:01 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:21:01 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:21:01 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:21:01 --> Final output sent to browser
+DEBUG - 2013-02-24 19:21:01 --> Total execution time: 0.0168
+DEBUG - 2013-02-24 19:22:14 --> Config Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:22:14 --> URI Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Router Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:22:14 --> Output Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Security Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Input Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:22:14 --> Language Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:22:14 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:22:14 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Model Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Model Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:22:14 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:22:14 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:22:14 --> Final output sent to browser
+DEBUG - 2013-02-24 19:22:14 --> Total execution time: 0.0107
+DEBUG - 2013-02-24 19:22:49 --> Config Class Initialized
+DEBUG - 2013-02-24 19:22:49 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:22:49 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:22:49 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:22:49 --> URI Class Initialized
+DEBUG - 2013-02-24 19:22:49 --> Router Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:22:50 --> Output Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Security Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Input Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:22:50 --> Language Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:22:50 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:22:50 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:22:50 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:22:50 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:22:50 --> Final output sent to browser
+DEBUG - 2013-02-24 19:22:50 --> Total execution time: 0.0115
+DEBUG - 2013-02-24 19:23:02 --> Config Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:23:02 --> URI Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Router Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:23:02 --> Output Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Security Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Input Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:23:02 --> Language Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:23:02 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:23:02 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:23:02 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:23:02 --> Final output sent to browser
+DEBUG - 2013-02-24 19:23:02 --> Total execution time: 0.0156
+DEBUG - 2013-02-24 19:23:02 --> Config Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:23:02 --> URI Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Router Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:23:02 --> Output Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Security Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Input Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:23:02 --> Language Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:23:02 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:23:02 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Config Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:23:02 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> URI Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Router Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:23:02 --> Output Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Security Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Input Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:23:02 --> Language Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:23:02 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:23:02 --> Final output sent to browser
+DEBUG - 2013-02-24 19:23:02 --> Total execution time: 0.0256
+DEBUG - 2013-02-24 19:23:02 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:23:02 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:23:02 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:23:02 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:23:02 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:23:02 --> Final output sent to browser
+DEBUG - 2013-02-24 19:23:02 --> Total execution time: 0.0384
+DEBUG - 2013-02-24 19:23:27 --> Config Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:23:27 --> URI Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Router Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:23:27 --> Output Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Security Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Input Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:23:27 --> Language Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:23:27 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:23:27 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:23:27 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:23:27 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:23:27 --> Final output sent to browser
+DEBUG - 2013-02-24 19:23:27 --> Total execution time: 0.0111
+DEBUG - 2013-02-24 19:23:40 --> Config Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:23:40 --> URI Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Router Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:23:40 --> Output Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Security Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Input Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:23:40 --> Language Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:23:40 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:23:40 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:23:40 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:23:40 --> Final output sent to browser
+DEBUG - 2013-02-24 19:23:40 --> Total execution time: 0.0114
+DEBUG - 2013-02-24 19:23:40 --> Config Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:23:40 --> URI Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Router Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:23:40 --> Output Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Security Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Input Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:23:40 --> Language Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:23:40 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:23:40 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:23:40 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:23:40 --> Final output sent to browser
+DEBUG - 2013-02-24 19:23:40 --> Total execution time: 0.0168
+DEBUG - 2013-02-24 19:23:40 --> Config Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:23:40 --> URI Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Router Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:23:40 --> Output Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Security Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Input Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:23:40 --> Language Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:23:40 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:23:40 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Model Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:23:40 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:23:40 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:23:40 --> Final output sent to browser
+DEBUG - 2013-02-24 19:23:40 --> Total execution time: 0.0178
+DEBUG - 2013-02-24 19:42:48 --> Config Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:42:48 --> URI Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Router Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:42:48 --> Output Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Security Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Input Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:42:48 --> Language Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:42:48 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:42:48 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:42:48 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:42:48 --> Final output sent to browser
+DEBUG - 2013-02-24 19:42:48 --> Total execution time: 0.0115
+DEBUG - 2013-02-24 19:42:48 --> Config Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:42:48 --> URI Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Router Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:42:48 --> Output Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Security Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Input Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:42:48 --> Language Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:42:48 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:42:48 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:42:48 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:42:48 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:42:48 --> Final output sent to browser
+DEBUG - 2013-02-24 19:42:48 --> Total execution time: 0.0106
+DEBUG - 2013-02-24 19:42:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:42:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:42:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:42:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:42:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:42:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:42:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:42:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:42:51 --> Total execution time: 0.0148
+DEBUG - 2013-02-24 19:42:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:42:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:42:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:42:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:42:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:42:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:42:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:42:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:42:51 --> Total execution time: 0.0164
+DEBUG - 2013-02-24 19:42:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:42:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:42:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:42:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:42:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:42:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:42:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:42:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:42:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:42:51 --> Total execution time: 0.0117
+DEBUG - 2013-02-24 19:43:49 --> Config Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:43:49 --> URI Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Router Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:43:49 --> Output Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Security Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Input Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:43:49 --> Language Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:43:49 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:43:49 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Model Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Model Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:43:49 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:43:49 --> Final output sent to browser
+DEBUG - 2013-02-24 19:43:49 --> Total execution time: 0.0160
+DEBUG - 2013-02-24 19:43:49 --> Config Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Config Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:43:49 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:43:49 --> URI Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> URI Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Router Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Router Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:43:49 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:43:49 --> Output Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Security Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Output Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Input Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Security Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Input Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:43:49 --> Language Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:43:49 --> Language Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:43:49 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:43:49 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:43:49 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:43:49 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Model Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Model Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Model Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Model Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:43:49 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:43:49 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:43:49 --> Final output sent to browser
+DEBUG - 2013-02-24 19:43:49 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:43:49 --> Total execution time: 0.0102
+DEBUG - 2013-02-24 19:43:49 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:43:49 --> Final output sent to browser
+DEBUG - 2013-02-24 19:43:49 --> Total execution time: 0.0112
+DEBUG - 2013-02-24 19:46:09 --> Config Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:46:09 --> URI Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Router Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:46:09 --> Output Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Security Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Input Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:46:09 --> Language Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:46:09 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:46:09 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Model Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Model Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Config Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:46:09 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:46:09 --> URI Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:46:09 --> Router Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Final output sent to browser
+DEBUG - 2013-02-24 19:46:09 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:46:09 --> Output Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Total execution time: 0.0139
+DEBUG - 2013-02-24 19:46:09 --> Security Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Input Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:46:09 --> Language Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:46:09 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:46:09 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Model Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Model Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Config Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:46:09 --> URI Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Router Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:46:09 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:46:09 --> Output Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Security Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:46:09 --> Input Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Final output sent to browser
+DEBUG - 2013-02-24 19:46:09 --> Total execution time: 0.0127
+DEBUG - 2013-02-24 19:46:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:46:09 --> Language Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:46:09 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:46:09 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Model Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Model Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:46:09 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:46:09 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:46:09 --> Final output sent to browser
+DEBUG - 2013-02-24 19:46:09 --> Total execution time: 0.0115
+DEBUG - 2013-02-24 19:48:36 --> Config Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:48:36 --> URI Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Router Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:48:36 --> Output Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Security Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Input Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:48:36 --> Language Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:48:36 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:48:36 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:48:36 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:48:36 --> Final output sent to browser
+DEBUG - 2013-02-24 19:48:36 --> Total execution time: 0.0159
+DEBUG - 2013-02-24 19:48:36 --> Config Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:48:36 --> URI Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Router Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:48:36 --> Output Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Security Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Input Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:48:36 --> Language Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:48:36 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:48:36 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:48:36 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:48:36 --> Final output sent to browser
+DEBUG - 2013-02-24 19:48:36 --> Total execution time: 0.0118
+DEBUG - 2013-02-24 19:48:36 --> Config Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:48:36 --> URI Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Router Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:48:36 --> Output Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Security Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Input Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:48:36 --> Language Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:48:36 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:48:36 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Model Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:48:36 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:48:36 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:48:36 --> Final output sent to browser
+DEBUG - 2013-02-24 19:48:36 --> Total execution time: 0.0178
+DEBUG - 2013-02-24 19:49:01 --> Config Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:49:01 --> URI Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Router Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:49:01 --> Output Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Security Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Input Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:49:01 --> Language Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:49:01 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:49:01 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:49:01 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:49:01 --> Final output sent to browser
+DEBUG - 2013-02-24 19:49:01 --> Total execution time: 0.0161
+DEBUG - 2013-02-24 19:49:01 --> Config Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:49:01 --> URI Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Router Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:49:01 --> Output Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Security Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Input Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:49:01 --> Language Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:49:01 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:49:01 --> Config Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:49:01 --> URI Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Router Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:49:01 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Output Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Security Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Input Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:49:01 --> Language Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:49:01 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:49:01 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:49:01 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:49:01 --> Final output sent to browser
+DEBUG - 2013-02-24 19:49:01 --> Total execution time: 0.0118
+DEBUG - 2013-02-24 19:49:01 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Model Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:49:01 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:49:01 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:49:01 --> Final output sent to browser
+DEBUG - 2013-02-24 19:49:01 --> Total execution time: 0.0170
+DEBUG - 2013-02-24 19:50:47 --> Config Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:50:47 --> URI Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Router Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:50:47 --> Output Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Security Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Input Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:50:47 --> Language Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:50:47 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:50:47 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:50:47 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:50:47 --> Final output sent to browser
+DEBUG - 2013-02-24 19:50:47 --> Total execution time: 0.0171
+DEBUG - 2013-02-24 19:50:47 --> Config Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:50:47 --> URI Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Router Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:50:47 --> Output Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Security Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Input Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:50:47 --> Language Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:50:47 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:50:47 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:50:47 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:50:47 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:50:47 --> Final output sent to browser
+DEBUG - 2013-02-24 19:50:47 --> Total execution time: 0.0122
+DEBUG - 2013-02-24 19:50:50 --> Config Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:50:50 --> URI Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Router Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:50:50 --> Output Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Security Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Input Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:50:50 --> Language Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:50:50 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:50:50 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:50:50 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:50:50 --> Final output sent to browser
+DEBUG - 2013-02-24 19:50:50 --> Total execution time: 0.0161
+DEBUG - 2013-02-24 19:50:50 --> Config Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:50:50 --> URI Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Router Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:50:50 --> Output Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Security Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Input Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:50:50 --> Language Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:50:50 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:50:50 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:50:50 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:50:50 --> Final output sent to browser
+DEBUG - 2013-02-24 19:50:50 --> Total execution time: 0.0163
+DEBUG - 2013-02-24 19:50:50 --> Config Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:50:50 --> URI Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Router Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:50:50 --> Output Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Security Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Input Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:50:50 --> Language Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:50:50 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:50:50 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:50:50 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:50:50 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:50:50 --> Final output sent to browser
+DEBUG - 2013-02-24 19:50:50 --> Total execution time: 0.0112
+DEBUG - 2013-02-24 19:53:21 --> Config Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:53:21 --> URI Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Router Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:53:21 --> Output Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Security Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Input Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:53:21 --> Language Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:53:21 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:53:21 --> Config Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:53:21 --> URI Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Router Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:53:21 --> Output Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Security Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Input Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:53:21 --> Language Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:53:21 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:53:21 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:53:21 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> Controller Class Initialized
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:53:21 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:53:21 --> Final output sent to browser
+DEBUG - 2013-02-24 19:53:21 --> Total execution time: 0.0244
+DEBUG - 2013-02-24 19:53:21 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:53:21 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:21 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:53:21 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:53:21 --> Final output sent to browser
+DEBUG - 2013-02-24 19:53:21 --> Total execution time: 0.0272
+DEBUG - 2013-02-24 19:53:23 --> Config Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:53:23 --> URI Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Router Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:53:23 --> Output Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Security Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Input Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:53:23 --> Language Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:53:23 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:53:23 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:53:23 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 19:53:23 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:23 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:23 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:23 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:23 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:23 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:23 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:23 --> Severity: Notice  --> Undefined property: stdClass::$imageName /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:53:23 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:53:23 --> Final output sent to browser
+DEBUG - 2013-02-24 19:53:23 --> Total execution time: 0.0172
+DEBUG - 2013-02-24 19:53:50 --> Config Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:53:50 --> URI Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Router Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:53:50 --> Output Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Security Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Input Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:53:50 --> Language Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:53:50 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:53:50 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:53:50 --> Config Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Hooks Class Initialized
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:53:50 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:53:50 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:53:50 --> URI Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Router Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Final output sent to browser
+DEBUG - 2013-02-24 19:53:50 --> Total execution time: 0.0192
+DEBUG - 2013-02-24 19:53:50 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:53:50 --> Output Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Security Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Input Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:53:50 --> Language Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:53:50 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:53:50 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:53:50 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:50 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:53:50 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:53:50 --> Final output sent to browser
+DEBUG - 2013-02-24 19:53:50 --> Total execution time: 0.0179
+DEBUG - 2013-02-24 19:53:51 --> Config Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:53:51 --> URI Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Router Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:53:51 --> Output Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Security Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Input Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:53:51 --> Language Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:53:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:53:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Model Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:53:51 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:53:51 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:53:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:53:51 --> Final output sent to browser
+DEBUG - 2013-02-24 19:53:51 --> Total execution time: 0.0230
+DEBUG - 2013-02-24 19:54:10 --> Config Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:54:10 --> URI Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Router Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:54:10 --> Output Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Security Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Input Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:10 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:10 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:10 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> Config Class Initialized
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> Hooks Class Initialized
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:54:10 --> URI Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Router Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:54:10 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:10 --> Output Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:10 --> Security Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Input Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:10 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Total execution time: 0.0172
+DEBUG - 2013-02-24 19:54:10 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:10 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:10 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Config Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:54:10 --> UTF-8 Support Enabled
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> URI Class Initialized
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> Router Class Initialized
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> No URI present. Default controller set.
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> Output Class Initialized
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> Security Class Initialized
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> Input Class Initialized
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:10 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:10 --> Total execution time: 0.0217
+DEBUG - 2013-02-24 19:54:10 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:10 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:10 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:10 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:10 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:10 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:10 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:10 --> Total execution time: 0.0302
+DEBUG - 2013-02-24 19:54:11 --> Config Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:54:11 --> URI Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Router Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:54:11 --> Output Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Security Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Input Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:11 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:11 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:11 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:11 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Undefined variable: img /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+ERROR - 2013-02-24 19:54:11 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 46
+DEBUG - 2013-02-24 19:54:11 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:11 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:11 --> Total execution time: 0.0160
+DEBUG - 2013-02-24 19:54:44 --> Config Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:54:44 --> URI Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Router Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:54:44 --> Output Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Security Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Input Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:44 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:44 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:44 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:54:44 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:44 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:44 --> Total execution time: 0.0151
+DEBUG - 2013-02-24 19:54:44 --> Config Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:54:44 --> URI Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Router Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:54:44 --> Output Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Security Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Input Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:44 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:44 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:44 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:44 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:54:44 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:44 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:44 --> Total execution time: 0.0142
+DEBUG - 2013-02-24 19:54:47 --> Config Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:54:47 --> URI Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Router Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:54:47 --> Output Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Security Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Input Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:47 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:47 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:47 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:54:47 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:47 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:47 --> Total execution time: 0.0157
+DEBUG - 2013-02-24 19:54:47 --> Config Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:54:47 --> URI Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Router Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:54:47 --> Output Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Security Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Input Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:47 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:47 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:47 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Config Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:54:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> URI Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Router Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:54:47 --> Output Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Security Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Input Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:54:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:54:47 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:47 --> Language Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:47 --> Total execution time: 0.0105
+DEBUG - 2013-02-24 19:54:47 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:54:47 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:54:47 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Model Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:54:47 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:54:47 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:54:47 --> Final output sent to browser
+DEBUG - 2013-02-24 19:54:47 --> Total execution time: 0.0166
+DEBUG - 2013-02-24 19:55:45 --> Config Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:55:45 --> URI Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Router Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:55:45 --> Output Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Security Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Input Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:55:45 --> Language Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:55:45 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:55:45 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Model Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Model Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Config Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:55:45 --> URI Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Router Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:55:45 --> Output Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:55:45 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:55:45 --> Security Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Final output sent to browser
+DEBUG - 2013-02-24 19:55:45 --> Total execution time: 0.0116
+DEBUG - 2013-02-24 19:55:45 --> Input Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:55:45 --> Language Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:55:45 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:55:45 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Model Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Model Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:55:45 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:55:45 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:55:45 --> Final output sent to browser
+DEBUG - 2013-02-24 19:55:45 --> Total execution time: 0.0183
+DEBUG - 2013-02-24 19:55:46 --> Config Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:55:46 --> URI Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Router Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:55:46 --> Output Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Security Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Input Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:55:46 --> Language Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:55:46 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:55:46 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Model Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Model Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:55:46 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:55:46 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:55:46 --> Final output sent to browser
+DEBUG - 2013-02-24 19:55:46 --> Total execution time: 0.0103
+DEBUG - 2013-02-24 19:56:08 --> Config Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:56:08 --> URI Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Router Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:56:08 --> Output Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Security Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Input Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:56:08 --> Language Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:56:08 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:56:08 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:56:08 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:56:08 --> Final output sent to browser
+DEBUG - 2013-02-24 19:56:08 --> Total execution time: 0.0159
+DEBUG - 2013-02-24 19:56:08 --> Config Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:56:08 --> URI Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Router Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:56:08 --> Output Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Security Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Input Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:56:08 --> Language Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:56:08 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:56:08 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:56:08 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:56:08 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:56:08 --> Final output sent to browser
+DEBUG - 2013-02-24 19:56:08 --> Total execution time: 0.0136
+DEBUG - 2013-02-24 19:56:11 --> Config Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:56:11 --> URI Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Router Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:56:11 --> Output Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Security Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Input Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:56:11 --> Language Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:56:11 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:56:11 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:56:11 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:56:11 --> Final output sent to browser
+DEBUG - 2013-02-24 19:56:11 --> Total execution time: 0.0120
+DEBUG - 2013-02-24 19:56:11 --> Config Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:56:11 --> URI Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Router Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:56:11 --> Output Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Security Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Input Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:56:11 --> Language Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:56:11 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:56:11 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:56:11 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:56:11 --> Final output sent to browser
+DEBUG - 2013-02-24 19:56:11 --> Total execution time: 0.0114
+DEBUG - 2013-02-24 19:56:11 --> Config Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:56:11 --> URI Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Router Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:56:11 --> Output Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Security Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Input Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:56:11 --> Language Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:56:11 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:56:11 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:56:11 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:56:11 --> Final output sent to browser
+DEBUG - 2013-02-24 19:56:11 --> Total execution time: 0.0167
+DEBUG - 2013-02-24 19:56:11 --> Config Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:56:11 --> URI Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Router Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:56:11 --> Output Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Security Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Input Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:56:11 --> Language Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:56:11 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:56:11 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Model Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:56:11 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:56:11 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:56:11 --> Final output sent to browser
+DEBUG - 2013-02-24 19:56:11 --> Total execution time: 0.0114
+DEBUG - 2013-02-24 19:58:03 --> Config Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:58:03 --> URI Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Router Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:58:03 --> Output Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Security Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Input Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:58:03 --> Language Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:58:03 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:58:03 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Model Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Model Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Config Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:58:03 --> URI Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Router Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:58:03 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:58:03 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:58:03 --> Final output sent to browser
+DEBUG - 2013-02-24 19:58:03 --> Output Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Total execution time: 0.0187
+DEBUG - 2013-02-24 19:58:03 --> Security Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Input Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:58:03 --> Language Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:58:03 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:58:03 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Model Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Model Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:58:03 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:58:03 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:58:03 --> Final output sent to browser
+DEBUG - 2013-02-24 19:58:03 --> Total execution time: 0.0168
+DEBUG - 2013-02-24 19:58:05 --> Config Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:58:05 --> URI Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Router Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:58:05 --> Output Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Security Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Input Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:58:05 --> Language Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:58:05 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:58:05 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Model Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Model Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:58:05 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:58:05 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:58:05 --> Final output sent to browser
+DEBUG - 2013-02-24 19:58:05 --> Total execution time: 0.0149
+DEBUG - 2013-02-24 19:59:34 --> Config Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:59:34 --> URI Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Router Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:59:34 --> Output Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Security Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Input Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:59:34 --> Language Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:59:34 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:59:34 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:59:34 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:59:34 --> Final output sent to browser
+DEBUG - 2013-02-24 19:59:34 --> Total execution time: 0.0121
+DEBUG - 2013-02-24 19:59:34 --> Config Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:59:34 --> URI Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Router Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:59:34 --> Output Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Security Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Input Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:59:34 --> Language Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:59:34 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:59:34 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:59:34 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:59:34 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:59:34 --> Final output sent to browser
+DEBUG - 2013-02-24 19:59:34 --> Total execution time: 0.0128
+DEBUG - 2013-02-24 19:59:37 --> Config Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:59:37 --> URI Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Router Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:59:37 --> Output Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Security Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Input Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:59:37 --> Language Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:59:37 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:59:37 --> Final output sent to browser
+DEBUG - 2013-02-24 19:59:37 --> Total execution time: 0.0139
+DEBUG - 2013-02-24 19:59:37 --> Config Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:59:37 --> URI Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Router Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:59:37 --> Output Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Security Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Input Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:59:37 --> Language Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Config Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:59:37 --> URI Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:59:37 --> Router Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:59:37 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Output Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Security Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Input Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:59:37 --> Language Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:59:37 --> Final output sent to browser
+DEBUG - 2013-02-24 19:59:37 --> Config Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Total execution time: 0.0116
+DEBUG - 2013-02-24 19:59:37 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:59:37 --> URI Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Router Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:59:37 --> Output Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Security Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Config Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Hooks Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Input Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 19:59:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:59:37 --> URI Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Language Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Router Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 19:59:37 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Output Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:59:37 --> Security Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:59:37 --> Input Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 19:59:37 --> Language Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Loader Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 19:59:37 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Model Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> Controller Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:59:37 --> Upload Class Initialized
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:59:37 --> Final output sent to browser
+DEBUG - 2013-02-24 19:59:37 --> Final output sent to browser
+DEBUG - 2013-02-24 19:59:37 --> Total execution time: 0.0124
+DEBUG - 2013-02-24 19:59:37 --> Total execution time: 0.0208
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 19:59:37 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 19:59:37 --> Final output sent to browser
+DEBUG - 2013-02-24 19:59:37 --> Total execution time: 0.0141
+DEBUG - 2013-02-24 20:00:33 --> Config Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:00:33 --> URI Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Router Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:00:33 --> Output Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Security Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Input Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:00:33 --> Language Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:00:33 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:00:33 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Model Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Model Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:00:33 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:00:33 --> Final output sent to browser
+DEBUG - 2013-02-24 20:00:33 --> Total execution time: 0.0115
+DEBUG - 2013-02-24 20:00:33 --> Config Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:00:33 --> URI Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Router Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:00:33 --> Output Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Security Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Input Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:00:33 --> Language Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:00:33 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:00:33 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Model Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Model Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:00:33 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:00:33 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:00:33 --> Final output sent to browser
+DEBUG - 2013-02-24 20:00:33 --> Total execution time: 0.0244
+DEBUG - 2013-02-24 20:00:35 --> Config Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:00:35 --> URI Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Router Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:00:35 --> Output Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Security Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Input Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:00:35 --> Language Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:00:35 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:00:35 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Model Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Model Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:00:35 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:00:35 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:00:35 --> Final output sent to browser
+DEBUG - 2013-02-24 20:00:35 --> Total execution time: 0.0143
+DEBUG - 2013-02-24 20:32:37 --> Config Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:32:37 --> URI Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Router Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:32:37 --> Output Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Security Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Input Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:32:37 --> Language Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:32:37 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:32:37 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Model Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Model Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:32:37 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:32:37 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:32:37 --> Final output sent to browser
+DEBUG - 2013-02-24 20:32:37 --> Total execution time: 0.0114
+DEBUG - 2013-02-24 20:32:51 --> Config Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:32:51 --> URI Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Router Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:32:51 --> Output Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Security Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Input Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:32:51 --> Language Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:32:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:32:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Model Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Model Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:32:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:32:51 --> Final output sent to browser
+DEBUG - 2013-02-24 20:32:51 --> Total execution time: 0.0181
+DEBUG - 2013-02-24 20:32:51 --> Config Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:32:51 --> URI Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Router Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:32:51 --> Output Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Security Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Input Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:32:51 --> Language Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:32:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:32:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Model Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Model Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:32:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:32:51 --> Final output sent to browser
+DEBUG - 2013-02-24 20:32:51 --> Total execution time: 0.0148
+DEBUG - 2013-02-24 20:32:51 --> Config Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:32:51 --> URI Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Router Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:32:51 --> Output Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Security Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Input Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:32:51 --> Language Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:32:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:32:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Model Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Model Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:32:51 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:32:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:32:51 --> Final output sent to browser
+DEBUG - 2013-02-24 20:32:51 --> Total execution time: 0.0216
+DEBUG - 2013-02-24 20:38:10 --> Config Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:38:10 --> URI Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Router Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:38:10 --> Output Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Security Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Input Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:38:10 --> Language Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:38:10 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:38:10 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Model Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Model Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:38:10 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:38:10 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:38:10 --> Final output sent to browser
+DEBUG - 2013-02-24 20:38:10 --> Total execution time: 0.0110
+DEBUG - 2013-02-24 20:38:16 --> Config Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:38:16 --> URI Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Router Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:38:16 --> Output Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Security Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Input Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:38:16 --> Language Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:38:16 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:38:16 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Model Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Model Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:38:16 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:38:16 --> Final output sent to browser
+DEBUG - 2013-02-24 20:38:16 --> Total execution time: 0.0124
+DEBUG - 2013-02-24 20:38:16 --> Config Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:38:16 --> URI Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Router Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:38:16 --> Output Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Security Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Input Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:38:16 --> Language Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:38:16 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:38:16 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Model Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Model Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:38:16 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:38:16 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:38:16 --> Final output sent to browser
+DEBUG - 2013-02-24 20:38:16 --> Total execution time: 0.0111
+DEBUG - 2013-02-24 20:40:57 --> Config Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:40:57 --> URI Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Router Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:40:57 --> Output Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Security Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Input Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:40:57 --> Language Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:40:57 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:40:57 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Model Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Model Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:40:57 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:40:57 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:40:57 --> Final output sent to browser
+DEBUG - 2013-02-24 20:40:57 --> Total execution time: 0.0126
+DEBUG - 2013-02-24 20:40:59 --> Config Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:40:59 --> URI Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Router Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:40:59 --> Output Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Security Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Input Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:40:59 --> Language Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:40:59 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:40:59 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Model Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Model Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:40:59 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:40:59 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:40:59 --> Final output sent to browser
+DEBUG - 2013-02-24 20:40:59 --> Total execution time: 0.0156
+DEBUG - 2013-02-24 20:41:01 --> Config Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:41:01 --> URI Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Router Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:41:01 --> Output Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Security Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Input Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:41:01 --> Language Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:41:01 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:41:01 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Model Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Model Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:41:01 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:41:01 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:41:01 --> Final output sent to browser
+DEBUG - 2013-02-24 20:41:01 --> Total execution time: 0.0107
+DEBUG - 2013-02-24 20:41:59 --> Config Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:41:59 --> URI Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Router Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:41:59 --> Output Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Security Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Input Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:41:59 --> Language Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:41:59 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:41:59 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Model Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Model Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:41:59 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:41:59 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:41:59 --> Final output sent to browser
+DEBUG - 2013-02-24 20:41:59 --> Total execution time: 0.0112
+DEBUG - 2013-02-24 20:42:07 --> Config Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:42:07 --> URI Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Router Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:42:07 --> Output Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Security Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Input Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:42:07 --> Language Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:42:07 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:42:07 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:42:07 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:42:07 --> Final output sent to browser
+DEBUG - 2013-02-24 20:42:07 --> Total execution time: 0.0203
+DEBUG - 2013-02-24 20:42:07 --> Config Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:42:07 --> URI Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Router Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:42:07 --> Output Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Security Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Input Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:42:07 --> Language Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:42:07 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:42:07 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:42:07 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:42:07 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:42:07 --> Final output sent to browser
+DEBUG - 2013-02-24 20:42:07 --> Total execution time: 0.0169
+DEBUG - 2013-02-24 20:42:43 --> Config Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:42:43 --> URI Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Router Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:42:43 --> Output Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Security Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Input Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:42:43 --> Language Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:42:43 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:42:43 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:42:43 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:42:43 --> Final output sent to browser
+DEBUG - 2013-02-24 20:42:43 --> Total execution time: 0.0112
+DEBUG - 2013-02-24 20:42:43 --> Config Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:42:43 --> URI Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Router Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:42:43 --> Output Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Security Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Input Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:42:43 --> Language Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:42:43 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:42:43 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:42:43 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:42:43 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:42:43 --> Final output sent to browser
+DEBUG - 2013-02-24 20:42:43 --> Total execution time: 0.0115
+DEBUG - 2013-02-24 20:42:44 --> Config Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:42:44 --> URI Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Router Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:42:44 --> Output Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Security Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Input Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:42:44 --> Language Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:42:44 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:42:44 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:42:44 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:42:44 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:42:44 --> Final output sent to browser
+DEBUG - 2013-02-24 20:42:44 --> Total execution time: 0.0170
+DEBUG - 2013-02-24 20:42:46 --> Config Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:42:46 --> URI Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Router Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:42:46 --> Output Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Security Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Input Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:42:46 --> Language Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:42:46 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:42:46 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Model Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:42:46 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:42:46 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:42:46 --> Final output sent to browser
+DEBUG - 2013-02-24 20:42:46 --> Total execution time: 0.0109
+DEBUG - 2013-02-24 20:43:39 --> Config Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:43:39 --> URI Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Router Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:43:39 --> Output Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Security Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Input Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:43:39 --> Language Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:43:39 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:43:39 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Model Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Model Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:43:39 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:43:39 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:43:39 --> Final output sent to browser
+DEBUG - 2013-02-24 20:43:39 --> Total execution time: 0.0177
+DEBUG - 2013-02-24 20:43:40 --> Config Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:43:40 --> URI Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Router Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:43:40 --> Output Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Security Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Input Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:43:40 --> Language Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:43:40 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:43:40 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Model Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Model Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:43:40 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:43:40 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:43:40 --> Final output sent to browser
+DEBUG - 2013-02-24 20:43:40 --> Total execution time: 0.0138
+DEBUG - 2013-02-24 20:44:19 --> Config Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:44:19 --> URI Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Router Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:44:19 --> Output Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Security Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Input Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:44:19 --> Language Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:44:19 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:44:19 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Model Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Model Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:44:19 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:44:19 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:44:19 --> Final output sent to browser
+DEBUG - 2013-02-24 20:44:19 --> Total execution time: 0.0109
+DEBUG - 2013-02-24 20:44:21 --> Config Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:44:21 --> URI Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Router Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:44:21 --> Output Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Security Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Input Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:44:21 --> Language Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:44:21 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:44:21 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Model Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Model Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:44:21 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:44:21 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:44:21 --> Final output sent to browser
+DEBUG - 2013-02-24 20:44:21 --> Total execution time: 0.0162
+DEBUG - 2013-02-24 20:45:20 --> Config Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:45:20 --> URI Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Router Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:45:20 --> Output Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Security Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Input Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:45:20 --> Language Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:45:20 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:45:20 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Model Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Model Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:45:20 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:45:20 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:45:20 --> Final output sent to browser
+DEBUG - 2013-02-24 20:45:20 --> Total execution time: 0.0177
+DEBUG - 2013-02-24 20:45:21 --> Config Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:45:21 --> URI Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Router Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:45:21 --> Output Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Security Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Input Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:45:21 --> Language Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:45:21 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:45:21 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Model Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Model Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:45:21 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:45:21 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:45:21 --> Final output sent to browser
+DEBUG - 2013-02-24 20:45:21 --> Total execution time: 0.0144
+DEBUG - 2013-02-24 20:45:42 --> Config Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:45:42 --> URI Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Router Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:45:42 --> Output Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Security Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Input Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:45:42 --> Language Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:45:42 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:45:42 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Model Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Model Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:45:42 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:45:42 --> Final output sent to browser
+DEBUG - 2013-02-24 20:45:42 --> Total execution time: 0.0223
+DEBUG - 2013-02-24 20:45:42 --> Config Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:45:42 --> URI Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Router Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:45:42 --> Output Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Security Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Input Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:45:42 --> Language Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:45:42 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:45:42 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Model Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Model Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:45:42 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:45:42 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:45:42 --> Final output sent to browser
+DEBUG - 2013-02-24 20:45:42 --> Total execution time: 0.0167
+DEBUG - 2013-02-24 20:47:20 --> Config Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:47:20 --> URI Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Router Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:47:20 --> Output Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Security Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Input Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:47:20 --> Language Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:47:20 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:47:20 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:47:20 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:47:20 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:47:20 --> Final output sent to browser
+DEBUG - 2013-02-24 20:47:20 --> Total execution time: 0.0160
+DEBUG - 2013-02-24 20:47:21 --> Config Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:47:21 --> URI Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Router Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:47:21 --> Output Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Security Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Input Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:47:21 --> Language Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:47:21 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:47:21 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:47:21 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:47:21 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:47:21 --> Final output sent to browser
+DEBUG - 2013-02-24 20:47:21 --> Total execution time: 0.0128
+DEBUG - 2013-02-24 20:47:41 --> Config Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:47:41 --> URI Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Router Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:47:41 --> Output Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Security Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Input Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:47:41 --> Language Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:47:41 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:47:41 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:47:41 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Config Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:47:54 --> URI Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Router Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:47:54 --> Output Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Security Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Input Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:47:54 --> Language Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:47:54 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:47:54 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:47:54 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:54 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:47:54 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:47:54 --> Final output sent to browser
+DEBUG - 2013-02-24 20:47:54 --> Total execution time: 0.0322
+DEBUG - 2013-02-24 20:47:55 --> Config Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:47:55 --> URI Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Router Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:47:55 --> Output Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Security Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Input Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:47:55 --> Language Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:47:55 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:47:55 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Model Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:47:55 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:47:55 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:47:55 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:47:55 --> Final output sent to browser
+DEBUG - 2013-02-24 20:47:55 --> Total execution time: 0.0340
+DEBUG - 2013-02-24 20:48:38 --> Config Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:48:38 --> URI Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Router Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:48:38 --> Output Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Security Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Input Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:48:38 --> Language Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:48:38 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:48:38 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Model Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Model Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:48:38 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:38 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:48:38 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:48:38 --> Final output sent to browser
+DEBUG - 2013-02-24 20:48:38 --> Total execution time: 0.0318
+DEBUG - 2013-02-24 20:48:39 --> Config Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:48:39 --> URI Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Router Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:48:39 --> Output Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Security Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Input Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:48:39 --> Language Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:48:39 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:48:39 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Model Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Model Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:48:39 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:39 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:48:39 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:48:39 --> Final output sent to browser
+DEBUG - 2013-02-24 20:48:39 --> Total execution time: 0.0254
+DEBUG - 2013-02-24 20:48:40 --> Config Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:48:40 --> URI Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Router Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:48:40 --> Output Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Security Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Input Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:48:40 --> Language Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:48:40 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:48:40 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Model Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Model Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:48:40 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:48:40 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:48:40 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:48:40 --> Final output sent to browser
+DEBUG - 2013-02-24 20:48:40 --> Total execution time: 0.0308
+DEBUG - 2013-02-24 20:49:20 --> Config Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:49:20 --> URI Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Router Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:49:20 --> Output Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Security Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Input Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:49:20 --> Language Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:49:20 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:49:20 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Model Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Model Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:49:20 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:49:20 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:49:20 --> Final output sent to browser
+DEBUG - 2013-02-24 20:49:20 --> Total execution time: 0.0110
+DEBUG - 2013-02-24 20:49:21 --> Config Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:49:21 --> URI Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Router Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:49:21 --> Output Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Security Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Input Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:49:21 --> Language Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:49:21 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:49:21 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Model Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Model Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:49:21 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 20:49:21 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:49:21 --> Final output sent to browser
+DEBUG - 2013-02-24 20:49:21 --> Total execution time: 0.0168
+DEBUG - 2013-02-24 20:49:52 --> Config Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:49:52 --> URI Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Router Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:49:52 --> Output Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Security Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Input Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:49:52 --> Language Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:49:52 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:49:52 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Model Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Model Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:49:52 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:49:52 --> Final output sent to browser
+DEBUG - 2013-02-24 20:49:52 --> Total execution time: 0.0389
+DEBUG - 2013-02-24 20:49:52 --> Config Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:49:52 --> URI Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Router Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:49:52 --> Output Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Security Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Input Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:49:52 --> Language Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:49:52 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:49:52 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Model Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Model Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:49:52 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:49:52 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:49:52 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:49:52 --> Final output sent to browser
+DEBUG - 2013-02-24 20:49:52 --> Total execution time: 0.0253
+DEBUG - 2013-02-24 20:50:11 --> Config Class Initialized
+DEBUG - 2013-02-24 20:50:11 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:50:12 --> URI Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Router Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:50:12 --> Output Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Security Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Input Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:50:12 --> Language Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:50:12 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:50:12 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:50:12 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:50:12 --> Final output sent to browser
+DEBUG - 2013-02-24 20:50:12 --> Total execution time: 0.0249
+DEBUG - 2013-02-24 20:50:12 --> Config Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:50:12 --> URI Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Router Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:50:12 --> Output Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Security Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Input Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:50:12 --> Language Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:50:12 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:50:12 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:50:12 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:12 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:50:12 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:50:12 --> Final output sent to browser
+DEBUG - 2013-02-24 20:50:12 --> Total execution time: 0.0301
+DEBUG - 2013-02-24 20:50:27 --> Config Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:50:27 --> URI Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Router Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:50:27 --> Output Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Security Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Input Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:50:27 --> Language Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:50:27 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:50:27 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:50:27 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:27 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:50:27 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:50:27 --> Final output sent to browser
+DEBUG - 2013-02-24 20:50:27 --> Total execution time: 0.0296
+DEBUG - 2013-02-24 20:50:28 --> Config Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:50:28 --> URI Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Router Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:50:28 --> Output Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Security Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Input Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:50:28 --> Language Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:50:28 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:50:28 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:50:28 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:50:28 --> Final output sent to browser
+DEBUG - 2013-02-24 20:50:28 --> Total execution time: 0.0296
+DEBUG - 2013-02-24 20:50:28 --> Config Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:50:28 --> URI Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Router Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:50:28 --> Output Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Security Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Input Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:50:28 --> Language Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:50:28 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:50:28 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:50:28 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:28 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:50:28 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:50:28 --> Final output sent to browser
+DEBUG - 2013-02-24 20:50:28 --> Total execution time: 0.0253
+DEBUG - 2013-02-24 20:50:29 --> Config Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:50:29 --> URI Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Router Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:50:29 --> Output Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Security Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Input Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:50:29 --> Language Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:50:29 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:50:29 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Model Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:50:29 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:50:29 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:50:29 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:50:29 --> Final output sent to browser
+DEBUG - 2013-02-24 20:50:29 --> Total execution time: 0.0325
+DEBUG - 2013-02-24 20:51:02 --> Config Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:51:02 --> URI Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Router Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:51:02 --> Output Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Security Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Input Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:51:02 --> Language Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:51:02 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:51:02 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:51:02 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:02 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:51:02 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:51:02 --> Final output sent to browser
+DEBUG - 2013-02-24 20:51:02 --> Total execution time: 0.0301
+DEBUG - 2013-02-24 20:51:14 --> Config Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:51:14 --> URI Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Router Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:51:14 --> Output Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Security Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Input Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:51:14 --> Language Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:51:14 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:51:14 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:51:14 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:14 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:51:14 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:51:14 --> Final output sent to browser
+DEBUG - 2013-02-24 20:51:14 --> Total execution time: 0.0305
+DEBUG - 2013-02-24 20:51:18 --> Config Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:51:18 --> URI Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Router Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:51:18 --> Output Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Security Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Input Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:51:18 --> Language Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:51:18 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:51:18 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:51:18 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:18 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:51:18 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:51:18 --> Final output sent to browser
+DEBUG - 2013-02-24 20:51:18 --> Total execution time: 0.0280
+DEBUG - 2013-02-24 20:51:19 --> Config Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:51:19 --> URI Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Router Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:51:19 --> Output Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Security Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Input Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:51:19 --> Language Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:51:19 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:51:19 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:51:19 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:19 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:51:19 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:51:19 --> Final output sent to browser
+DEBUG - 2013-02-24 20:51:19 --> Total execution time: 0.0271
+DEBUG - 2013-02-24 20:51:49 --> Config Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:51:49 --> URI Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Router Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:51:49 --> Output Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Security Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Input Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:51:49 --> Language Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:51:49 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:51:49 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:51:49 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:49 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:51:49 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:51:49 --> Final output sent to browser
+DEBUG - 2013-02-24 20:51:49 --> Total execution time: 0.0294
+DEBUG - 2013-02-24 20:51:51 --> Config Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Hooks Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 20:51:51 --> URI Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Router Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 20:51:51 --> Output Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Security Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Input Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 20:51:51 --> Language Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Loader Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 20:51:51 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 20:51:51 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Model Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Controller Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> Upload Class Initialized
+DEBUG - 2013-02-24 20:51:51 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+ERROR - 2013-02-24 20:51:51 --> Severity: Notice  --> Use of undefined constant imagepath - assumed 'imagepath' /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 49
+DEBUG - 2013-02-24 20:51:51 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 20:51:51 --> Final output sent to browser
+DEBUG - 2013-02-24 20:51:51 --> Total execution time: 0.0268
+DEBUG - 2013-02-24 22:07:44 --> Config Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:07:44 --> URI Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Router Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:07:44 --> Output Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Security Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Input Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:07:44 --> Language Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:07:44 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:07:44 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Model Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Model Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:07:44 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 22:07:44 --> Severity: Notice  --> Undefined variable: row /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 9
+ERROR - 2013-02-24 22:07:44 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 9
+DEBUG - 2013-02-24 22:07:44 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:07:44 --> Final output sent to browser
+DEBUG - 2013-02-24 22:07:44 --> Total execution time: 0.0131
+DEBUG - 2013-02-24 22:07:54 --> Config Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:07:54 --> URI Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Router Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:07:54 --> Output Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Security Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Input Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:07:54 --> Language Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:07:54 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:07:54 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Model Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Model Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 22:07:54 --> Severity: Notice  --> Undefined variable: row /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 9
+ERROR - 2013-02-24 22:07:54 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 9
+DEBUG - 2013-02-24 22:07:54 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:07:54 --> Final output sent to browser
+DEBUG - 2013-02-24 22:07:54 --> Total execution time: 0.0223
+DEBUG - 2013-02-24 22:07:54 --> Config Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:07:54 --> URI Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Router Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:07:54 --> Output Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Security Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Input Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:07:54 --> Language Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:07:54 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:07:54 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Model Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Model Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:07:54 --> File loaded: application/views/partials/page_head.php
+ERROR - 2013-02-24 22:07:54 --> Severity: Notice  --> Undefined variable: row /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 9
+ERROR - 2013-02-24 22:07:54 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/SeniorProject/application/views/layouts/home.php 9
+DEBUG - 2013-02-24 22:07:54 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:07:54 --> Final output sent to browser
+DEBUG - 2013-02-24 22:07:54 --> Total execution time: 0.0122
+DEBUG - 2013-02-24 22:08:21 --> Config Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:08:21 --> URI Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Router Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:08:21 --> Output Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Security Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Input Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:08:21 --> Language Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:08:21 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:08:21 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Model Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Model Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:08:21 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:08:21 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:08:21 --> Final output sent to browser
+DEBUG - 2013-02-24 22:08:21 --> Total execution time: 0.0179
+DEBUG - 2013-02-24 22:19:09 --> Config Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:19:09 --> URI Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Router Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:19:09 --> Output Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Security Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Input Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:19:09 --> Language Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:19:09 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:19:09 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Model Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Model Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:19:09 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:19:09 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:19:09 --> Final output sent to browser
+DEBUG - 2013-02-24 22:19:09 --> Total execution time: 0.0186
+DEBUG - 2013-02-24 22:19:11 --> Config Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:19:11 --> URI Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Router Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:19:11 --> Output Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Security Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Input Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:19:11 --> Language Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:19:11 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:19:11 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Model Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Model Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:19:11 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:19:11 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:19:11 --> Final output sent to browser
+DEBUG - 2013-02-24 22:19:11 --> Total execution time: 0.0149
+DEBUG - 2013-02-24 22:20:44 --> Config Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:20:44 --> URI Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Router Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:20:44 --> Output Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Security Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Input Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:20:44 --> Language Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:20:44 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:20:44 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Model Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Model Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:20:44 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:20:44 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:20:44 --> Final output sent to browser
+DEBUG - 2013-02-24 22:20:44 --> Total execution time: 0.0114
+DEBUG - 2013-02-24 22:20:58 --> Config Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:20:58 --> URI Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Router Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:20:58 --> Output Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Security Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Input Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:20:58 --> Language Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:20:58 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:20:58 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Model Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Model Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:20:58 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:20:58 --> Final output sent to browser
+DEBUG - 2013-02-24 22:20:58 --> Total execution time: 0.0160
+DEBUG - 2013-02-24 22:20:58 --> Config Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:20:58 --> URI Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Router Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:20:58 --> Output Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Security Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Input Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:20:58 --> Language Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:20:58 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:20:58 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Model Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Model Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:20:58 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:20:58 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:20:58 --> Final output sent to browser
+DEBUG - 2013-02-24 22:20:58 --> Total execution time: 0.0193
+DEBUG - 2013-02-24 22:21:28 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:28 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:28 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:28 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:28 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:21:28 --> File loaded: application/views/layouts/delete.php
+DEBUG - 2013-02-24 22:21:28 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:28 --> Total execution time: 0.0105
+DEBUG - 2013-02-24 22:21:28 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:28 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:28 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:28 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:28 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:28 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:21:28 --> File loaded: application/views/layouts/delete.php
+DEBUG - 2013-02-24 22:21:28 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:28 --> Total execution time: 0.0097
+DEBUG - 2013-02-24 22:21:31 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:31 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:31 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:31 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:31 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> File loaded: application/views/partials/folderdeleted.php
+DEBUG - 2013-02-24 22:21:31 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:31 --> Total execution time: 0.0164
+DEBUG - 2013-02-24 22:21:31 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:31 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:31 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:31 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:31 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:31 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:31 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:31 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> File loaded: application/views/partials/folderdeleted.php
+DEBUG - 2013-02-24 22:21:31 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:31 --> Total execution time: 0.0090
+DEBUG - 2013-02-24 22:21:31 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:31 --> File loaded: application/views/partials/folderdeleted.php
+DEBUG - 2013-02-24 22:21:31 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:31 --> Total execution time: 0.0098
+DEBUG - 2013-02-24 22:21:33 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:33 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:33 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:33 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:33 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:33 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:21:33 --> File loaded: application/views/layouts/delete.php
+DEBUG - 2013-02-24 22:21:33 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:33 --> Total execution time: 0.0129
+DEBUG - 2013-02-24 22:21:37 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:37 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:37 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> File loaded: application/views/partials/folderdeleted.php
+DEBUG - 2013-02-24 22:21:37 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:37 --> Total execution time: 0.0104
+DEBUG - 2013-02-24 22:21:37 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:37 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:37 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:37 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:37 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:37 --> File loaded: application/views/partials/folderdeleted.php
+DEBUG - 2013-02-24 22:21:37 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:37 --> Total execution time: 0.0094
+DEBUG - 2013-02-24 22:21:38 --> Config Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:21:38 --> URI Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Router Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:21:38 --> Output Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Security Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Input Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:21:38 --> Language Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:21:38 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:21:38 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Model Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:21:38 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:21:38 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:21:38 --> Final output sent to browser
+DEBUG - 2013-02-24 22:21:38 --> Total execution time: 0.0136
+DEBUG - 2013-02-24 22:22:07 --> Config Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:22:07 --> URI Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Router Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:22:07 --> Output Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Security Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Input Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:22:07 --> Language Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:22:07 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:22:07 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Model Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Model Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:22:07 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:22:07 --> Final output sent to browser
+DEBUG - 2013-02-24 22:22:07 --> Total execution time: 0.0107
+DEBUG - 2013-02-24 22:22:07 --> Config Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Hooks Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Utf8 Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> UTF-8 Support Enabled
+DEBUG - 2013-02-24 22:22:07 --> URI Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Router Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> No URI present. Default controller set.
+DEBUG - 2013-02-24 22:22:07 --> Output Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Security Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Input Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-02-24 22:22:07 --> Language Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Loader Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Helper loaded: url_helper
+DEBUG - 2013-02-24 22:22:07 --> Helper loaded: form_helper
+DEBUG - 2013-02-24 22:22:07 --> Database Driver Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Model Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Model Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Controller Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> Upload Class Initialized
+DEBUG - 2013-02-24 22:22:07 --> File loaded: application/views/partials/page_head.php
+DEBUG - 2013-02-24 22:22:07 --> File loaded: application/views/layouts/home.php
+DEBUG - 2013-02-24 22:22:07 --> Final output sent to browser
+DEBUG - 2013-02-24 22:22:07 --> Total execution time: 0.0107
