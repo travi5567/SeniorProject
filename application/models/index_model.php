@@ -19,40 +19,24 @@ class index_model extends CI_Model {
 
   function getFolderNames() {
     $this->db->order_by('id', 'DESC');
-    $this->db->select('folderName');
     $q = $this->db->get('senior');
-  
-    if($q->num_rows() > 0) {
-        foreach ($q->result() as $row) {
-          $data[] = $row;
-        }
-      return $data;
-    }
+    return $q->result();
   }
 
   function getImagenames() {
     $this->db->order_by('id', 'DESC');
-    $this->db->select('imageName');
     $query = $this->db->get('images');
-  
-    if($query->num_rows() > 0) {
-        foreach ($query->result() as $row) {
-          $data[] = $row;
-        }
-      return $data;
-    }
+    return $query->result();
   }
 
-  function deleteFolder($checkbox) {
-    $this->db->where('folderName', $checkbox); 
+  function deleteFolder() {
+    $this->db->where('id', $this->uri->segment(3)); 
     $this->db->delete('senior');
-    return;
   }
 
   function addImage($db_data) {
     $this->db->where('imageName');
     $this->db->insert('images', $db_data);
-    return;
   }
 
 		

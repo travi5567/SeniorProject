@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php $this->load->view('partials/page_head'); ?> 
-<body class="home">
+<body class="homepage">
   <div id="container">
 <!-- ****************** TOP NAVIGATION SECTION ********************--> 
 <!-- ///////////////////////////////////////////////////////////// -->
@@ -34,7 +34,7 @@
       <div class="open <?php echo $row->folderName; ?>">
         <div class="top">
           <div class="topcenter">
-            <section class="nav"><a class="gohome">Home</a><a class="addimagebtn">Add Image</a><a class="viewimagesbtn">View Images</a></section>
+            <section class="nav"><a class="gohome btn">Home</a><a class="addimagebtn btn">Add Image</a><a class="viewimagesbtn btn">View Images</a></section>
           </div>    
           <div class="navdescription"><span><?php echo $row->folderName;?></span></div>
         </div>
@@ -46,11 +46,7 @@
           </div>
         </div>
         <!-- END OF CONTENT EDITITABLE -->
-<<<<<<< HEAD
       </div>  
-=======
-    </div>  
->>>>>>> f806d8c9f438fca89990179b16512b034ff1924b
     <?php } ?>
 
 <!-- ****************** IMAGE FILES LOOP MODULE ********************--> 

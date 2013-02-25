@@ -1,27 +1,35 @@
 <!DOCTYPE html>
 <?php $this->load->view('partials/page_head'); ?> 
-<body>
+<body class="deletepage">
   <div id="container">
-    <div id="top">
+    <!-- ****************** TOP NAVIGATION SECTION ********************--> 
+<!-- ///////////////////////////////////////////////////////////// -->
+    <div class="top">
       <div class="topcenter">
-       <h2><a class="homebtn" href="<?php echo base_url();?>">Home</a></h2>
-      </div>
+        <section class="nav"><a href="<?php echo base_url();?>index.php/home" class="homebtn">Go Home</a></section>
+      </div>    
       <div class="navdescription"><span>Delete Page</span></div>
     </div>
-    
       <div class="projectFolders">
       <?php foreach($foldername as $row) { ?>
         <div class="folder">
-          <button><?php echo $row->folderName; ?></button>
-          <div class="delete">
-            <form name="delete" method="post" action="<?php echo base_url(); ?>index.php/home/deleteFolder">    
-              <p>
-                <input name="checkbox" value="<?php echo $row->folderName; ?>" type = "checkbox" id = "check_<?php echo $row->folderName; ?>"/>
-                <?php echo form_submit('deleteFolder', 'Delete'); ?>
-              </p>
-          </form>
-          </div>
+          <h1 class="deleteme"><?php echo $row->folderName;?></h1>
+          <?php echo anchor("home/deleteFolder/$row->id", 'Delete', 'class="confirmClick"', 'title="<?php echo $row->folderName;?>"');?>
         </div>
+        <script>
+          $(".confirmClick").click( function() { 
+            if ($(this).attr('title')) {
+                var question = 'Are you sure you want to ' + $(this).attr('title').toLowerCase() + '?';
+            } else {
+                var question = 'Are you sure you want to do this action?';
+            }
+            if ( confirm( question ) ) {
+                [removed].href = this.src;
+            } else {
+                return false;
+            }
+          }); 
+        </script>
       <?php } ?>
     </div>
   </div><!-- End of container div -->

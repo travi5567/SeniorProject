@@ -34,10 +34,7 @@ class Home extends CI_Controller {
   }
 
  function deleteFolder() {
-   if($this->input->post('checkbox') !== false) {
-      $checkbox = $this->input->post('checkbox');
-      $this->index_model->deleteFolder($checkbox);
-    }
+    $this->index_model->deleteFolder();
     $this->folderdeleted();
   }
 

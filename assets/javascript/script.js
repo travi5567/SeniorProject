@@ -9,6 +9,8 @@ $(document).ready(function() {
     var uploadimage = $('#uploadimages');
     var imagefiles = $('#imagefiles');
     var homebtn = $('a.addfolder_btn');
+    var viewimagesbtn = $('a.viewimagesbtn');
+    var addimagebtn = $('a.addimagebtn');
 
 
 /*************************************************************************************/
@@ -35,14 +37,17 @@ $(document).ready(function() {
 //show and hide the image upload content
   $('.addimagebtn').bind('click', function()
   {
+    addimagebtn.toggleClass('addimagebtnactive');
     uploadimage.toggle();
   });
 
 /*************************************************************************************/
 //show and hide images stored in database
-  $('.viewimagesbtn').bind('click', function()
+  viewimagesbtn.bind('click', function()
   {
+    viewimagesbtn.toggleClass('viewimagesbtnactive');
     imagefiles.toggle();
+
   });
 
 /*************************************************************************************/
