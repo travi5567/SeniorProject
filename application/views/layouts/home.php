@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php $this->load->view('partials/page_head'); ?> 
-<body class="homepage" onload="saveEdits()">
+<body class="homepage" onLoad="<?php foreach($foldername as $row) { ?>checkEdits_<?php echo $row->folderName; ?>(); <?php } ?>">
   <div id="container">
 <!-- ****************** TOP NAVIGATION SECTION ********************--> 
 <!-- ///////////////////////////////////////////////////////////// -->
@@ -41,14 +41,26 @@
         <!-- END OF TOP NAV -->
 
         <div class="textarea">
-          <div class="edititable edit1" style="height: 200px; width: 300px;" contenteditable="true">
+          <div id="edit_<?php echo $row->id;?>" class="edititable" style="height: 200px; width: 300px;" contenteditable="true">
             <strong>Enter yuor content here. To insert images, click the View images button above and drag your selected image into this box.</strong>
             <p>Thank you, for choosing DesignTrap</p>
           </div>
         </div>
         <!-- END OF CONTENT EDITITABLE -->
       </div>
-    <?php } ?>
+        <script type="text/javascript">
+          $(function() {
+            var someSection = document.getElementById('edit_<?php echo $row->id;?>');
+              $(someSection).blur(function() {
+                localStorage.setItem('edit_<?php echo $row->id;?>', this.innerHTML);
+              });
+          
+              if(localStorage.getItem('edit_<?php echo $row->id;?>')) {
+                someSection.innerHTML = localStorage.getItem('edit_<?php echo $row->id;?>');
+              }
+            });
+        </script>
+        <?php } ?>
 
 <!-- ****************** IMAGE FILES LOOP MODULE ********************--> 
 <!-- ////////////////////////////////////////////////////////////// -->
