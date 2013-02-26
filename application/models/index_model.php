@@ -8,10 +8,6 @@ class index_model extends CI_Model {
         parent::__construct();
     }
 
-	function home() {
-			
-		}
-
   function createFolder($data) {
     $this->db->insert('senior', $data);
     return;
@@ -37,6 +33,11 @@ class index_model extends CI_Model {
   function addImage($db_data) {
     $this->db->where('imageName');
     $this->db->insert('images', $db_data);
+  }
+
+  function deleteImage() {
+    $this->db->where('id', $this->uri->segment(3)); 
+    $this->db->delete('images');
   }
 
 		

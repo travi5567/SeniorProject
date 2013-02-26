@@ -72,6 +72,26 @@ $(document).ready(function() {
   });
 
 /*************************************************************************************/
+//Confirmaation Module for Delete function
+  $(".confirmClick").click( function() {
+    if ($(this).attr('title')) {
+        var question = 'Are you sure you want to ' + $(this).attr('title').toLowerCase() + '?';
+    } else {
+        var question = 'Are you sure you want to delete this folder?';
+    }
+    if ( confirm( question ) ) {
+        [removed].href = this.src;
+    } else {
+        return;
+    }
+  });
+
+/*************************************************************************************/
+
+
+
+
+
 
 
 

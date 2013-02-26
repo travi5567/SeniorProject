@@ -16,20 +16,6 @@
           <h1 class="deleteme"><?php echo $row->folderName;?></h1>
           <?php echo anchor("home/deleteFolder/$row->id", 'Delete', 'class="confirmClick"', 'title="<?php echo $row->folderName;?>"');?>
         </div>
-        <script>
-          $(".confirmClick").click( function() { 
-            if ($(this).attr('title')) {
-                var question = 'Are you sure you want to ' + $(this).attr('title').toLowerCase() + '?';
-            } else {
-                var question = 'Are you sure you want to do this action?';
-            }
-            if ( confirm( question ) ) {
-                [removed].href = this.src;
-            } else {
-                return false;
-            }
-          }); 
-        </script>
       <?php } ?>
     </div>
   </div><!-- End of container div -->

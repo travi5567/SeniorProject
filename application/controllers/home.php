@@ -33,7 +33,7 @@ class Home extends CI_Controller {
     $this->load->view('layouts/delete', $foldername);
   }
 
- function deleteFolder() {
+  function deleteFolder() {
     $this->index_model->deleteFolder();
     $this->folderdeleted();
   }
@@ -42,9 +42,13 @@ class Home extends CI_Controller {
     $this->load->view('partials/foldercreated');
   }
 
-   function folderdeleted() {
+  function folderdeleted() {
      $this->load->view('partials/folderdeleted');
-   }
+  }
+
+  function imagedeleted() {
+     $this->load->view('partials/imagedeleted');
+  }
 
    function do_upload() {
     $config['source_image'] = $this->upload->upload_path.$this->upload->file_name;
@@ -69,24 +73,20 @@ class Home extends CI_Controller {
       $db_data = array('imageName' => $upload_data['file_name']);
       $this->index_model->addImage($db_data); // replace the tablename
 
-      $this->load->view('partials/upload_success', $db_data);
-
+      $this->load->view('partials/upload_success', $db_data);         
     }
   }
 
-  function resize_img() {
-    $config['image_library'] = 'gd2';
-    $config['source_image'] = './uploads/';
-    $config['create_thumb'] = TRUE;
-    $config['maintain_ratio'] = TRUE;
-    $config['width']   = 75;
-    $config['height'] = 50;
-    
-    $this->load->library('image_lib', $config); 
-    
-    $this->image_lib->resize();
+  function gallery() {
+    $this->load->model('index_model');
+    $data['imagename'] = $this->index_model->getImagenames();
+    $this->load->view('layouts/gallery', $data);
   }
 
+  function deleteImage() {
+    $this->index_model->deleteImage();
+    $this->imagedeleted();
+  }
 
 
 

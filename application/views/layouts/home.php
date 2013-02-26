@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <?php $this->load->view('partials/page_head'); ?> 
-<body class="homepage">
+<body class="homepage" onload="saveEdits()">
   <div id="container">
 <!-- ****************** TOP NAVIGATION SECTION ********************--> 
 <!-- ///////////////////////////////////////////////////////////// -->
     <div class="top">
       <div class="topcenter">
-        <section class="nav"><a class="addfolder_btn">Add Folder</a><a class="deletefolder_btn" href="<?php echo base_url();?>index.php/home/delete">DeleteFolders</a></section>
+        <section class="nav"><a class="addfolder_btn">Add Folder</a><a class="deletefolder_btn" href="<?php echo base_url();?>index.php/home/delete">DeleteFolders</a><a class="deleteimage_btn" href="<?php echo base_url();?>index.php/home/gallery">DeleteImages</a></section>
       </div>    
       <div class="navdescription"><span>Home</span></div>
     </div>
@@ -41,12 +41,13 @@
         <!-- END OF TOP NAV -->
 
         <div class="textarea">
-          <div class="edititable" style="height: 200px; width: 300px;" contenteditable="true">
-            Your Content Goes Here
+          <div class="edititable edit1" style="height: 200px; width: 300px;" contenteditable="true">
+            <strong>Enter yuor content here. To insert images, click the View images button above and drag your selected image into this box.</strong>
+            <p>Thank you, for choosing DesignTrap</p>
           </div>
         </div>
         <!-- END OF CONTENT EDITITABLE -->
-      </div>  
+      </div>
     <?php } ?>
 
 <!-- ****************** IMAGE FILES LOOP MODULE ********************--> 
@@ -66,11 +67,13 @@
     <div id="uploadimages">
       <h3>Upload you images to the gallery</h3>
       <p>click on the view images button to veiw your image gallery, you can then drag your image of choice to the edititable textbox</p>
-      <?php echo form_open_multipart('home/do_upload');?>
-      <input type="file" name="userfile" />
-        <br /><br />
-      <input type="submit" value="Add Image" />
-      </form>
+      <div class="fileupload">
+        <?php echo form_open_multipart('home/do_upload');?>
+          <input type="file" name="userfile" class="file" />
+            <br /><br />
+          <input type="submit" value="Add Image" />
+        </form>
+      </div>
     </div>
 
 <!-- ****************** BOTTOM CREATE FOLDER INPUT MODULE ********************--> 
