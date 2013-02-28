@@ -6,15 +6,28 @@ class Home extends CI_Controller {
   	{
         parent::__construct();
         $this->load->library('upload');
+        $this->load->library('user_agent');
   	}
-  function index() {
-    
-    $this->load->model('index_model');
-    $data['foldername'] = $this->index_model->getFoldernames();
-    $data['imagename'] = $this->index_model->getImagenames();
 
-    $this->load->view('layouts/home', $data);
-	}
+
+    function index() {
+      //*************** MOBILE DETECTION - IF MOBILE DEVICE LOAD THIS IF NOT LOAD THIS */
+     if (!$this->agent->is_mobile()) {
+        $this->load->model('index_model');
+        $data['foldername'] = $this->index_model->getFoldernames();
+        $data['imagename'] = $this->index_model->getImagenames();
+
+        $this->load->view('layouts/home', $data);        
+     }
+     else {    
+        $this->load->model('index_model');
+        $data['foldername'] = $this->index_model->getFoldernames();
+        $data['imagename'] = $this->index_model->getImagenames();
+
+        $this->load->view('layouts/home_mobile', $data);
+      }
+    }
+
 
 	function create() {
     if(array_key_exists('createFolder',$_POST)){

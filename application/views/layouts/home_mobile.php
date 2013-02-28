@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $this->load->view('partials/page_head'); ?> 
+<?php $this->load->view('partials/page_head_mobile'); ?>
 <body class="homepage" >
   <section id="container">
 <!-- ****************** TOP NAVIGATION SECTION ********************--> 
@@ -8,7 +8,7 @@
       <div class="topcenter">
         <div class="nav"><a class="addfolder_btn">Add Folder</a><a class="deletefolder_btn" href="<?php echo base_url();?>index.php/home/delete">DeleteFolders</a><a class="deleteimage_btn" href="<?php echo base_url();?>index.php/home/gallery">DeleteImages</a></div>
       </div>    
-      <section class="navdescription"><span>Home</span></section>
+      <section class="navdescription"><span>Home Mobile</span></section>
     </section>
   
 <!-- ****************** PROJECT FOLDERS LOOP ********************--> 
@@ -41,6 +41,7 @@
         <!-- END OF TOP NAV -->
 
         <section class="textarea">
+          
           <section id="edit_<?php echo $row->id;?>" class="edititable" style="height: 200px; width: 300px;" contenteditable="true">
             <strong>Enter yuor content here. To insert images, click the View images button above and drag your selected image into this box.</strong>
             <p>Thank you, for choosing DesignTrap</p>
@@ -68,7 +69,7 @@
         <ul>
           <?php foreach ($imagename as $img) { ?>
             <li class="imgdrag" draggable="true">
-              <img draggable="true" class="image" src="<?php echo base_url();?>uploads/<?php echo $img->imageName; ?>" alt="<?php echo $img->imageName; ?>">
+              <img class="image" src="<?php echo base_url();?>uploads/<?php echo $img->imageName; ?>" alt="<?php echo $img->imageName; ?>">
             </li>
           <?php } ?>
         </ul> 

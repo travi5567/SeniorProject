@@ -13,7 +13,6 @@
   <div id="container">
     <div class="alert">
       <h1>Your file was successfully uploaded!</h1>
-      <span class="exit">Continue Editing</span>
       <p><?php echo anchor('home', 'Go Home'); ?></p>
     </div>
   </div>
