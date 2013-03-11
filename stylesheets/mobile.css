@@ -67,23 +67,23 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 * {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
-/* line 27, ../sass/mobile.sass */
+/* line 29, ../sass/mobile.sass */
 #imagefiles {
   position: absolute;
-  top: 80px;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 100;
+  z-index: 500;
   color: #f2f2f2;
-  background: #4b4b4b; }
-  /* line 36, ../sass/mobile.sass */
+  background: #111111; }
+  /* line 38, ../sass/mobile.sass */
   #imagefiles ul {
     width: 100%;
     height: 100%;
     overflow: scroll;
     background: #4b4b4b; }
-    /* line 41, ../sass/mobile.sass */
+    /* line 43, ../sass/mobile.sass */
     #imagefiles ul li {
       display: block;
       float: left;
@@ -98,12 +98,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
       border-radius: 3px;
       margin: 10px;
       cursor: poniter; }
-      /* line 51, ../sass/mobile.sass */
+      /* line 53, ../sass/mobile.sass */
       #imagefiles ul li img {
         width: 100%;
         height: 100%; }
         @media (max-width: 480px) {
-          /* line 51, ../sass/mobile.sass */
+          /* line 53, ../sass/mobile.sass */
           #imagefiles ul li img {
             width: 80%;
             height: 80%; } }

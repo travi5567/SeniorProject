@@ -1,4 +1,7 @@
-<?php 
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+/* Author: Travis Michael Heller
+ * Description: Login controller class
+ */
 
 class Home extends CI_Controller {
 
@@ -52,15 +55,15 @@ class Home extends CI_Controller {
   }
 
   function foldercreated() {
-    $this->load->view('partials/foldercreated');
+    $this->index();
   }
 
   function folderdeleted() {
-     $this->load->view('partials/folderdeleted');
+     $this->index();
   }
 
   function imagedeleted() {
-     $this->load->view('partials/imagedeleted');
+     $this->index();
   }
 
    function do_upload() {
@@ -75,7 +78,6 @@ class Home extends CI_Controller {
     
     if ( !$this->upload->do_upload('userfile'))
     {
-      echo  '<p>IMAGE NOT WORKING</p>'. '<br/><p>' . $this->upload->display_errors() . '</p>';
       $uploadError = $this->upload->display_errors();
       $this->load->view('partials/upload_error', $uploadError);
     }
@@ -86,7 +88,7 @@ class Home extends CI_Controller {
       $db_data = array('imageName' => $upload_data['file_name']);
       $this->index_model->addImage($db_data); // replace the tablename
 
-      $this->load->view('partials/upload_success', $db_data);         
+      $this->index();         
     }
   }
 
@@ -98,7 +100,7 @@ class Home extends CI_Controller {
 
   function deleteImage() {
     $this->index_model->deleteImage();
-    $this->imagedeleted();
+    $this->index();
   }
 
 

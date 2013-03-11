@@ -2,6 +2,7 @@
 <?php $this->load->view('partials/page_head'); ?> 
 <body class="deletepage">
   <div id="container">
+    <button class="togglenav"></button>
     <!-- ****************** TOP NAVIGATION SECTION ********************--> 
 <!-- ///////////////////////////////////////////////////////////// -->
     <div class="top">
@@ -9,7 +10,9 @@
         <section class="nav"><a href="<?php echo base_url();?>index.php/home" class="homebtn">Go Home</a></section>
       </div>    
       <div class="navdescription"><span>Delete Page</span></div>
+      <button class="togglenav"><h1>NAVIGATION</h1></button>
     </div>
+    
       <div class="projectFolders">
       <?php foreach($foldername as $row) { ?>
         <div class="folder">

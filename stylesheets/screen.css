@@ -69,36 +69,44 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block; }
 
 /* COLOR VARIABLES */
-/* line 29, ../sass/screen.sass */
+@font-face {
+  font-family: "nexabold";
+  src: url('/fonts/nexabold/Nexa_Free_Bold-webfont.ttf') format('truetype'); }
+
+@font-face {
+  font-family: "nexalight";
+  src: url('/fonts/nexalight/Nexa_Free_Light-webfont.ttf') format('truetype'); }
+
+/* line 31, ../sass/screen.sass */
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
-/* line 32, ../sass/screen.sass */
+/* line 34, ../sass/screen.sass */
 html, body {
   overflow-x: hidden;
   height: 100%; }
 
-/* line 35, ../sass/screen.sass */
+/* line 37, ../sass/screen.sass */
 body {
   background: #222222;
   color: #111111;
   font-family: helvetica, sans-serif; }
 
-/* line 40, ../sass/screen.sass */
+/* line 42, ../sass/screen.sass */
 strong {
   font-weight: bold; }
 
-/* line 43, ../sass/screen.sass */
+/* line 45, ../sass/screen.sass */
 input[type="submit"] {
   border: none;
   outline: none; }
 
-/* line 47, ../sass/screen.sass */
+/* line 49, ../sass/screen.sass */
 #container {
   position: relative;
-  width: 800px;
+  width: 100%;
   height: 100%;
   overflow: hidden;
   -webkit-box-shadow: 0 0 5px 5px #444444;
@@ -111,60 +119,60 @@ input[type="submit"] {
   border-radius: 3px;
   margin: 0 auto 0;
   background: #111111;
-  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg); }
+  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat; }
   @media (max-width: 480px) {
-    /* line 47, ../sass/screen.sass */
+    /* line 49, ../sass/screen.sass */
     #container {
       width: 100%;
       border: none; } }
 
-/* line 60, ../sass/screen.sass */
-.alert {
-  text-align: center;
-  background: #111111;
-  width: 80%;
-  overflow: hidden;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  -ms-border-radius: 3px;
-  -o-border-radius: 3px;
-  border-radius: 3px;
-  -webkit-box-shadow: 0 0 5px 5px black;
-  -moz-box-shadow: 0 0 5px 5px black;
-  box-shadow: 0 0 5px 5px black;
-  margin: 50px auto 20px;
-  padding: 10px; }
-  /* line 69, ../sass/screen.sass */
-  .alert h1, .alert h2 {
-    color: #f2f2f2;
-    font-size: 16px;
-    margin: 10px; }
-  /* line 73, ../sass/screen.sass */
-  .alert h2 {
-    color: #b52121;
-    margin: 3px; }
-  /* line 76, ../sass/screen.sass */
-  .alert ul li {
-    color: #b52121;
-    clear: both; }
-  /* line 79, ../sass/screen.sass */
-  .alert li {
-    display: block;
-    float: left;
-    padding: 3px; }
-  /* line 83, ../sass/screen.sass */
-  .alert hr {
-    clear: both; }
-  /* line 85, ../sass/screen.sass */
-  .alert a {
-    color: #5b8b17;
-    text-align: center;
-    text-decoration: none; }
-  /* line 89, ../sass/screen.sass */
-  .alert span {
-    color: #f2f2f2; }
+/* line 63, ../sass/screen.sass */
+.togglenav.opened {
+  color: #5b8b17; }
+  /* line 65, ../sass/screen.sass */
+  .togglenav.opened h1 {
+    color: #5b8b17 !important; }
 
-/* line 92, ../sass/screen.sass */
+/* line 69, ../sass/screen.sass */
+.togglenav {
+  width: 100%;
+  height: 50px;
+  background: #5b8b17;
+  color: #f2f2f2;
+  padding: 3px;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  z-index: 600;
+  border-bottom: 2px solid #222222;
+  cursor: pointer;
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0.5, #222222), to(#111111));
+  background-image: -webkit-linear-gradient(#222222 50%, #111111);
+  background-image: -moz-linear-gradient(#222222 50%, #111111);
+  background-image: -o-linear-gradient(#222222 50%, #111111);
+  background-image: linear-gradient(#222222 50%, #111111); }
+  /* line 86, ../sass/screen.sass */
+  .togglenav .uparrow, .togglenav .downarrow {
+    position: absolute;
+    left: 0;
+    width: 25px;
+    height: 25px; }
+  /* line 91, ../sass/screen.sass */
+  .togglenav .uparrow {
+    background: url(http://www.travismichael.net/SeniorProject/assets/images/togglearrows.png) no-repeat top right; }
+  /* line 93, ../sass/screen.sass */
+  .togglenav .downarrow {
+    background: url(http://www.travismichael.net/SeniorProject/assets/images/togglearrows.png) no-repeat top left; }
+  /* line 95, ../sass/screen.sass */
+  .togglenav h1 {
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 20px !important;
+    padding: 3px;
+    float: none;
+      float-font-weight: normal; }
+
+/* line 103, ../sass/screen.sass */
 .navdescription {
   position: absolute;
   width: 100%;
@@ -172,10 +180,10 @@ input[type="submit"] {
   margin: 0;
   padding: 5px 0 5px 0; }
   @media (max-width: 480px) {
-    /* line 92, ../sass/screen.sass */
+    /* line 103, ../sass/screen.sass */
     .navdescription {
       background: none; } }
-  /* line 101, ../sass/screen.sass */
+  /* line 112, ../sass/screen.sass */
   .navdescription span {
     width: 100%;
     display: block;
@@ -186,122 +194,160 @@ input[type="submit"] {
     background: black;
     border-bottom: 1px solid #5b8b17; }
 
-/* line 111, ../sass/screen.sass */
+/* line 122, ../sass/screen.sass */
 .top {
   position: fixed;
   top: 0;
-  z-index: 20;
-  width: 800px;
+  z-index: 500;
+  width: 100%;
   padding: 0;
-  margin: 0;
+  margin: -50px 0 0 0;
   background: #5b8b17;
-  overflow: hidden;
-  height: 75px; }
+  height: 50px; }
   @media (max-width: 800px) {
-    /* line 111, ../sass/screen.sass */
+    /* line 122, ../sass/screen.sass */
     .top {
       width: 100%; } }
-  /* line 124, ../sass/screen.sass */
-  .top .topcenter {
-    padding: 3px 30px;
-    position: relative; }
-    @media (max-width: 800px) {
-      /* line 124, ../sass/screen.sass */
-      .top .topcenter {
-        padding: 3px 5px; } }
-  /* line 130, ../sass/screen.sass */
-  .top h1 {
-    font-size: 24px;
-    color: #f2f2f2;
-    width: 100px;
-    float: right;
-    padding: 5px; }
-    @media (max-width: 800px) {
-      /* line 130, ../sass/screen.sass */
-      .top h1 {
-        font-size: 18px; } }
-  /* line 138, ../sass/screen.sass */
+  /* line 133, ../sass/screen.sass */
   .top h2 {
     font-size: 16px;
     color: #f2f2f2; }
+  /* line 137, ../sass/screen.sass */
+  .top .nav {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0; }
+    /* line 143, ../sass/screen.sass */
+    .top .nav ul {
+      width: 100%;
+      height: 50px;
+      box-sizing: border-box;
+      background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0.5, #5b8b17), to(#73af1e));
+      background-image: -webkit-linear-gradient(#5b8b17 50%, #73af1e);
+      background-image: -moz-linear-gradient(#5b8b17 50%, #73af1e);
+      background-image: -o-linear-gradient(#5b8b17 50%, #73af1e);
+      background-image: linear-gradient(#5b8b17 50%, #73af1e); }
+      /* line 152, ../sass/screen.sass */
+      .top .nav ul li {
+        box-sizing: border-box;
+        float: left;
+        width: 50%;
+        margin: 0;
+        padding: 15px;
+        height: 100%;
+        background: none;
+        text-align: center;
+        color: #f2f2f2;
+        font-size: 18px;
+        cursor: pointer;
+        text-shadow: 1px 1px #406210;
+        border-right: 1px solid #669c1a;
+        border-left: 1px solid #4e7714; }
+        /* line 167, ../sass/screen.sass */
+        .top .nav ul li:first-child {
+          border-left: none; }
+        /* line 169, ../sass/screen.sass */
+        .top .nav ul li:last-child {
+          border-right: none; }
+        /* line 171, ../sass/screen.sass */
+        .top .nav ul li:hover {
+          color: #111111; }
+        /* line 173, ../sass/screen.sass */
+        .top .nav ul li a {
+          display: block;
+          line-height: 100%;
+          width: 100%; }
 
-/* line 142, ../sass/screen.sass */
-a.deletefolder_btn, a.homebtn, a.addfolder_btn, a.deleteimage_btn {
-  position: relative;
-  float: left;
-  top: 30px;
-  width: 85px;
-  height: 30px;
-  display: block;
-  text-indent: -4000px;
-  padding: 0;
-  cursor: pointer;
-  margin-left: 3%; }
-
-/* line 154, ../sass/screen.sass */
-a.homebtn {
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat; }
-
-/* line 156, ../sass/screen.sass */
-a.deletefolder_btn {
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/deletebtn.png) no-repeat; }
-
-/* line 158, ../sass/screen.sass */
-a.deleteimage_btn {
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/deleteimagebtn.png) no-repeat; }
-
-/* line 160, ../sass/screen.sass */
-a.addfolder_btn {
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/addbtn.png) no-repeat; }
-
-/* line 164, ../sass/screen.sass */
-.alert a.homebtn {
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat;
-  top: 130px;
-  left: 43%; }
-
-/* line 170, ../sass/screen.sass */
+/* line 178, ../sass/screen.sass */
 #bottom {
   position: fixed;
-  z-index: 1200;
+  z-index: 6000;
   bottom: 0;
   background: #111111;
-  width: 800px;
+  width: 100%;
   padding: 5px 0 0 0; }
-  @media (max-width: 800px) {
-    /* line 170, ../sass/screen.sass */
-    #bottom {
-      width: 100%; } }
 
-/* line 181, ../sass/screen.sass */
+/* line 186, ../sass/screen.sass */
+#bottomnav {
+  position: fixed;
+  z-index: 5000;
+  bottom: 0;
+  background: #5b8b17;
+  width: 100%;
+  padding: 0;
+  height: 60px;
+  box-sizing: border-box; }
+  /* line 195, ../sass/screen.sass */
+  #bottomnav nav.bottom {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    padding: 0; }
+    /* line 201, ../sass/screen.sass */
+    #bottomnav nav.bottom ul {
+      width: 100%;
+      height: 50px;
+      box-sizing: border-box;
+      background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0.5, #222222), to(#111111));
+      background-image: -webkit-linear-gradient(#222222 50%, #111111);
+      background-image: -moz-linear-gradient(#222222 50%, #111111);
+      background-image: -o-linear-gradient(#222222 50%, #111111);
+      background-image: linear-gradient(#222222 50%, #111111); }
+      /* line 210, ../sass/screen.sass */
+      #bottomnav nav.bottom ul li {
+        box-sizing: border-box;
+        float: left;
+        width: 50%;
+        margin: 0;
+        padding: 15px;
+        height: 100%;
+        background: none;
+        text-align: center;
+        color: #f2f2f2;
+        font-size: 18px;
+        cursor: pointer;
+        text-shadow: 1px 1px black;
+        border-right: 1px solid #222222;
+        border-left: 1px solid black; }
+        /* line 225, ../sass/screen.sass */
+        #bottomnav nav.bottom ul li:first-child {
+          border-left: none; }
+        /* line 227, ../sass/screen.sass */
+        #bottomnav nav.bottom ul li:last-child {
+          border-right: none; }
+        /* line 229, ../sass/screen.sass */
+        #bottomnav nav.bottom ul li:hover {
+          color: #5b8b17; }
+        /* line 231, ../sass/screen.sass */
+        #bottomnav nav.bottom ul li a {
+          display: block;
+          line-height: 100%;
+          width: 100%; }
+
+/* line 240, ../sass/screen.sass */
 .formWrapper {
   position: relative;
   width: 100%;
   padding: 0;
   margin: 0; }
-  /* line 186, ../sass/screen.sass */
+  /* line 245, ../sass/screen.sass */
   .formWrapper #newfolder, .formWrapper #deletefolder {
     width: 100%;
     margin: 0;
     padding: 0; }
 
-/* line 191, ../sass/screen.sass */
+/* line 250, ../sass/screen.sass */
 .projectFolders {
-  overflow: auto;
-  height: 600px;
+  overflow: scroll;
+  height: 300px;
   width: 100%;
-  padding-top: 75px;
-  padding-bottom: 100px; }
-  @media (max-width: 480px) {
-    /* line 191, ../sass/screen.sass */
-    .projectFolders {
-      height: 340px; } }
-  @media (max-width: 980px) {
-    /* line 191, ../sass/screen.sass */
-    .projectFolders {
-      height: 340px; } }
+  padding-top: 50px;
+  padding-bottom: 0; }
 
-/* line 202, ../sass/screen.sass */
+/* line 257, ../sass/screen.sass */
 .confirmClick {
   display: block;
   width: 100%;
@@ -317,7 +363,7 @@ a.addfolder_btn {
   color: #f2f2f2;
   text-decoration: none; }
 
-/* line 213, ../sass/screen.sass */
+/* line 268, ../sass/screen.sass */
 .open {
   position: absolute;
   padding: 0;
@@ -327,7 +373,7 @@ a.addfolder_btn {
   z-index: 100;
   top: 0;
   left: 0; }
-  /* line 222, ../sass/screen.sass */
+  /* line 277, ../sass/screen.sass */
   .open h1 {
     background: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat;
     width: 100%;
@@ -337,33 +383,143 @@ a.addfolder_btn {
     border-bottom: 1px solid #333333;
     color: #f2f2f2;
     text-align: center; }
-  /* line 231, ../sass/screen.sass */
+  /* line 286, ../sass/screen.sass */
   .open .textarea {
     position: relative;
-    top: 80px;
+    top: 50px;
     background: #f2f2f2;
     width: 100%;
     overflow: auto;
     height: 100%;
     padding: 3px;
     color: #222222;
-    height: 200px; }
-    /* line 241, ../sass/screen.sass */
+    min-height: 200px; }
+    /* line 296, ../sass/screen.sass */
     .open .textarea .edititable {
       position: absolute;
-      z-index: 100; }
-  /* line 244, ../sass/screen.sass */
-  .open .nav {
+      z-index: 100;
+      width: 800px;
+      height: 0px;
+      padding: 5px; }
+
+/* line 303, ../sass/screen.sass */
+#uploadimages {
+  position: relative;
+  top: 0;
+  left: 0;
+  background: #111111;
+  z-index: 120000;
+  width: 100%;
+  overflow: hidden;
+  padding: 10px;
+  margin: 0 auto; }
+  /* line 313, ../sass/screen.sass */
+  #uploadimages .uploadsection {
+    width: 350px;
+    overflow: hidden;
+    margin: 0 auto; }
+    /* line 317, ../sass/screen.sass */
+    #uploadimages .uploadsection .fileupload {
+      position: relative;
+      width: 300px;
+      float: left;
+      overflow: hidden; }
+      /* line 322, ../sass/screen.sass */
+      #uploadimages .uploadsection .fileupload form {
+        width: 100%;
+        height: 55px;
+        float: left; }
+  /* line 326, ../sass/screen.sass */
+  #uploadimages input[type="file"] {
+    background: #222222;
+    color: #f2f2f2;
+    border: none;
+    width: 100%;
+    color: #111111;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    float: left; }
+  /* line 334, ../sass/screen.sass */
+  #uploadimages input[type="submit"], #uploadimages .submitimage {
+    clear: both;
+    width: 100%;
+    background: #5b8b17;
+    color: #f2f2f2;
+    -webkit-border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -ms-border-radius: 0 !important;
+    -o-border-radius: 0 !important;
+    border-radius: 0 !important;
+    font-size: 14px;
+    text-align: center;
+    color: #111111;
+    height: 45px !important;
+    padding: 0;
+    margin: 5px auto; }
+
+/* line 348, ../sass/screen.sass */
+#imagefiles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 800;
+  color: #f2f2f2;
+  background: #111111; }
+  /* line 357, ../sass/screen.sass */
+  #imagefiles .imagenav {
     position: relative;
     width: 100%;
-    height: 35px;
-    top: 25px;
-    left: 0; }
-    /* line 250, ../sass/screen.sass */
-    .open .nav a.gohome, .open .nav a.addimagebtn, .open .nav a.viewimagesbtn {
+    height: 65px;
+    top: 0; }
+    /* line 362, ../sass/screen.sass */
+    #imagefiles .imagenav ul.imagenav {
+      width: 100%;
+      height: 45px;
+      background: none; }
+      /* line 366, ../sass/screen.sass */
+      #imagefiles .imagenav ul.imagenav li {
+        box-sizing: border-box;
+        background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0.5, #222222), to(#111111));
+        background-image: -webkit-linear-gradient(#222222 50%, #111111);
+        background-image: -moz-linear-gradient(#222222 50%, #111111);
+        background-image: -o-linear-gradient(#222222 50%, #111111);
+        background-image: linear-gradient(#222222 50%, #111111);
+        float: left;
+        width: 33%;
+        margin: 0;
+        padding: 10px 3px;
+        height: 100%;
+        text-align: center;
+        color: #f2f2f2;
+        font-size: 12px;
+        cursor: pointer;
+        text-shadow: 1px 1px black;
+        border-right: 1px solid #222222;
+        border-left: 1px solid black; }
+        /* line 385, ../sass/screen.sass */
+        #imagefiles .imagenav ul.imagenav li:first-child {
+          border-left: none; }
+        /* line 387, ../sass/screen.sass */
+        #imagefiles .imagenav ul.imagenav li:last-child {
+          border-right: none; }
+        /* line 389, ../sass/screen.sass */
+        #imagefiles .imagenav ul.imagenav li a {
+          display: block;
+          line-height: 100%;
+          width: 100%; }
+      /* line 393, ../sass/screen.sass */
+      #imagefiles .imagenav ul.imagenav .current {
+        color: #5b8b17 !important; }
+    /* line 396, ../sass/screen.sass */
+    #imagefiles .imagenav a.addimagebtn, #imagefiles .imagenav a.deleteimages, #imagefiles .imagenav a.viewimagesbtn {
       position: relative;
       cursor: pointer;
-      width: 85px;
+      width: 33%;
       height: 30px;
       display: block;
       color: #f2f2f2;
@@ -371,99 +527,106 @@ a.addfolder_btn {
       text-indent: -4000px;
       z-index: 10000;
       margin-left: 5%; }
-      @media (max-width: 480px) {
-        /* line 250, ../sass/screen.sass */
-        .open .nav a.gohome, .open .nav a.addimagebtn, .open .nav a.viewimagesbtn {
-          margin-left: 3%; } }
-    /* line 264, ../sass/screen.sass */
-    .open .nav a.gohome {
-      background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat; }
-    /* line 266, ../sass/screen.sass */
-    .open .nav a.addimagebtn {
-      background: url(http://www.travismichael.net/SeniorProject/assets/images/addimagebtn.png) no-repeat; }
-    /* line 268, ../sass/screen.sass */
-    .open .nav a.viewimagesbtn {
-      background: url(http://www.travismichael.net/SeniorProject/assets/images/viewimagesbtn.png) no-repeat; }
-    /* line 270, ../sass/screen.sass */
-    .open .nav .viewimagesbtnactive, .open .nav .addimagebtnactive {
-      border: 1px solid #f2f2f2;
-      -webkit-border-radius: 3px;
-      -moz-border-radius: 3px;
-      -ms-border-radius: 3px;
-      -o-border-radius: 3px;
-      border-radius: 3px; }
+    /* line 407, ../sass/screen.sass */
+    #imagefiles .imagenav .message {
+      position: absolute;
+      float: none;
+      clear: both;
+      background: #222222;
+      text-align: center;
+      padding: 2px 0;
+      width: 100%; }
+      /* line 415, ../sass/screen.sass */
+      #imagefiles .imagenav .message p.ms_imginserted {
+        color: #5b8b17 !important; }
+      /* line 417, ../sass/screen.sass */
+      #imagefiles .imagenav .message p.ms_error {
+        color: red !important; }
 
-/* line 274, ../sass/screen.sass */
-#uploadimages {
+/* line 421, ../sass/screen.sass */
+#viewimages {
   position: absolute;
-  top: 60px;
+  top: 65px;
   left: 0;
-  background: #111111;
-  z-index: 120000;
   width: 100%;
   height: 100%;
-  padding: 10px;
-  margin: 10px auto; }
-  /* line 284, ../sass/screen.sass */
-  #uploadimages h3 {
-    color: #f2f2f2;
-    font-size: 14px;
+  z-index: 100;
+  color: #f2f2f2;
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat;
+  overflow: auto;
+  width: 100%;
+  height: 100%; }
+  /* line 433, ../sass/screen.sass */
+  #viewimages h2 {
     text-align: center; }
-  /* line 288, ../sass/screen.sass */
-  #uploadimages p {
-    color: #555555;
-    font-size: 12px;
-    text-align: center;
-    margin: 5px; }
-  /* line 293, ../sass/screen.sass */
-  #uploadimages .fileupload {
-    position: relative;
-    width: 100%; }
-    /* line 296, ../sass/screen.sass */
-    #uploadimages .fileupload input[type="file"] {
-      background: #5b8b17;
-      border: none;
-      color: #111111;
-      width: 80%;
-      margin-left: 10%;
-      margin-right: 10%;
+  /* line 435, ../sass/screen.sass */
+  #viewimages ul {
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    margin-top: 20px; }
+    /* line 440, ../sass/screen.sass */
+    #viewimages ul li {
+      background: none;
       -webkit-border-radius: 3px;
       -moz-border-radius: 3px;
       -ms-border-radius: 3px;
       -o-border-radius: 3px;
-      border-radius: 3px; }
-    /* line 304, ../sass/screen.sass */
-    #uploadimages .fileupload input[type="submit"] {
-      width: 100%;
-      height: 35px;
-      background: #f2f2f2;
-      color: #111111; }
+      border-radius: 3px;
+      float: left;
+      margin: 5px;
+      width: 50px;
+      height: 50px;
+      overflow: hidden; }
+      /* line 448, ../sass/screen.sass */
+      #viewimages ul li img {
+        width: 100%;
+        height: 100%; }
 
-/* line 311, ../sass/screen.sass */
-#imagefiles {
+/* line 452, ../sass/screen.sass */
+#deletefolder {
   position: absolute;
-  top: 85%;
+  top: 45px;
   left: 0;
-  padding: 10px 0;
   width: 100%;
-  height: 200px;
+  height: 100%;
   z-index: 100;
   color: #f2f2f2;
-  background: #4b4b4b; }
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat;
+  overflow: auto; }
   @media (max-width: 480px) {
-    /* line 311, ../sass/screen.sass */
-    #imagefiles {
-      top: 70%; } }
-  /* line 323, ../sass/screen.sass */
-  #imagefiles ul {
+    /* line 452, ../sass/screen.sass */
+    #deletefolder {
+      height: 340px; } }
+  @media (max-width: 980px) {
+    /* line 452, ../sass/screen.sass */
+    #deletefolder {
+      height: 340px; } }
+
+/* line 467, ../sass/screen.sass */
+#deleteimagesmodule {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  color: #f2f2f2;
+  overflow: auto;
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat; }
+  /* line 477, ../sass/screen.sass */
+  #deleteimagesmodule ul.deleteimagesmodule {
     width: 100%;
-    height: 125px;
-    overflow: scroll;
-    background: #4b4b4b; }
-    /* line 328, ../sass/screen.sass */
-    #imagefiles ul li {
+    height: 100%;
+    padding: 0;
+    overflow: auto;
+    margin: 0; }
+    /* line 483, ../sass/screen.sass */
+    #deleteimagesmodule ul.deleteimagesmodule li {
+      position: relative;
       display: block;
       float: left;
+      overflow: hidden;
       width: 50px;
       height: 50px;
       background: #464646;
@@ -473,19 +636,26 @@ a.addfolder_btn {
       -ms-border-radius: 3px;
       -o-border-radius: 3px;
       border-radius: 3px;
-      margin: 10px;
+      margin: 5px;
       cursor: poniter; }
-      /* line 338, ../sass/screen.sass */
-      #imagefiles ul li img {
+      /* line 495, ../sass/screen.sass */
+      #deleteimagesmodule ul.deleteimagesmodule li img {
         width: 100%;
         height: 100%; }
-        @media (max-width: 480px) {
-          /* line 338, ../sass/screen.sass */
-          #imagefiles ul li img {
-            width: 80%;
-            height: 80%; } }
+      /* line 498, ../sass/screen.sass */
+      #deleteimagesmodule ul.deleteimagesmodule li a {
+        position: absolute;
+        text-indent: -2000px;
+        top: 0;
+        left: 0;
+        display: block;
+        width: 100%;
+        height: 100%; }
+      /* line 506, ../sass/screen.sass */
+      #deleteimagesmodule ul.deleteimagesmodule li h1 {
+        color: #f2f2f2; }
 
-/* line 349, ../sass/screen.sass */
+/* line 510, ../sass/screen.sass */
 .folder {
   position: relative;
   width: 25%;
@@ -506,12 +676,12 @@ a.addfolder_btn {
   float: left;
   color: #f2f2f2;
   cursor: pointer; }
-  /* line 365, ../sass/screen.sass */
+  /* line 526, ../sass/screen.sass */
   .folder:hover {
     background: #464646;
     color: #5b8b17; }
   @media (max-width: 480px) {
-    /* line 349, ../sass/screen.sass */
+    /* line 510, ../sass/screen.sass */
     .folder {
       height: 80px;
       width: 100%;
@@ -522,16 +692,16 @@ a.addfolder_btn {
       -ms-border-radius: 0;
       -o-border-radius: 0;
       border-radius: 0; } }
-  /* line 374, ../sass/screen.sass */
+  /* line 535, ../sass/screen.sass */
   .folder h1.deleteme {
     text-align: center;
     margin: 10px; }
-  /* line 377, ../sass/screen.sass */
+  /* line 538, ../sass/screen.sass */
   .folder h1.deleteme > a {
     color: #b52121;
     text-decoration: none; }
 
-/* line 382, ../sass/screen.sass */
+/* line 543, ../sass/screen.sass */
 .folder button {
   width: 100%;
   height: 80px;
@@ -545,19 +715,19 @@ a.addfolder_btn {
   border: none;
   outline: none; }
   @media (max-width: 480px) {
-    /* line 382, ../sass/screen.sass */
+    /* line 543, ../sass/screen.sass */
     .folder button {
       padding: 10px;
       font-size: 16px;
       height: 100%; } }
 
-/* line 399, ../sass/screen.sass */
+/* line 560, ../sass/screen.sass */
 .folder span:hover {
   background: #464646;
   color: #5b8b17; }
 
-/* line 408, ../sass/screen.sass */
-input[type="text"] {
+/* line 570, ../sass/screen.sass */
+.formWrapper form input[type="text"] {
   position: absolute;
   height: 55px;
   line-height: 55px;
@@ -571,9 +741,8 @@ input[type="text"] {
   border-left: none;
   autofocus: true;
   font-size: 16px; }
-
-/* line 423, ../sass/screen.sass */
-input[type="submit"], button {
+/* line 584, ../sass/screen.sass */
+.formWrapper form input[type="submit"] {
   background: #5b8b17;
   background-image: url(http://www.travismichael.net/SeniorProject/assets/images/greenbg.jpg);
   border: none;
@@ -587,31 +756,31 @@ input[type="submit"], button {
   -webkit-appearance: none;
   -webkit-border-radius: 0; }
   @media (max-width: 480px) {
-    /* line 423, ../sass/screen.sass */
-    input[type="submit"], button {
+    /* line 584, ../sass/screen.sass */
+    .formWrapper form input[type="submit"] {
       height: 80px;
       background: #5b8b17;
       color: #f2f2f2; } }
 
-/* line 441, ../sass/screen.sass */
+/* line 602, ../sass/screen.sass */
 input[type="submit"]:hover, button:hover {
   cursor: pointer; }
 
-/* line 443, ../sass/screen.sass */
+/* line 604, ../sass/screen.sass */
 input[placeholder] {
   text-align: center;
   padding: 2px;
   color: #333333; }
 
-/* line 452, ../sass/screen.sass */
+/* line 613, ../sass/screen.sass */
 input:focus::-webkit-input-placeholder {
   opacity: 0; }
 
-/* line 454, ../sass/screen.sass */
+/* line 615, ../sass/screen.sass */
 input:-ms-input-placeholder {
   opacity: 0; }
 
-/* line 458, ../sass/screen.sass */
+/* line 619, ../sass/screen.sass */
 label.error {
   float: none;
   color: #5b8b17;
@@ -621,83 +790,82 @@ label.error {
   width: 150px;
   display: block;
   margin: 0 auto; }
-  /* line 469, ../sass/screen.sass */
+  /* line 630, ../sass/screen.sass */
   label.error #cf_form {
     text-align: center; }
-    /* line 471, ../sass/screen.sass */
+    /* line 632, ../sass/screen.sass */
     label.error #cf_form * {
       font-family: Verdana;
       font-size: 96%; }
-    /* line 474, ../sass/screen.sass */
+    /* line 635, ../sass/screen.sass */
     label.error #cf_form p {
       clear: both; }
-    /* line 476, ../sass/screen.sass */
+    /* line 637, ../sass/screen.sass */
     label.error #cf_form em {
       font-weight: bold;
       padding-right: 1em;
       vertical-align: top; }
 
 /******************************************************************************************************************* */
-/* Image gallery and delete images styles */
+/* LOGIN/USERNAME AND PASSWORD  STYLING */
 /******************************************************************************************************************* */
-/* line 486, ../sass/screen.sass */
-.imagegallery {
-  overflow: auto;
-  height: 600px;
-  width: 100%;
-  padding-top: 75px;
-  padding-bottom: 100px; }
-  @media (max-width: 480px) {
-    /* line 486, ../sass/screen.sass */
-    .imagegallery {
-      height: 340px; } }
-  @media (max-width: 980px) {
-    /* line 486, ../sass/screen.sass */
-    .imagegallery {
-      height: 340px; } }
-
-/* line 499, ../sass/screen.sass */
-.image ul {
-  width: 100%;
-  height: 100%;
-  overflow: scroll;
-  background: #4b4b4b; }
-  /* line 504, ../sass/screen.sass */
-  .image ul li {
+/* line 647, ../sass/screen.sass */
+#login_form form {
+  width: 600px;
+  margin: 100px auto 0;
+  background-color: #111111;
+  padding: 10px;
+  overflow: hidden;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  border: 1px solid black; }
+  /* line 655, ../sass/screen.sass */
+  #login_form form p {
+    background-color: black;
     display: block;
-    float: left;
-    width: 80px;
-    height: 80px;
-    background: #464646;
-    border: 1px solid #4b4b4b;
+    margin: 5px;
+    padding: 5px;
+    overflow: hidden;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     -ms-border-radius: 3px;
     -o-border-radius: 3px;
-    border-radius: 3px;
+    border-radius: 3px; }
+  /* line 662, ../sass/screen.sass */
+  #login_form form label {
+    color: white;
+    display: block; }
+  /* line 665, ../sass/screen.sass */
+  #login_form form h2 {
+    color: white;
+    clear: both; }
+  /* line 669, ../sass/screen.sass */
+  #login_form form input[type="text"] {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 15px;
     margin: 10px;
-    cursor: poniter; }
-    /* line 514, ../sass/screen.sass */
-    .image ul li a.confirmClick {
-      display: block;
-      width: 100%;
-      text-align: center;
-      background: #b52121;
-      -webkit-border-radius: 3px;
-      -moz-border-radius: 3px;
-      -ms-border-radius: 3px;
-      -o-border-radius: 3px;
-      border-radius: 3px;
-      clear: both;
-      padding: 3px;
-      color: #f2f2f2;
-      text-decoration: none; }
-    /* line 524, ../sass/screen.sass */
-    .image ul li img {
-      width: 100%;
-      height: 100%; }
-      @media (max-width: 480px) {
-        /* line 524, ../sass/screen.sass */
-        .image ul li img {
-          width: 80%;
-          height: 80%; } }
+    color: white;
+    clear: none; }
+  /* line 679, ../sass/screen.sass */
+  #login_form form input[type="password"] {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 15px;
+    margin: 10px;
+    color: white;
+    clear: none; }
+  /* line 689, ../sass/screen.sass */
+  #login_form form input[type="submit"] {
+    width: 150px;
+    height: 35px;
+    margin: 10px;
+    color: white;
+    clear: none; }

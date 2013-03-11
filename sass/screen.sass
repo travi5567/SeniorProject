@@ -14,8 +14,7 @@ article, aside, details, div, figure, footer, header, hgroup, nav, section, summ
   display: block
 
 /* ================= MAKE HTML TAGS DISPLAY AS BLOCK ELEMENTS ===============================
-@import 'compass', 'compass/reset', 'compass/css3/opacity', 'compass/css3/border-radius', 'compass/css3/text-shadow', 'compass/css3/box-shadow', 'compass/css3/opacity'
-
+@import 'compass', 'compass/reset', 'compass/css3'
 /* COLOR VARIABLES */
 $blue: #217bb5
 $orange: #b57510
@@ -25,6 +24,9 @@ $white: #f2f2f2
 $grey: rgb(70,70,70)
 $light_grey: rgb(85,85,85)
 $dark_grey: rgb(75,75,75)
+
++font-face("nexabold", font-files("nexabold/Nexa_Free_Bold-webfont.ttf"))
++font-face("nexalight", font-files("nexalight/Nexa_Free_Light-webfont.ttf"))
 
 *
   @include box-sizing(border-box)
@@ -46,48 +48,57 @@ input[type="submit"]
 
 #container
   position: relative
-  width: 800px
+  width: 100%
   height: 100%
   overflow: hidden
   +box-shadow(0 0 5px 5px #444)
   +border-radius(3px)
   margin: 0 auto 0
   background: #111
-  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg)
+  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat
   @media (max-width: 480px)
     width: 100%
     border: none  
-.alert
-  text-align: center
-  background: #111
-  width: 80%
-  overflow: hidden
-  +border-radius(3px)
-  +box-shadow(0 0 5px 5px #000)
-  margin: 50px auto 20px
-  padding: 10px
-  h1,h2
+
+.togglenav.opened
+  color: $green
+  h1
+    color: $green !important
+
+
+.togglenav
+  width: 100%
+  height: 50px
+  background: $green
+  color: $white
+  padding: 3px
+  position: relative
+  bottom: 0
+  left: 0
+  z-index: 600
+  border-bottom: 2px solid #222
+  cursor: pointer
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0.5, #222), to(#111))
+  background-image: -webkit-linear-gradient(#222 50%, #111)
+  background-image: -moz-linear-gradient(#222 50%, #111)
+  background-image: -o-linear-gradient(#222 50%, #111)
+  background-image: linear-gradient(#222 50%, #111)
+  .uparrow, .downarrow
+    position: absolute
+    left: 0
+    width: 25px
+    height: 25px
+  .uparrow
+    background: url(http://www.travismichael.net/SeniorProject/assets/images/togglearrows.png) no-repeat top right
+  .downarrow
+    background: url(http://www.travismichael.net/SeniorProject/assets/images/togglearrows.png) no-repeat top left
+  h1
     color: $white
-    font-size: 16px
-    margin: 10px
-  h2
-    color: $pink
-    margin: 3px
-  ul li
-    color: $pink
-    clear: both
-  li
-    display: block
-    float: left
-    padding: 3px
-  hr
-    clear: both
-  a
-    color: $green
     text-align: center
-    text-decoration: none
-  span
-    color: $white
+    font-size: 20px !important
+    padding: 3px
+    float: none
+      font-weight: normal
 
 .navdescription
   position: absolute
@@ -111,71 +122,119 @@ input[type="submit"]
 .top
   position: fixed
   top: 0
-  z-index: 20
-  width: 800px
+  z-index: 500
+  width: 100%
   padding: 0
-  margin: 0
+  margin: -50px 0 0 0
   background: $green
-  overflow: hidden
-  height: 75px
+  height: 50px
   @media (max-width: 800px)
     width: 100%
-  
-  .topcenter
-    padding: 3px 30px
-    position: relative
-    @media (max-width: 800px)
-      padding: 3px 5px
-
-  h1
-    font-size: 24px
-    color: $white
-    width: 100px
-    float: right
-    padding: 5px
-    @media (max-width: 800px)
-      font-size: 18px
   h2
     font-size: 16px
     color: $white
 
-a.deletefolder_btn, a.homebtn, a.addfolder_btn, a.deleteimage_btn
-  position: relative
-  float: left
-  top: 30px
-  width: 85px
-  height: 30px
-  display: block
-  text-indent: -4000px
-  padding: 0
-  cursor: pointer
-  margin-left: 3%
-
-a.homebtn 
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat
-a.deletefolder_btn
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/deletebtn.png) no-repeat
-a.deleteimage_btn
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/deleteimagebtn.png) no-repeat
-a.addfolder_btn
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/addbtn.png) no-repeat
-
-
-.alert a.homebtn 
-  background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat
-  top: 130px
-  left: 43%
-
+  .nav
+    position: relative
+    width: 100%
+    height: 100%
+    top: 0
+    left: 0
+    ul
+      width: 100%
+      height: 50px
+      box-sizing: border-box
+      background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0.5, $green), to(#73af1e))
+      background-image: -webkit-linear-gradient($green 50%, #73af1e)
+      background-image: -moz-linear-gradient($green 50%, #73af1e)
+      background-image: -o-linear-gradient($green 50%, #73af1e)
+      background-image: linear-gradient($green 50%, #73af1e)
+      li
+        box-sizing: border-box
+        float: left
+        width: 50%
+        margin: 0
+        padding: 15px
+        height: 100%
+        background: none
+        text-align: center
+        color: $white
+        font-size: 18px
+        cursor: pointer
+        +text-shadow(1px 1px #406210)
+        border-right: 1px solid #669c1a
+        border-left: 1px solid #4e7714
+        &:first-child
+          border-left: none
+        &:last-child
+          border-right: none
+        &:hover
+          color: #111
+        a
+          display: block
+          line-height: 100%
+          width: 100%
 
 #bottom
   position: fixed
-  z-index: 1200
+  z-index: 6000
   bottom: 0
   background: #111
-  width: 800px
+  width: 100%
   padding: 5px 0 0 0
-  @media (max-width: 800px)
+
+#bottomnav
+  position: fixed
+  z-index: 5000
+  bottom: 0
+  background: $green
+  width: 100%
+  padding: 0
+  height: 60px
+  box-sizing: border-box
+  nav.bottom
+    position: relative
     width: 100%
+    height: 50px
+    margin: 0
+    padding: 0
+    ul
+      width: 100%
+      height: 50px
+      box-sizing: border-box
+      background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0.5, #222), to(#111))
+      background-image: -webkit-linear-gradient(#222 50%, #111)
+      background-image: -moz-linear-gradient(#222 50%, #111)
+      background-image: -o-linear-gradient(#222 50%, #111)
+      background-image: linear-gradient(#222 50%, #111)
+      li
+        box-sizing: border-box
+        float: left
+        width: 50%
+        margin: 0
+        padding: 15px
+        height: 100%
+        background: none
+        text-align: center
+        color: $white
+        font-size: 18px
+        cursor: pointer
+        +text-shadow(1px 1px #000)
+        border-right: 1px solid #222
+        border-left: 1px solid #000
+        &:first-child
+          border-left: none
+        &:last-child
+          border-right: none
+        &:hover
+          color: $green
+        a
+          display: block
+          line-height: 100%
+          width: 100%
+
+
+
 
 
 .formWrapper
@@ -189,15 +248,11 @@ a.addfolder_btn
     padding: 0
 
 .projectFolders
-  overflow: auto
-  height: 600px
+  overflow: scroll
+  height: 300px
   width: 100%
-  padding-top: 75px
-  padding-bottom: 100px
-  @media (max-width: 480px)
-    height: 340px
-  @media (max-width: 980px)
-    height: 340px
+  padding-top: 50px
+  padding-bottom: 0
 
 .confirmClick
   display: block
@@ -230,27 +285,118 @@ a.addfolder_btn
     text-align: center
   .textarea 
     position: relative
-    top: 80px
+    top: 50px
     background: #f2f2f2
     width: 100%
     overflow: auto
     height: 100%
     padding: 3px
     color: #222222
-    height: 200px
+    min-height: 200px
     .edititable
       position: absolute
       z-index: 100
-  .nav
+      width: 800px
+      height: 00px
+      padding: 5px
+
+#uploadimages
+  position: relative
+  top: 0
+  left: 0
+  background: #111
+  z-index: 120000
+  width: 100%
+  overflow: hidden
+  padding: 10px
+  margin: 0 auto
+  .uploadsection
+    width: 350px
+    overflow: hidden
+    margin: 0 auto
+    .fileupload
+      position: relative
+      width: 300px
+      float: left
+      overflow: hidden
+      form
+        width: 100%
+        height: 55px
+        float: left
+  input[type="file"]
+    background: #222
+    color: $white
+    border: none
+    width: 100%
+    color: #111
+    +border-radius(3px)
+    float: left
+  input[type="submit"], .submitimage
+    clear: both
+    width: 100%
+    background: $green
+    color: $white
+    +border-radius(0 !important)
+    font-size: 14px
+    text-align: center
+    color: #111
+    height: 45px !important
+    padding: 0
+    margin: 5px auto
+
+
+#imagefiles
+  position: absolute
+  top: 0
+  left: 0
+  width: 100%
+  height: 100%
+  z-index: 800
+  color: $white
+  background: #111
+  .imagenav
     position: relative
     width: 100%
-    height: 35px
-    top: 25px
-    left: 0
-    a.gohome, a.addimagebtn, a.viewimagesbtn
+    height: 65px
+    top: 0
+    ul.imagenav
+      width: 100%
+      height: 45px
+      background: none
+      li
+        box-sizing: border-box
+        background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(0.5, #222), to(#111))
+        background-image: -webkit-linear-gradient(#222 50%, #111)
+        background-image: -moz-linear-gradient(#222 50%, #111)
+        background-image: -o-linear-gradient(#222 50%, #111)
+        background-image: linear-gradient(#222 50%, #111)
+        float: left
+        width: 33%
+        margin: 0
+        padding: 10px 3px
+        height: 100%
+        text-align: center
+        color: $white
+        font-size: 12px
+        cursor: pointer
+        +text-shadow(1px 1px #000)
+        border-right: 1px solid #222
+        border-left: 1px solid #000
+        &:first-child
+          border-left: none
+        &:last-child
+          border-right: none
+        a
+          display: block
+          line-height: 100%
+          width: 100%
+      .current
+        color: $green !important
+
+    a.addimagebtn, a.deleteimages, a.viewimagesbtn
       position: relative
       cursor: pointer
-      width: 85px
+      width: 33%
       height: 30px
       display: block
       color: $white
@@ -258,92 +404,107 @@ a.addfolder_btn
       text-indent: -4000px
       z-index: 10000
       margin-left: 5%
-      @media (max-width: 480px)
-        margin-left: 3%
+    .message
+      position: absolute
+      float: none
+      clear: both
+      background: #222
+      text-align: center
+      padding: 2px 0
+      width: 100%
+      p.ms_imginserted
+        color: $green !important
+      p.ms_error
+        color: red !important
+  
 
-    a.gohome
-      background: url(http://www.travismichael.net/SeniorProject/assets/images/homebtn.png) no-repeat
-    a.addimagebtn
-      background: url(http://www.travismichael.net/SeniorProject/assets/images/addimagebtn.png) no-repeat
-    a.viewimagesbtn
-      background: url(http://www.travismichael.net/SeniorProject/assets/images/viewimagesbtn.png) no-repeat
-    .viewimagesbtnactive, .addimagebtnactive
-      border: 1px solid $white
-      +border-radius(3px)
-
-#uploadimages
+#viewimages
   position: absolute
-  top: 60px
+  top: 65px
   left: 0
-  background: #111
-  z-index: 120000
   width: 100%
   height: 100%
-  padding: 10px
-  margin: 10px auto
-  h3
-    color: $white
-    font-size: 14px
-    text-align: center
-  p
-    color: $light_grey
-    font-size: 12px
-    text-align: center
-    margin: 5px
-  .fileupload
-    position: relative
-    width: 100%
-    input[type="file"]
-      background: $green
-      border: none
-      color: #111
-      width: 80%
-      margin-left: 10%
-      margin-right: 10%
-      +border-radius(3px)
-    input[type="submit"]
-      width: 100%
-      height: 35px
-      background: $white
-      color: #111
-
-
-#imagefiles
-  position: absolute
-  top: 85%
-  left: 0
-  padding: 10px 0
-  width: 100%
-  height: 200px
   z-index: 100
   color: $white
-  background: $dark_grey
-  @media (max-width: 480px)
-    top: 70%
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat
+  overflow: auto
+  width: 100%
+  height: 100%
+  h2
+    text-align: center
   ul
     width: 100%
-    height: 125px
+    height: 100%
     overflow: scroll
-    background: $dark_grey
+    margin-top: 20px
     li
+      background: none
+      +border-radius(3px)
+      float: left
+      margin: 5px
+      width: 50px
+      height: 50px
+      overflow: hidden
+      img
+        width: 100%
+        height: 100%
+      
+#deletefolder
+  position: absolute
+  top: 45px
+  left: 0
+  width: 100%
+  height: 100%
+  z-index: 100
+  color: $white
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat
+  overflow: auto
+  @media (max-width: 480px)
+    height: 340px
+  @media (max-width: 980px)
+    height: 340px
+
+#deleteimagesmodule
+  position: absolute
+  top: 45px
+  left: 0
+  width: 100%
+  height: 100%
+  z-index: 100
+  color: $white
+  overflow: auto
+  background: url(http://www.travismichael.net/SeniorProject/assets/images/dark_leather.jpg) repeat
+  ul.deleteimagesmodule
+    width: 100%
+    height: 100%
+    padding: 0
+    overflow: auto
+    margin: 0
+    li
+      position: relative
       display: block
       float: left
+      overflow: hidden
       width: 50px
       height: 50px
       background: $grey
       border: 1px solid $dark_grey
       +border-radius(3px)
-      margin: 10px
+      margin: 5px
       cursor: poniter
       img
         width: 100%
         height: 100%
-        @media (max-width: 480px)
-          width: 80%
-          height: 80%
-      
-    
-
+      a
+        position: absolute
+        text-indent: -2000px
+        top: 0
+        left: 0
+        display: block
+        width: 100%
+        height: 100%
+      h1
+        color: $white
 
 
 .folder
@@ -405,39 +566,39 @@ a.addfolder_btn
   
 
 
-input[type="text"]
-  position: absolute
-  height: 55px
-  line-height: 55px
-  top: -50px
-  background: #000
-  width: 100%
-  color: $white
-  border-top: 2px solid $green
-  border-right: none
-  border-bottom: none
-  border-left: none
-  autofocus: true
-  font-size: 16px
-
-input[type="submit"], button
-  background: $green
-  background-image: url(http://www.travismichael.net/SeniorProject/assets/images/greenbg.jpg)
-  border: none
-  padding: 10px 2px 
-  margin: 0
-  width: 100%
-  height: 80px
-  color: $white
-  font-size: 16px
-  cursor: pointer
-  -webkit-appearance: none
-  -webkit-border-radius: 0
-  @media (max-width: 480px)
-    height: 80px
-    background: $green
+.formWrapper form 
+  input[type="text"]
+    position: absolute
+    height: 55px
+    line-height: 55px
+    top: -50px
+    background: #000
+    width: 100%
     color: $white
- 
+    border-top: 2px solid $green
+    border-right: none
+    border-bottom: none
+    border-left: none
+    autofocus: true
+    font-size: 16px
+  input[type="submit"]
+    background: $green
+    background-image: url(http://www.travismichael.net/SeniorProject/assets/images/greenbg.jpg)
+    border: none
+    padding: 10px 2px 
+    margin: 0
+    width: 100%
+    height: 80px
+    color: $white
+    font-size: 16px
+    cursor: pointer
+    -webkit-appearance: none
+    -webkit-border-radius: 0
+    @media (max-width: 480px)
+      height: 80px
+      background: $green
+      color: $white
+   
 input[type="submit"]:hover, button:hover
   cursor: pointer
 input[placeholder]
@@ -477,58 +638,61 @@ label.error
       font-weight: bold 
       padding-right: 1em 
       vertical-align: top
-  
+
+
 /*********************************************************************************************************************/
-/* Image gallery and delete images styles */
+/* LOGIN/USERNAME AND PASSWORD  STYLING */
 /*********************************************************************************************************************/
 
-
-.imagegallery
-  overflow: auto
-  height: 600px
-  width: 100%
-  padding-top: 75px
-  padding-bottom: 100px
-  @media (max-width: 480px)
-    height: 340px
-  @media (max-width: 980px)
-    height: 340px
-
-
-.image
-  ul
-    width: 100%
-    height: 100%
-    overflow: scroll
-    background: $dark_grey
-    li
-      display: block
-      float: left
-      width: 80px
-      height: 80px
-      background: $grey
-      border: 1px solid $dark_grey
-      +border-radius(3px)
-      margin: 10px
-      cursor: poniter
-      a.confirmClick
-        display: block
-        width: 100%
-        text-align: center
-        background: $pink
-        +border-radius(3px)
-        clear: both
-        padding: 3px
-        color: $white
-        text-decoration: none
-      img
-        width: 100%
-        height: 100%
-        @media (max-width: 480px)
-          width: 80%
-          height: 80%
-
-
+#login_form form
+  width: 600px
+  margin: 100px auto 0
+  background-color: #111
+  padding: 10px
+  overflow: hidden
+  +border-radius(3px)
+  border: 1px solid #000
+  p 
+    background-color: #000
+    display: block
+    margin: 5px
+    padding: 5px
+    overflow: hidden
+    +border-radius(3px)
+  label 
+    color: #ffffff
+    display: block
+  h2 
+    color: #ffffff
+    float:left
+    clear: both
+  input[type="text"] 
+    position: relative
+    top: 0
+    left: 0
+    width: 200px
+    height: 15px 
+    margin: 10px 
+    color: #ffffff
+    float:left 
+    clear: none
+  input[type="password"] 
+    position: relative 
+    top: 0 
+    left: 0 
+    width: 200px 
+    height: 15px
+    margin: 10px
+    color: #ffffff
+    float:left
+    clear: none
+  input[type="submit"] 
+    width: 150px
+    height: 35px
+    margin: 10px
+    color: #ffffff
+    float:left
+    clear: none
 
 
 
